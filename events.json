@@ -1,77 +1,5 @@
 [
   {
-    "card_type": "in-person",
-    "badge_text": "In-Person",
-    "date_str": "2026-07-22",
-    "utc_datetime": "2026-07-22T18:00:00+08:00",
-    "event_url": "https://www.meetup.com/ruby-phil/events/315686914/",
-    "title": "PhRUG - The Rubies in them there hills",
-    "group_name": "Philippine Ruby Users Group",
-    "data_topics": "ruby,open-source,web-development,software-development,web-technology",
-    "data_topic_names": "Ruby,Open Source,Web Development,Software Development,Web Technology",
-    "language": "English"
-  },
-  {
-    "card_type": "in-person",
-    "badge_text": "In-Person",
-    "date_str": "2026-07-22",
-    "utc_datetime": "2026-07-22T19:00:00+09:00",
-    "event_url": "https://www.meetup.com/tokyopython/events/315066774/",
-    "title": "Tokyo Python Side Project Showcase",
-    "group_name": "Tokyo Python",
-    "data_topics": "python,knowledge-sharing,computer-programming,software-development,tokyo",
-    "data_topic_names": "Python,Knowledge Sharing,Computer Programming,Software Development,Tokyo",
-    "language": "English"
-  },
-  {
-    "card_type": "in-person",
-    "badge_text": "In-Person",
-    "date_str": "2026-07-22",
-    "utc_datetime": "2026-07-22T19:30:00+09:00",
-    "event_url": "https://www.meetup.com/osaka-kobe-learning-strategies-meetup-group/events/315706188/",
-    "title": "【梅田・水曜夜】🎉 First 3 Native  FREE! | Native & Japanese Game Night 🇯🇵🇬🇧🇺🇸🇨🇦",
-    "group_name": "笑って学べる英会話  Kobe,Osaka,Online for (Natives&JP)",
-    "data_topics": "english,language-exchange",
-    "data_topic_names": "English,Language Exchange",
-    "language": "Japanese"
-  },
-  {
-    "card_type": "in-person",
-    "badge_text": "In-Person",
-    "date_str": "2026-07-22",
-    "utc_datetime": "2026-07-22T19:00:00+08:00",
-    "event_url": "https://www.meetup.com/pythonhug/events/315513341/",
-    "title": "SyntaxError",
-    "group_name": "Python Hsinchu User Group",
-    "data_topics": "science,python,web-development,technology,engineering,computer-programming,mobile-technology,information-technology,data-analytics",
-    "data_topic_names": "Science,Python,Web Development,Technology,Engineering,Computer Programming,Mobile Technology,Information Technology,Data Analytics",
-    "language": "English"
-  },
-  {
-    "card_type": "in-person",
-    "badge_text": "In-Person",
-    "date_str": "2026-07-22",
-    "utc_datetime": "2026-07-22T19:30:00+08:00",
-    "event_url": "https://www.meetup.com/hong-kong-building-a-compiler-group/events/315513461/",
-    "title": "Compilers, FPGA, and other low level stuff: Weekly Meetup",
-    "group_name": "Hong Kong Compiler engineering group",
-    "data_topics": "programming-languages,functional-programming,software-architecture,computer-programming,compilers,software-development,ocaml-programming",
-    "data_topic_names": "Programming Languages,Functional Programming,Software Architecture,Computer Programming,Compilers,Software Development,OCaml Programming",
-    "language": "English"
-  },
-  {
-    "card_type": "online",
-    "badge_text": "Online",
-    "date_str": "2026-07-22",
-    "utc_datetime": "2026-07-22T15:00:00+03:00",
-    "event_url": "https://www.meetup.com/maakaf/events/315396211/",
-    "title": "הופכים קפה לקוד עם דוד מאיר-לוי 🚀",
-    "group_name": "מעקף - קהילת קוד פתוח ישראלית",
-    "data_topics": "open-source,new-technology,computer-programming,data-science,software-development,web-technology,big-data,data-analytics",
-    "data_topic_names": "Open Source,New Technology,Computer Programming,Data Science,Software Development,Web Technology,Big Data,Data Analytics",
-    "language": "Hebrew"
-  },
-  {
     "card_type": "online",
     "badge_text": "Online",
     "date_str": "2026-07-22",
@@ -276,6 +204,18 @@
     "language": "English"
   },
   {
+    "card_type": "in-person",
+    "badge_text": "In-Person",
+    "date_str": "2026-07-23",
+    "utc_datetime": "2026-07-23T17:30:00+02:00",
+    "event_url": "https://www.meetup.com/nx-wroclaw/events/315396248/",
+    "title": "🌊 Nx Wrocław #3 – 23.7.2026 🚀",
+    "group_name": "Nx Wroclaw",
+    "data_topics": "web-performance,software-architecture,web-programming,software-engineering",
+    "data_topic_names": "Web Performance,Software Architecture,Web Programming,Software Engineering",
+    "language": "English"
+  },
+  {
     "card_type": "online",
     "badge_text": "Online",
     "date_str": "2026-07-23",
@@ -340,6 +280,18 @@
     "badge_text": "In-Person",
     "date_str": "2026-07-23",
     "utc_datetime": "2026-07-23T18:30:00+02:00",
+    "event_url": "https://www.meetup.com/papers-we-love-zurich/events/315271875/",
+    "title": "Propositions as Types : An Introduction to Program Synthesis",
+    "group_name": "Papers We Love - Zurich",
+    "data_topics": "programming-languages,logic,computer-programming,type-systems,formal-methods",
+    "data_topic_names": "Programming Languages,Logic,Computer Programming,Type Systems,Formal Methods",
+    "language": "English"
+  },
+  {
+    "card_type": "in-person",
+    "badge_text": "In-Person",
+    "date_str": "2026-07-23",
+    "utc_datetime": "2026-07-23T18:30:00+02:00",
     "event_url": "https://www.meetup.com/python-valencia-meetup/events/315711226/",
     "title": "PyBeers",
     "group_name": "Python Valencia",
@@ -381,6 +333,18 @@
     "group_name": "Platform Engineers Tel Aviv",
     "data_topics": "open-source,cloud-computing,continuous-integration,configuration-management,devops,infrastructure-as-code,continuous-delivery,continuous-deployment,docker,kubernetes,devops-automation,containers",
     "data_topic_names": "Open Source,Cloud Computing,Continuous Integration,Configuration Management,DevOps,Infrastructure as Code,Continuous Delivery,Continuous Deployment,Docker,Kubernetes,DevOps Automation,Containers",
+    "language": "English"
+  },
+  {
+    "card_type": "in-person",
+    "badge_text": "In-Person",
+    "date_str": "2026-07-23",
+    "utc_datetime": "2026-07-23T18:00:00+01:00",
+    "event_url": "https://www.meetup.com/pydata-manchester/events/315476636/",
+    "title": "PyDataMCR Code Night - July",
+    "group_name": "PyData Manchester",
+    "data_topics": "python,data-science,machine-learning,big-data,data-analytics",
+    "data_topic_names": "Python,Data Science,Machine Learning,Big Data,Data Analytics",
     "language": "English"
   },
   {
@@ -507,6 +471,18 @@
     "card_type": "in-person",
     "badge_text": "In-Person",
     "date_str": "2026-07-24",
+    "utc_datetime": "2026-07-24T09:30:00+05:30",
+    "event_url": "https://www.meetup.com/colombo-pydata-meetup-group/events/315269491/",
+    "title": "PyData & PyCon Yerevan 2026",
+    "group_name": "PyData Sri Lanka",
+    "data_topics": "python,data-visualization,data-science,machine-learning,data-management",
+    "data_topic_names": "Python,Data Visualization,Data Science,Machine Learning,Data Management",
+    "language": "English"
+  },
+  {
+    "card_type": "in-person",
+    "badge_text": "In-Person",
+    "date_str": "2026-07-24",
     "utc_datetime": "2026-07-24T12:00:00+08:00",
     "event_url": "https://www.meetup.com/data-engineering-pilipinas/events/315269476/",
     "title": "PyData & PyCon Yerevan 2026",
@@ -519,10 +495,70 @@
     "card_type": "in-person",
     "badge_text": "In-Person",
     "date_str": "2026-07-24",
+    "utc_datetime": "2026-07-24T06:00:00+02:00",
+    "event_url": "https://www.meetup.com/datenanalyse-dortmund-pydata/events/315269480/",
+    "title": "PyData & PyCon Yerevan 2026",
+    "group_name": "Datenanalyse, Data Science und Statistik - PyData Dortmund",
+    "data_topics": "python,data-visualization,data-science,machine-learning,data-management",
+    "data_topic_names": "Python,Data Visualization,Data Science,Machine Learning,Data Management",
+    "language": "English"
+  },
+  {
+    "card_type": "in-person",
+    "badge_text": "In-Person",
+    "date_str": "2026-07-24",
+    "utc_datetime": "2026-07-24T07:00:00+03:00",
+    "event_url": "https://www.meetup.com/kuwait-pydata-meetup-group/events/315269492/",
+    "title": "PyData & PyCon Yerevan 2026",
+    "group_name": "PyData Kuwait",
+    "data_topics": "python,data-visualization,data-science,machine-learning,data-management",
+    "data_topic_names": "Python,Data Visualization,Data Science,Machine Learning,Data Management",
+    "language": "English"
+  },
+  {
+    "card_type": "in-person",
+    "badge_text": "In-Person",
+    "date_str": "2026-07-24",
+    "utc_datetime": "2026-07-24T05:00:00+01:00",
+    "event_url": "https://www.meetup.com/meetup-group-djhiglzd/events/315269471/",
+    "title": "PyData & PyCon Yerevan 2026",
+    "group_name": "PyData Glasgow",
+    "data_topics": "python,data-visualization,data-science,machine-learning,data-management",
+    "data_topic_names": "Python,Data Visualization,Data Science,Machine Learning,Data Management",
+    "language": "English"
+  },
+  {
+    "card_type": "in-person",
+    "badge_text": "In-Person",
+    "date_str": "2026-07-24",
+    "utc_datetime": "2026-07-24T00:00:00-04:00",
+    "event_url": "https://www.meetup.com/miami-machine-learning-meetup/events/315269527/",
+    "title": "PyData & PyCon Yerevan 2026",
+    "group_name": "PyData Miami / Machine Learning Meetup",
+    "data_topics": "python,data-visualization,data-science,machine-learning,data-management",
+    "data_topic_names": "Python,Data Visualization,Data Science,Machine Learning,Data Management",
+    "language": "English"
+  },
+  {
+    "card_type": "in-person",
+    "badge_text": "In-Person",
+    "date_str": "2026-07-24",
     "utc_datetime": "2026-07-24T00:00:00-04:00",
     "event_url": "https://www.meetup.com/pydata-ann-arbor/events/315269541/",
     "title": "PyData & PyCon Yerevan 2026",
     "group_name": "PyData Ann Arbor",
+    "data_topics": "python,data-visualization,data-science,machine-learning,data-management",
+    "data_topic_names": "Python,Data Visualization,Data Science,Machine Learning,Data Management",
+    "language": "English"
+  },
+  {
+    "card_type": "in-person",
+    "badge_text": "In-Person",
+    "date_str": "2026-07-24",
+    "utc_datetime": "2026-07-24T07:00:00+03:00",
+    "event_url": "https://www.meetup.com/pydata-athens/events/315269534/",
+    "title": "PyData & PyCon Yerevan 2026",
+    "group_name": "PyData Athens",
     "data_topics": "python,data-visualization,data-science,machine-learning,data-management",
     "data_topic_names": "Python,Data Visualization,Data Science,Machine Learning,Data Management",
     "language": "English"
@@ -663,6 +699,30 @@
     "card_type": "in-person",
     "badge_text": "In-Person",
     "date_str": "2026-07-24",
+    "utc_datetime": "2026-07-24T09:30:00+05:30",
+    "event_url": "https://www.meetup.com/pydata-chennai/events/315269538/",
+    "title": "PyData & PyCon Yerevan 2026",
+    "group_name": "PyData Chennai",
+    "data_topics": "python,data-visualization,data-science,machine-learning,data-management",
+    "data_topic_names": "Python,Data Visualization,Data Science,Machine Learning,Data Management",
+    "language": "English"
+  },
+  {
+    "card_type": "in-person",
+    "badge_text": "In-Person",
+    "date_str": "2026-07-24",
+    "utc_datetime": "2026-07-24T11:00:00+07:00",
+    "event_url": "https://www.meetup.com/pydata-chiang-mai/events/315269444/",
+    "title": "PyData & PyCon Yerevan 2026",
+    "group_name": "PyData Chiang Mai",
+    "data_topics": "python,data-visualization,data-science,machine-learning,data-management",
+    "data_topic_names": "Python,Data Visualization,Data Science,Machine Learning,Data Management",
+    "language": "English"
+  },
+  {
+    "card_type": "in-person",
+    "badge_text": "In-Person",
+    "date_str": "2026-07-24",
     "utc_datetime": "2026-07-24T07:00:00+03:00",
     "event_url": "https://www.meetup.com/pydata-cluj-napoca/events/315269530/",
     "title": "PyData & PyCon Yerevan 2026",
@@ -794,11 +854,35 @@
   {
     "card_type": "in-person",
     "badge_text": "In-Person",
+    "date_str": "2026-07-24",
+    "utc_datetime": "2026-07-24T12:00:00+08:00",
+    "event_url": "https://www.meetup.com/pydata-hong-kong/events/315269511/",
+    "title": "PyData & PyCon Yerevan 2026",
+    "group_name": "PyData Hong Kong",
+    "data_topics": "python,data-visualization,data-science,machine-learning,data-management",
+    "data_topic_names": "Python,Data Visualization,Data Science,Machine Learning,Data Management",
+    "language": "English"
+  },
+  {
+    "card_type": "in-person",
+    "badge_text": "In-Person",
     "date_str": "2026-07-23",
     "utc_datetime": "2026-07-23T23:00:00-05:00",
     "event_url": "https://www.meetup.com/pydata-houston/events/315269537/",
     "title": "PyData & PyCon Yerevan 2026",
     "group_name": "PyData Houston",
+    "data_topics": "python,data-visualization,data-science,machine-learning,data-management",
+    "data_topic_names": "Python,Data Visualization,Data Science,Machine Learning,Data Management",
+    "language": "English"
+  },
+  {
+    "card_type": "in-person",
+    "badge_text": "In-Person",
+    "date_str": "2026-07-24",
+    "utc_datetime": "2026-07-24T05:00:00+01:00",
+    "event_url": "https://www.meetup.com/pydata-huddersfield/events/315269466/",
+    "title": "PyData & PyCon Yerevan 2026",
+    "group_name": "PyData Huddersfield",
     "data_topics": "python,data-visualization,data-science,machine-learning,data-management",
     "data_topic_names": "Python,Data Visualization,Data Science,Machine Learning,Data Management",
     "language": "English"
@@ -855,10 +939,94 @@
     "card_type": "in-person",
     "badge_text": "In-Person",
     "date_str": "2026-07-24",
+    "utc_datetime": "2026-07-24T09:45:00+05:45",
+    "event_url": "https://www.meetup.com/pydata-kathmandu/events/315269465/",
+    "title": "PyData & PyCon Yerevan 2026",
+    "group_name": "PyData Kathmandu",
+    "data_topics": "python,data-visualization,data-science,machine-learning,data-management",
+    "data_topic_names": "Python,Data Visualization,Data Science,Machine Learning,Data Management",
+    "language": "English"
+  },
+  {
+    "card_type": "in-person",
+    "badge_text": "In-Person",
+    "date_str": "2026-07-24",
+    "utc_datetime": "2026-07-24T05:00:00+01:00",
+    "event_url": "https://www.meetup.com/pydata-katsina/events/315269461/",
+    "title": "PyData & PyCon Yerevan 2026",
+    "group_name": "PyData Katsina",
+    "data_topics": "python,data-visualization,data-science,machine-learning,data-management",
+    "data_topic_names": "Python,Data Visualization,Data Science,Machine Learning,Data Management",
+    "language": "English"
+  },
+  {
+    "card_type": "in-person",
+    "badge_text": "In-Person",
+    "date_str": "2026-07-24",
+    "utc_datetime": "2026-07-24T05:00:00+01:00",
+    "event_url": "https://www.meetup.com/pydata-kent/events/315269462/",
+    "title": "PyData & PyCon Yerevan 2026",
+    "group_name": "PyData Kent",
+    "data_topics": "python,data-visualization,data-science,machine-learning,data-management",
+    "data_topic_names": "Python,Data Visualization,Data Science,Machine Learning,Data Management",
+    "language": "English"
+  },
+  {
+    "card_type": "in-person",
+    "badge_text": "In-Person",
+    "date_str": "2026-07-24",
+    "utc_datetime": "2026-07-24T05:00:00+01:00",
+    "event_url": "https://www.meetup.com/pydata-lisbon/events/315269523/",
+    "title": "PyData & PyCon Yerevan 2026",
+    "group_name": "PyData Lisbon",
+    "data_topics": "python,data-visualization,data-science,machine-learning,data-management",
+    "data_topic_names": "Python,Data Visualization,Data Science,Machine Learning,Data Management",
+    "language": "English"
+  },
+  {
+    "card_type": "in-person",
+    "badge_text": "In-Person",
+    "date_str": "2026-07-24",
     "utc_datetime": "2026-07-24T05:00:00+01:00",
     "event_url": "https://www.meetup.com/pydata-london-meetup/events/315269445/",
     "title": "PyData & PyCon Yerevan 2026",
     "group_name": "PyData London Meetup",
+    "data_topics": "python,data-visualization,data-science,machine-learning,data-management",
+    "data_topic_names": "Python,Data Visualization,Data Science,Machine Learning,Data Management",
+    "language": "English"
+  },
+  {
+    "card_type": "in-person",
+    "badge_text": "In-Person",
+    "date_str": "2026-07-24",
+    "utc_datetime": "2026-07-24T06:00:00+02:00",
+    "event_url": "https://www.meetup.com/pydata-madrid/events/315269543/",
+    "title": "PyData & PyCon Yerevan 2026",
+    "group_name": "PyData Madrid",
+    "data_topics": "python,data-visualization,data-science,machine-learning,data-management",
+    "data_topic_names": "Python,Data Visualization,Data Science,Machine Learning,Data Management",
+    "language": "English"
+  },
+  {
+    "card_type": "in-person",
+    "badge_text": "In-Person",
+    "date_str": "2026-07-24",
+    "utc_datetime": "2026-07-24T06:00:00+02:00",
+    "event_url": "https://www.meetup.com/pydata-malaga/events/315269484/",
+    "title": "PyData & PyCon Yerevan 2026",
+    "group_name": "PyData Malaga",
+    "data_topics": "python,data-visualization,data-science,machine-learning,data-management",
+    "data_topic_names": "Python,Data Visualization,Data Science,Machine Learning,Data Management",
+    "language": "English"
+  },
+  {
+    "card_type": "in-person",
+    "badge_text": "In-Person",
+    "date_str": "2026-07-24",
+    "utc_datetime": "2026-07-24T05:00:00+01:00",
+    "event_url": "https://www.meetup.com/pydata-manchester/events/315269474/",
+    "title": "PyData & PyCon Yerevan 2026",
+    "group_name": "PyData Manchester",
     "data_topics": "python,data-visualization,data-science,machine-learning,data-management",
     "data_topic_names": "Python,Data Visualization,Data Science,Machine Learning,Data Management",
     "language": "English"
@@ -879,10 +1047,34 @@
     "card_type": "in-person",
     "badge_text": "In-Person",
     "date_str": "2026-07-24",
+    "utc_datetime": "2026-07-24T05:00:00+01:00",
+    "event_url": "https://www.meetup.com/pydata-milton-keynes/events/315269456/",
+    "title": "PyData & PyCon Yerevan 2026",
+    "group_name": "PyData Milton Keynes",
+    "data_topics": "python,data-visualization,data-science,machine-learning,data-management",
+    "data_topic_names": "Python,Data Visualization,Data Science,Machine Learning,Data Management",
+    "language": "English"
+  },
+  {
+    "card_type": "in-person",
+    "badge_text": "In-Person",
+    "date_str": "2026-07-24",
     "utc_datetime": "2026-07-24T00:00:00-04:00",
     "event_url": "https://www.meetup.com/pydata-mtl/events/315269513/",
     "title": "PyData & PyCon Yerevan 2026",
     "group_name": "PyData Montreal",
+    "data_topics": "python,data-visualization,data-science,machine-learning,data-management",
+    "data_topic_names": "Python,Data Visualization,Data Science,Machine Learning,Data Management",
+    "language": "English"
+  },
+  {
+    "card_type": "in-person",
+    "badge_text": "In-Person",
+    "date_str": "2026-07-24",
+    "utc_datetime": "2026-07-24T07:00:00+03:00",
+    "event_url": "https://www.meetup.com/pydata-nairobi/events/315269540/",
+    "title": "PyData & PyCon Yerevan 2026",
+    "group_name": "PyData Nairobi",
     "data_topics": "python,data-visualization,data-science,machine-learning,data-management",
     "data_topic_names": "Python,Data Visualization,Data Science,Machine Learning,Data Management",
     "language": "English"
@@ -902,6 +1094,18 @@
   {
     "card_type": "in-person",
     "badge_text": "In-Person",
+    "date_str": "2026-07-23",
+    "utc_datetime": "2026-07-23T22:00:00-06:00",
+    "event_url": "https://www.meetup.com/pydata-northern-utah/events/315269487/",
+    "title": "PyData & PyCon Yerevan 2026",
+    "group_name": "PyData Northern Utah",
+    "data_topics": "python,data-visualization,data-science,machine-learning,data-management",
+    "data_topic_names": "Python,Data Visualization,Data Science,Machine Learning,Data Management",
+    "language": "English"
+  },
+  {
+    "card_type": "in-person",
+    "badge_text": "In-Person",
     "date_str": "2026-07-24",
     "utc_datetime": "2026-07-24T09:30:00+05:30",
     "event_url": "https://www.meetup.com/pydata-omr/events/315269460/",
@@ -914,11 +1118,35 @@
   {
     "card_type": "in-person",
     "badge_text": "In-Person",
+    "date_str": "2026-07-24",
+    "utc_datetime": "2026-07-24T00:00:00-04:00",
+    "event_url": "https://www.meetup.com/pydata-para/events/315269452/",
+    "title": "PyData & PyCon Yerevan 2026",
+    "group_name": "PyData Pará",
+    "data_topics": "python,data-visualization,data-science,machine-learning,data-management",
+    "data_topic_names": "Python,Data Visualization,Data Science,Machine Learning,Data Management",
+    "language": "English"
+  },
+  {
+    "card_type": "in-person",
+    "badge_text": "In-Person",
     "date_str": "2026-07-23",
     "utc_datetime": "2026-07-23T21:00:00-07:00",
     "event_url": "https://www.meetup.com/pydata-pdx/events/315269524/",
     "title": "PyData & PyCon Yerevan 2026",
     "group_name": "PyData PDX",
+    "data_topics": "python,data-visualization,data-science,machine-learning,data-management",
+    "data_topic_names": "Python,Data Visualization,Data Science,Machine Learning,Data Management",
+    "language": "English"
+  },
+  {
+    "card_type": "in-person",
+    "badge_text": "In-Person",
+    "date_str": "2026-07-24",
+    "utc_datetime": "2026-07-24T06:00:00+02:00",
+    "event_url": "https://www.meetup.com/pydata-prague/events/315269550/",
+    "title": "PyData & PyCon Yerevan 2026",
+    "group_name": "PyData Prague",
     "data_topics": "python,data-visualization,data-science,machine-learning,data-management",
     "data_topic_names": "Python,Data Visualization,Data Science,Machine Learning,Data Management",
     "language": "English"
@@ -967,6 +1195,18 @@
     "event_url": "https://www.meetup.com/pydata-roma-capitale/events/315269464/",
     "title": "PyData & PyCon Yerevan 2026",
     "group_name": "PyData Roma Capitale",
+    "data_topics": "python,data-visualization,data-science,machine-learning,data-management",
+    "data_topic_names": "Python,Data Visualization,Data Science,Machine Learning,Data Management",
+    "language": "English"
+  },
+  {
+    "card_type": "in-person",
+    "badge_text": "In-Person",
+    "date_str": "2026-07-23",
+    "utc_datetime": "2026-07-23T21:00:00-07:00",
+    "event_url": "https://www.meetup.com/pydata-san-francisco/events/315269542/",
+    "title": "PyData & PyCon Yerevan 2026",
+    "group_name": "PyData San Francisco Bay Area",
     "data_topics": "python,data-visualization,data-science,machine-learning,data-management",
     "data_topic_names": "Python,Data Visualization,Data Science,Machine Learning,Data Management",
     "language": "English"
@@ -1023,6 +1263,18 @@
     "card_type": "in-person",
     "badge_text": "In-Person",
     "date_str": "2026-07-24",
+    "utc_datetime": "2026-07-24T06:00:00+02:00",
+    "event_url": "https://www.meetup.com/pydata-slovenia-meetup/events/315269546/",
+    "title": "PyData & PyCon Yerevan 2026",
+    "group_name": "PyData Ljubljana Meetup",
+    "data_topics": "python,data-visualization,data-science,machine-learning,data-management",
+    "data_topic_names": "Python,Data Visualization,Data Science,Machine Learning,Data Management",
+    "language": "English"
+  },
+  {
+    "card_type": "in-person",
+    "badge_text": "In-Person",
+    "date_str": "2026-07-24",
     "utc_datetime": "2026-07-24T07:00:00+03:00",
     "event_url": "https://www.meetup.com/pydata-sofia/events/315269495/",
     "title": "PyData & PyCon Yerevan 2026",
@@ -1047,6 +1299,30 @@
     "card_type": "in-person",
     "badge_text": "In-Person",
     "date_str": "2026-07-24",
+    "utc_datetime": "2026-07-24T06:00:00+02:00",
+    "event_url": "https://www.meetup.com/pydata-suedwest/events/315269481/",
+    "title": "PyData & PyCon Yerevan 2026",
+    "group_name": "PyData Südwest - Artificial Intelligence in Python",
+    "data_topics": "python,data-visualization,data-science,machine-learning,data-management",
+    "data_topic_names": "Python,Data Visualization,Data Science,Machine Learning,Data Management",
+    "language": "English"
+  },
+  {
+    "card_type": "in-person",
+    "badge_text": "In-Person",
+    "date_str": "2026-07-24",
+    "utc_datetime": "2026-07-24T05:00:00+01:00",
+    "event_url": "https://www.meetup.com/pydata-surrey/events/315269446/",
+    "title": "PyData & PyCon Yerevan 2026",
+    "group_name": "PyData Surrey",
+    "data_topics": "python,data-visualization,data-science,machine-learning,data-management",
+    "data_topic_names": "Python,Data Visualization,Data Science,Machine Learning,Data Management",
+    "language": "English"
+  },
+  {
+    "card_type": "in-person",
+    "badge_text": "In-Person",
+    "date_str": "2026-07-24",
     "utc_datetime": "2026-07-24T14:00:00+10:00",
     "event_url": "https://www.meetup.com/pydata-sydney/events/315269535/",
     "title": "PyData & PyCon Yerevan 2026",
@@ -1063,6 +1339,18 @@
     "event_url": "https://www.meetup.com/pydata-taipei/events/315269442/",
     "title": "PyData & PyCon Yerevan 2026",
     "group_name": "PyData Taipei",
+    "data_topics": "python,data-visualization,data-science,machine-learning,data-management",
+    "data_topic_names": "Python,Data Visualization,Data Science,Machine Learning,Data Management",
+    "language": "English"
+  },
+  {
+    "card_type": "in-person",
+    "badge_text": "In-Person",
+    "date_str": "2026-07-24",
+    "utc_datetime": "2026-07-24T07:00:00+03:00",
+    "event_url": "https://www.meetup.com/pydata-tallinn/events/315269490/",
+    "title": "PyData & PyCon Yerevan 2026",
+    "group_name": "PyData Tallinn",
     "data_topics": "python,data-visualization,data-science,machine-learning,data-management",
     "data_topic_names": "Python,Data Visualization,Data Science,Machine Learning,Data Management",
     "language": "English"
@@ -1099,6 +1387,30 @@
     "event_url": "https://www.meetup.com/pydata-turkiye/events/315269475/",
     "title": "PyData & PyCon Yerevan 2026",
     "group_name": "PyData Turkiye",
+    "data_topics": "python,data-visualization,data-science,machine-learning,data-management",
+    "data_topic_names": "Python,Data Visualization,Data Science,Machine Learning,Data Management",
+    "language": "English"
+  },
+  {
+    "card_type": "in-person",
+    "badge_text": "In-Person",
+    "date_str": "2026-07-24",
+    "utc_datetime": "2026-07-24T05:00:00+01:00",
+    "event_url": "https://www.meetup.com/pydata-ughelli/events/315269450/",
+    "title": "PyData & PyCon Yerevan 2026",
+    "group_name": "PyData Ughelli",
+    "data_topics": "python,data-visualization,data-science,machine-learning,data-management",
+    "data_topic_names": "Python,Data Visualization,Data Science,Machine Learning,Data Management",
+    "language": "English"
+  },
+  {
+    "card_type": "in-person",
+    "badge_text": "In-Person",
+    "date_str": "2026-07-24",
+    "utc_datetime": "2026-07-24T06:00:00+02:00",
+    "event_url": "https://www.meetup.com/pydata-valais/events/315269467/",
+    "title": "PyData & PyCon Yerevan 2026",
+    "group_name": "PyData Valais",
     "data_topics": "python,data-visualization,data-science,machine-learning,data-management",
     "data_topic_names": "Python,Data Visualization,Data Science,Machine Learning,Data Management",
     "language": "English"
@@ -1159,6 +1471,30 @@
     "event_url": "https://www.meetup.com/pydata-wolverhampton/events/315269453/",
     "title": "PyData & PyCon Yerevan 2026",
     "group_name": "PyData Wolverhampton",
+    "data_topics": "python,data-visualization,data-science,machine-learning,data-management",
+    "data_topic_names": "Python,Data Visualization,Data Science,Machine Learning,Data Management",
+    "language": "English"
+  },
+  {
+    "card_type": "in-person",
+    "badge_text": "In-Person",
+    "date_str": "2026-07-24",
+    "utc_datetime": "2026-07-24T08:00:00+04:00",
+    "event_url": "https://www.meetup.com/pydata-yerevan/events/315269482/",
+    "title": "PyData & PyCon Yerevan 2026",
+    "group_name": "PyData Yerevan",
+    "data_topics": "python,data-visualization,data-science,machine-learning,data-management",
+    "data_topic_names": "Python,Data Visualization,Data Science,Machine Learning,Data Management",
+    "language": "English"
+  },
+  {
+    "card_type": "in-person",
+    "badge_text": "In-Person",
+    "date_str": "2026-07-24",
+    "utc_datetime": "2026-07-24T06:00:00+02:00",
+    "event_url": "https://www.meetup.com/pydata-zurich/events/315269531/",
+    "title": "PyData & PyCon Yerevan 2026",
+    "group_name": "PyData Zurich",
     "data_topics": "python,data-visualization,data-science,machine-learning,data-management",
     "data_topic_names": "Python,Data Visualization,Data Science,Machine Learning,Data Management",
     "language": "English"
@@ -1287,6 +1623,30 @@
     "card_type": "in-person",
     "badge_text": "In-Person",
     "date_str": "2026-07-24",
+    "utc_datetime": "2026-07-24T09:00:00+04:00",
+    "event_url": "https://www.meetup.com/pydata-yerevan/events/314378875/",
+    "title": "PyData & PyCon Yerevan 2026",
+    "group_name": "PyData Yerevan",
+    "data_topics": "open-source,data-science-using-python,artificial-intelligence,machine-learning,machine-learning-with-python",
+    "data_topic_names": "Open Source,Data Science using Python,Artificial Intelligence,Machine Learning,Machine Learning with Python",
+    "language": "English"
+  },
+  {
+    "card_type": "in-person",
+    "badge_text": "In-Person",
+    "date_str": "2026-07-24",
+    "utc_datetime": "2026-07-24T10:45:00+03:00",
+    "event_url": "https://www.meetup.com/israeli-students-of-objectivism/events/315786424/",
+    "title": "מיטאפ בנושא ״מהו קפיטליזם״",
+    "group_name": "Philosophy meetups - Ayn Rand’s students Israel",
+    "data_topics": "ayn-rand,political-philosophy,philosophy,intellectual-discussions,critical-thinking",
+    "data_topic_names": "Ayn Rand,Political Philosophy,Philosophy,Intellectual Discussions,Critical Thinking",
+    "language": "Hebrew"
+  },
+  {
+    "card_type": "in-person",
+    "badge_text": "In-Person",
+    "date_str": "2026-07-24",
     "utc_datetime": "2026-07-24T11:00:00+03:00",
     "event_url": "https://www.meetup.com/tel-aviv-yafo-philosophy-meetup-group/events/315542183/",
     "title": "Philosophy Group Meeting -- Hebrew",
@@ -1318,6 +1678,18 @@
     "data_topics": "data-governance,data,data-engineering,data-analytics,snowflake",
     "data_topic_names": "Data Governance,Data,Data Engineering,Data Analytics,Snowflake",
     "language": "English"
+  },
+  {
+    "card_type": "in-person",
+    "badge_text": "In-Person",
+    "date_str": "2026-07-24",
+    "utc_datetime": "2026-07-24T23:00:00+09:00",
+    "event_url": "https://www.meetup.com/%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%A7%E8%A9%B1%E3%81%9D%E3%81%86-%E6%96%87%E5%8C%96%E4%BA%A4%E6%B5%81/events/315757261/",
+    "title": "日本語で話そう、文化交流。",
+    "group_name": "日本語で話そう、文化交流。",
+    "data_topics": "culture-exchange,japanese",
+    "data_topic_names": "Culture Exchange,Japanese",
+    "language": "Japanese"
   },
   {
     "card_type": "online",
@@ -1416,6 +1788,18 @@
     "language": "English"
   },
   {
+    "card_type": "online",
+    "badge_text": "Online",
+    "date_str": "2026-07-25",
+    "utc_datetime": "2026-07-25T20:00:00+09:00",
+    "event_url": "https://www.meetup.com/%E3%82%AB%E3%83%95%E3%82%A7%E8%8B%B1%E4%BC%9A%E8%A9%B1-cafe-eikaiwa/events/315462450/",
+    "title": "Online English Conversation – 初心者歓迎 | カフェ英会話オンライン",
+    "group_name": "☕Cafe Eikaiwa Online | English Conversation | カフェ英会話 Online",
+    "data_topics": "community-building,language-learning,meet-new-friends-mingle-in-english,english,practice-english",
+    "data_topic_names": "Community Building,Language Learning,Meet New Friends & Mingle in English,English,Practice English",
+    "language": "Japanese"
+  },
+  {
     "card_type": "in-person",
     "badge_text": "In-Person",
     "date_str": "2026-07-25",
@@ -1491,6 +1875,18 @@
     "card_type": "in-person",
     "badge_text": "In-Person",
     "date_str": "2026-07-25",
+    "utc_datetime": "2026-07-25T11:00:00-07:00",
+    "event_url": "https://www.meetup.com/emacs-sf/events/315781879/",
+    "title": "coffee.el in SF",
+    "group_name": "Emacs SF",
+    "data_topics": "text-editor,emacs-lisp",
+    "data_topic_names": "Text Editor,Emacs Lisp",
+    "language": "English"
+  },
+  {
+    "card_type": "in-person",
+    "badge_text": "In-Person",
+    "date_str": "2026-07-25",
     "utc_datetime": "2026-07-25T16:30:00-07:00",
     "event_url": "https://www.meetup.com/pydata_seattle/events/315320873/",
     "title": "Coding, Algorithms & AI",
@@ -1545,6 +1941,18 @@
     "group_name": "笑って学べる英会話  Kobe,Osaka,Online for (Natives&JP)",
     "data_topics": "english,language-exchange",
     "data_topic_names": "English,Language Exchange",
+    "language": "Japanese"
+  },
+  {
+    "card_type": "online",
+    "badge_text": "Online",
+    "date_str": "2026-07-26",
+    "utc_datetime": "2026-07-26T21:00:00+09:00",
+    "event_url": "https://www.meetup.com/%E3%82%AB%E3%83%95%E3%82%A7%E8%8B%B1%E4%BC%9A%E8%A9%B1-cafe-eikaiwa/events/315462455/",
+    "title": "Online English Conversation – 初心者歓迎 | カフェ英会話オンライン",
+    "group_name": "☕Cafe Eikaiwa Online | English Conversation | カフェ英会話 Online",
+    "data_topics": "community-building,language-learning,meet-new-friends-mingle-in-english,english,practice-english",
+    "data_topic_names": "Community Building,Language Learning,Meet New Friends & Mingle in English,English,Practice English",
     "language": "Japanese"
   },
   {
@@ -1740,6 +2148,18 @@
     "language": "English"
   },
   {
+    "card_type": "online",
+    "badge_text": "Online",
+    "date_str": "2026-07-28",
+    "utc_datetime": "2026-07-28T12:10:00+09:00",
+    "event_url": "https://www.meetup.com/%E3%82%AB%E3%83%95%E3%82%A7%E8%8B%B1%E4%BC%9A%E8%A9%B1-cafe-eikaiwa/events/315462458/",
+    "title": "Online English Conversation – 初心者歓迎 | カフェ英会話オンライン",
+    "group_name": "☕Cafe Eikaiwa Online | English Conversation | カフェ英会話 Online",
+    "data_topics": "community-building,language-learning,meet-new-friends-mingle-in-english,english,practice-english",
+    "data_topic_names": "Community Building,Language Learning,Meet New Friends & Mingle in English,English,Practice English",
+    "language": "Japanese"
+  },
+  {
     "card_type": "in-person",
     "badge_text": "In-Person",
     "date_str": "2026-07-28",
@@ -1774,6 +2194,18 @@
     "data_topics": "english,language-exchange",
     "data_topic_names": "English,Language Exchange",
     "language": "Japanese"
+  },
+  {
+    "card_type": "in-person",
+    "badge_text": "In-Person",
+    "date_str": "2026-07-28",
+    "utc_datetime": "2026-07-28T16:00:00+02:00",
+    "event_url": "https://www.meetup.com/mitsprache-in-der-digitalen-welt-glarus/events/315748626/",
+    "title": "Software Crafters: «Mob Programming in Haskell»",
+    "group_name": "Mitsprache in der digitalen Welt",
+    "data_topics": "open-source,new-technology,technology,computer-programming,software-development",
+    "data_topic_names": "Open Source,New Technology,Technology,Computer Programming,Software Development",
+    "language": "German"
   },
   {
     "card_type": "in-person",
@@ -1920,6 +2352,18 @@
     "language": "English"
   },
   {
+    "card_type": "online",
+    "badge_text": "Online",
+    "date_str": "2026-07-28",
+    "utc_datetime": "2026-07-28T19:30:00-07:00",
+    "event_url": "https://www.meetup.com/lajugstudygroup/events/315081376/",
+    "title": "Discussion - Topic: GitHub Spec Kit",
+    "group_name": "DevTalk LA",
+    "data_topics": "software-development",
+    "data_topic_names": "Software Development",
+    "language": "English"
+  },
+  {
     "card_type": "in-person",
     "badge_text": "In-Person",
     "date_str": "2026-07-29",
@@ -2032,6 +2476,18 @@
     "badge_text": "In-Person",
     "date_str": "2026-07-29",
     "utc_datetime": "2026-07-29T19:00:00+02:00",
+    "event_url": "https://www.meetup.com/llvm-social-darmstadt/events/315595848/",
+    "title": "LLVM/Clang Social Darmstadt",
+    "group_name": "LLVM Social Darmstadt",
+    "data_topics": "computer-programming,compilers,high-performance-computing,gpu,computer-science",
+    "data_topic_names": "Computer Programming,Compilers,High Performance Computing,GPU,Computer Science",
+    "language": "English"
+  },
+  {
+    "card_type": "in-person",
+    "badge_text": "In-Person",
+    "date_str": "2026-07-29",
+    "utc_datetime": "2026-07-29T19:00:00+02:00",
     "event_url": "https://www.meetup.com/bilbao-programming-group/events/315517365/",
     "title": "Monthly Programming Meetup: LLMs",
     "group_name": "Bilbao Programming Group",
@@ -2049,6 +2505,18 @@
     "group_name": "EUG Go",
     "data_topics": "open-source,web-development,high-scalability-computing,software-development,golang",
     "data_topic_names": "Open Source,Web Development,High Scalability Computing,Software Development,Golang",
+    "language": "English"
+  },
+  {
+    "card_type": "in-person",
+    "badge_text": "In-Person",
+    "date_str": "2026-07-29",
+    "utc_datetime": "2026-07-29T18:00:00-06:00",
+    "event_url": "https://www.meetup.com/elixir-calgary/events/315779116/",
+    "title": "July 2026 Calgary Elixir Meetup",
+    "group_name": "Elixir Calgary",
+    "data_topics": "cloud-computing,programming-languages,technology-startups,software-development,elixir",
+    "data_topic_names": "Cloud Computing,Programming Languages,Technology Startups,Software Development,Elixir",
     "language": "English"
   },
   {
@@ -2199,6 +2667,18 @@
     "card_type": "in-person",
     "badge_text": "In-Person",
     "date_str": "2026-07-30",
+    "utc_datetime": "2026-07-30T18:30:00+02:00",
+    "event_url": "https://www.meetup.com/pydata-belgium/events/315298608/",
+    "title": "PyData Belgium July 2026",
+    "group_name": "Pydata Belgium",
+    "data_topics": "high-scalability-computing,data-visualization,data-mining,data-science,data-science-using-python,statistical-computing,machine-learning,open-source-python,big-data,data-analytics",
+    "data_topic_names": "High Scalability Computing,Data Visualization,Data Mining,Data Science,Data Science using Python,Statistical Computing,Machine Learning,Open Source Python,Big Data,Data Analytics",
+    "language": "English"
+  },
+  {
+    "card_type": "in-person",
+    "badge_text": "In-Person",
+    "date_str": "2026-07-30",
     "utc_datetime": "2026-07-30T18:00:00+01:00",
     "event_url": "https://www.meetup.com/london-js/events/315611220/",
     "title": "London.js with incident.io - Thursday 30th July 2026! 🔥",
@@ -2229,6 +2709,18 @@
     "group_name": "Rust Manchester",
     "data_topics": "programming-languages,rust",
     "data_topic_names": "Programming Languages,Rust",
+    "language": "English"
+  },
+  {
+    "card_type": "in-person",
+    "badge_text": "In-Person",
+    "date_str": "2026-07-30",
+    "utc_datetime": "2026-07-30T19:00:00+01:00",
+    "event_url": "https://www.meetup.com/cpplondon/events/315627016/",
+    "title": "Data-Oriented Architecture, Shading Languages and Lessons from Teaching C++",
+    "group_name": "C++ London",
+    "data_topics": "programming-languages,computer-programming,software-development,c-c",
+    "data_topic_names": "Programming Languages,Computer Programming,Software Development,C & C++",
     "language": "English"
   },
   {
@@ -2290,6 +2782,18 @@
     "data_topics": "philosophy,ethics,philosophical-debate,classic-books,intellectual-discussions,lectures,culture",
     "data_topic_names": "Philosophy,Ethics,Philosophical Debate,Classic Books,Intellectual Discussions,Lectures,Culture",
     "language": "English"
+  },
+  {
+    "card_type": "in-person",
+    "badge_text": "In-Person",
+    "date_str": "2026-07-31",
+    "utc_datetime": "2026-07-31T19:30:00+09:00",
+    "event_url": "https://www.meetup.com/%E3%82%AB%E3%83%95%E3%82%A7%E8%8B%B1%E4%BC%9A%E8%A9%B1-cafe-eikaiwa/events/315510888/",
+    "title": "第4回カフェ英会話 VISION セミナー「ダンス・表現・英語 ─自分の言葉で“伝える”を、仕事に」",
+    "group_name": "☕Cafe Eikaiwa Online | English Conversation | カフェ英会話 Online",
+    "data_topics": "community-building,language-learning,meet-new-friends-mingle-in-english,english,language-culture",
+    "data_topic_names": "Community Building,Language Learning,Meet New Friends & Mingle in English,English,Language & Culture",
+    "language": "Japanese"
   },
   {
     "card_type": "online",
@@ -2397,6 +2901,18 @@
     "group_name": "The Boston Python User Group",
     "data_topics": "python,open-source,django,web-development,computer-programming,data-science,software-development,machine-learning,web-technology,python-web-development,open-source-python",
     "data_topic_names": "Python,Open Source,Django,Web Development,Computer Programming,Data Science,Software Development,Machine Learning,Web Technology,Python Web Development,Open Source Python",
+    "language": "English"
+  },
+  {
+    "card_type": "in-person",
+    "badge_text": "In-Person",
+    "date_str": "2026-08-02",
+    "utc_datetime": "2026-08-02T12:00:00-07:00",
+    "event_url": "https://www.meetup.com/sf-types-theorems-and-programming-languages/events/315752772/",
+    "title": "The RedPRL Proof Assistant",
+    "group_name": "SF Types, Theorems, and Programming Languages",
+    "data_topics": "new-technology,programming-languages,functional-programming,computer-programming,mathematics,test-automation,software-qa-and-testing,software-engineering",
+    "data_topic_names": "New Technology,Programming Languages,Functional Programming,Computer Programming,Mathematics,Test Automation,Software QA and Testing,Software Engineering",
     "language": "English"
   },
   {
@@ -2664,6 +3180,18 @@
     "language": "English"
   },
   {
+    "card_type": "online",
+    "badge_text": "Online",
+    "date_str": "2026-08-04",
+    "utc_datetime": "2026-08-04T19:30:00-07:00",
+    "event_url": "https://www.meetup.com/lajugstudygroup/events/315081396/",
+    "title": "Discussion - Topic: Measuring collaboration quality with coding agents",
+    "group_name": "DevTalk LA",
+    "data_topics": "artificial-intelligence",
+    "data_topic_names": "Artificial Intelligence",
+    "language": "English"
+  },
+  {
     "card_type": "in-person",
     "badge_text": "In-Person",
     "date_str": "2026-08-05",
@@ -2811,6 +3339,18 @@
     "card_type": "in-person",
     "badge_text": "In-Person",
     "date_str": "2026-08-06",
+    "utc_datetime": "2026-08-06T17:30:00+08:00",
+    "event_url": "https://www.meetup.com/pythonwa/events/315743740/",
+    "title": "PythonWA Meetup August",
+    "group_name": "Python WA",
+    "data_topics": "python,web-development,data-science,computer-science,software-development",
+    "data_topic_names": "Python,Web Development,Data Science,Computer Science,Software Development",
+    "language": "English"
+  },
+  {
+    "card_type": "in-person",
+    "badge_text": "In-Person",
+    "date_str": "2026-08-06",
     "utc_datetime": "2026-08-06T17:00:00+03:00",
     "event_url": "https://www.meetup.com/makelab-israel-for-innovation-making-and-creativity/events/315587391/",
     "title": "סדנת איור באור למבוגרים (Light Painting)",
@@ -2890,6 +3430,18 @@
     "data_topics": "open-source,web-development,functional-programming,computer-programming,front-end-development,distributed-systems,software-development,education-technology,asynchronous-programming,javascript-applications,backend,nodejs,javascript",
     "data_topic_names": "Open Source,Web Development,Functional Programming,Computer Programming,Front-end Development,Distributed Systems,Software Development,Education & Technology,Asynchronous Programming,JavaScript Applications,Backend,nodeJS,JavaScript",
     "language": "Russian"
+  },
+  {
+    "card_type": "online",
+    "badge_text": "Online",
+    "date_str": "2026-08-06",
+    "utc_datetime": "2026-08-06T18:00:00+01:00",
+    "event_url": "https://www.meetup.com/meetup-group-djhiglzd/events/315780017/",
+    "title": "Building Secure Autonomous AI Agents",
+    "group_name": "PyData Glasgow",
+    "data_topics": "data-science,data-science-using-python,ai-algorithms,machine-learning,data-engineering",
+    "data_topic_names": "Data Science,Data Science using Python,AI Algorithms,Machine Learning,Data Engineering",
+    "language": "English"
   },
   {
     "card_type": "in-person",
@@ -3423,6 +3975,18 @@
     "card_type": "in-person",
     "badge_text": "In-Person",
     "date_str": "2026-08-12",
+    "utc_datetime": "2026-08-12T18:00:00+01:00",
+    "event_url": "https://www.meetup.com/meetup-group-mzuahgli/events/312846309/",
+    "title": "Laravel Manchester #5",
+    "group_name": "Laravel Manchester",
+    "data_topics": "web-development,php-application-development,php-framework,php,laravel",
+    "data_topic_names": "Web Development,PHP Application Development,PHP Framework,PHP,Laravel",
+    "language": "English"
+  },
+  {
+    "card_type": "in-person",
+    "badge_text": "In-Person",
+    "date_str": "2026-08-12",
     "utc_datetime": "2026-08-12T19:00:00+02:00",
     "event_url": "https://www.meetup.com/pycologne/events/315381993/",
     "title": "PyCologne Discussions",
@@ -3502,6 +4066,18 @@
     "data_topics": "makers,photography-classes-workshops",
     "data_topic_names": "Makers,Photography Classes & Workshops",
     "language": "Hebrew"
+  },
+  {
+    "card_type": "in-person",
+    "badge_text": "In-Person",
+    "date_str": "2026-08-13",
+    "utc_datetime": "2026-08-13T18:00:00+02:00",
+    "event_url": "https://www.meetup.com/angular-vienna/events/315665452/",
+    "title": "Angular Vienna - August Meetup",
+    "group_name": "Angular Vienna",
+    "data_topics": "front-end-development,software-development,angular",
+    "data_topic_names": "Front-end Development,Software Development,Angular",
+    "language": "English"
   },
   {
     "card_type": "online",
@@ -3766,6 +4342,18 @@
     "data_topics": "python,web-development,computer-programming,software-development,python-web-development",
     "data_topic_names": "Python,Web Development,Computer Programming,Software Development,Python Web Development",
     "language": "English"
+  },
+  {
+    "card_type": "online",
+    "badge_text": "Online",
+    "date_str": "2026-08-16",
+    "utc_datetime": "2026-08-16T10:00:00+09:00",
+    "event_url": "https://www.meetup.com/%E5%AF%BE%E9%9D%A2-%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E6%AF%8E%E6%9C%88%E6%95%B0%E5%9B%9E%E9%96%8B%E5%82%AC-%E5%9B%BD%E9%9A%9B%E4%BA%A4%E6%B5%81-%E8%8B%B1%E4%BC%9A%E8%A9%B1%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/events/313032665/",
+    "title": "〈🇨🇦×🇯🇵×🇦🇺少人数のグループで英会話を楽しもう！〉カナダ&オーストラリア在住の方を中心にお呼びしたオンライン国際交流イベントです！",
+    "group_name": "対面&オンライン毎月数回開催 国際交流・英会話イベント",
+    "data_topics": "international-friends,english,japanese,japanese-english-language-exchange",
+    "data_topic_names": "International Friends,English,Japanese,Japanese & English Language Exchange",
+    "language": "Japanese"
   },
   {
     "card_type": "online",
@@ -4173,6 +4761,18 @@
     "group_name": "PyLadies Amsterdam",
     "data_topics": "python,computer-programming,artificial-intelligence,women-in-technology,open-source-python",
     "data_topic_names": "Python,Computer Programming,Artificial Intelligence,Women in Technology,Open Source Python",
+    "language": "English"
+  },
+  {
+    "card_type": "in-person",
+    "badge_text": "In-Person",
+    "date_str": "2026-08-20",
+    "utc_datetime": "2026-08-20T18:00:00+02:00",
+    "event_url": "https://www.meetup.com/nix-bern/events/315707777/",
+    "title": "Nix Bern Meetup @ BFH: in production",
+    "group_name": "Nix Bern",
+    "data_topics": "linux,functional-programming,operating-systems,devops,cloud-native",
+    "data_topic_names": "Linux,Functional Programming,Operating Systems,DevOps,Cloud Native",
     "language": "English"
   },
   {

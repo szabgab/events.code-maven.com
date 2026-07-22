@@ -1,5 +1,9 @@
 [
   {
+    "name": "@Shanghai Travelers community",
+    "link": "https://www.meetup.com/Shanghai-Travelers"
+  },
+  {
     "name": "Adelaide Functional Programming",
     "link": "https://www.meetup.com/adelaide-functional-programming-meetup-group"
   },
@@ -28,8 +32,32 @@
     "link": "https://www.meetup.com/ai-visibility-brand-presence-in-chatgpt"
   },
   {
+    "name": "Akka Developers BH Meetup",
+    "link": "https://www.meetup.com/Akka-Developers-BH-Meetup"
+  },
+  {
     "name": "Alicante Frontend",
     "link": "https://www.meetup.com/alicante-frontend"
+  },
+  {
+    "name": "Amsterdam Casual Functional Programming",
+    "link": "https://www.meetup.com/amsterdam-casual-functional-programming"
+  },
+  {
+    "name": "Amsterdam |> Elixir",
+    "link": "https://www.meetup.com/Amsterdam-Elixir"
+  },
+  {
+    "name": "Angular Athens",
+    "link": "https://www.meetup.com/angular-athens"
+  },
+  {
+    "name": "Angular Community",
+    "link": "https://www.meetup.com/meetup-group-lvjmqzsy"
+  },
+  {
+    "name": "Angular Portugal",
+    "link": "https://www.meetup.com/angular-portugal"
   },
   {
     "name": "Angular Sevilla",
@@ -40,8 +68,24 @@
     "link": "https://www.meetup.com/angular-tlv"
   },
   {
+    "name": "Angular Vienna",
+    "link": "https://www.meetup.com/angular-vienna"
+  },
+  {
+    "name": "Angular Zürich",
+    "link": "https://www.meetup.com/angularzrh"
+  },
+  {
     "name": "Aotearoa New Zealand GitHub User Group",
     "link": "https://www.meetup.com/aotearoa-nz-github-user-group"
+  },
+  {
+    "name": "Apache Flink London Meetup",
+    "link": "https://www.meetup.com/Apache-Flink-London-Meetup"
+  },
+  {
+    "name": "Apache Flink SF",
+    "link": "https://www.meetup.com/apache-flink-sf"
   },
   {
     "name": "API Shanghai",
@@ -56,6 +100,10 @@
     "link": "https://www.meetup.com/async-web-tech-meetup"
   },
   {
+    "name": "Austin Clojure Meetup",
+    "link": "https://www.meetup.com/austin-clojure-meetup"
+  },
+  {
     "name": "Austin Go Language User Group",
     "link": "https://www.meetup.com/atxgolang"
   },
@@ -68,6 +116,10 @@
     "link": "https://www.meetup.com/Bangalore-Famo-us-Meetup"
   },
   {
+    "name": "Bangalore IPython Programming Meetup",
+    "link": "https://www.meetup.com/Bangalore-IPython-Programming-Meetup"
+  },
+  {
     "name": "Bangalore JQuery Meetup",
     "link": "https://www.meetup.com/Bangalore-JQuery-Meetup"
   },
@@ -78,6 +130,10 @@
   {
     "name": "Bangalore Python (Scikit-Learn, numpy, pandas ...) Meetup",
     "link": "https://www.meetup.com/Bangalore-Python-Scikit-Learn-numpy-pandas-Meetup"
+  },
+  {
+    "name": "Bangalore Scala Meetup",
+    "link": "https://www.meetup.com/Bangalore-Spark-Streaming-Meetup"
   },
   {
     "name": "BangPypers - Bangalore Python Users Group",
@@ -94,6 +150,14 @@
   {
     "name": "Baseflow Tech Meetups",
     "link": "https://www.meetup.com/baseflow-tech-meetups"
+  },
+  {
+    "name": "Bay Area Apache Flink Meetup",
+    "link": "https://www.meetup.com/Bay-Area-Apache-Flink-Meetup"
+  },
+  {
+    "name": "Bay Area Lisp & Scheme Users Group",
+    "link": "https://www.meetup.com/balisp"
   },
   {
     "name": "BAyPIGgies",
@@ -144,6 +208,10 @@
     "link": "https://www.meetup.com/belvue-be"
   },
   {
+    "name": "Belarus Kotlin User Group",
+    "link": "https://www.meetup.com/Belarus-Kotlin-User-Group"
+  },
+  {
     "name": "Belgium Rust user group",
     "link": "https://www.meetup.com/Belgium-Rust-user-group"
   },
@@ -152,12 +220,28 @@
     "link": "https://www.meetup.com/belgrade-rust-meetup-group"
   },
   {
+    "name": "Berlin C++ Meetup",
+    "link": "https://www.meetup.com/berlincplusplus"
+  },
+  {
     "name": "Bhubaneswar nodeJS and javascript developers",
     "link": "https://www.meetup.com/Bhubaneswar-nodeJS-and-javascript-developers"
   },
   {
     "name": "Bilbao Programming Group",
     "link": "https://www.meetup.com/bilbao-programming-group"
+  },
+  {
+    "name": "Bogotá Ionic Framework Meetup",
+    "link": "https://www.meetup.com/Bogota-Ionic-Framework-Meetup"
+  },
+  {
+    "name": "Bogotá Lisp Lounge",
+    "link": "https://www.meetup.com/Bogota-Lisp-Lounge"
+  },
+  {
+    "name": "Boise Software Developer's Group (BSDG.dev)",
+    "link": "https://www.meetup.com/bsdg-meetup"
   },
   {
     "name": "Bologna JS Meetup",
@@ -172,6 +256,10 @@
     "link": "https://www.meetup.com/py-bdx"
   },
   {
+    "name": "BordeauxJUG",
+    "link": "https://www.meetup.com/BordeauxJUG"
+  },
+  {
     "name": "Boston Area Scala Enthusiasts",
     "link": "https://www.meetup.com/boston-area-scala-enthusiasts"
   },
@@ -180,8 +268,24 @@
     "link": "https://www.meetup.com/bostonrust"
   },
   {
+    "name": "Boston TypeScript Club",
+    "link": "https://www.meetup.com/boston-ts-club"
+  },
+  {
     "name": "Boulder Elixir",
     "link": "https://www.meetup.com/boulder-elixir"
+  },
+  {
+    "name": "Boulder Haskell Programmers",
+    "link": "https://www.meetup.com/boulder-haskell-programmers"
+  },
+  {
+    "name": "BrabantJUG",
+    "link": "https://www.meetup.com/brabant-jug"
+  },
+  {
+    "name": "Bratislava React Meetup Group",
+    "link": "https://www.meetup.com/bratislava-react-meetup-group"
   },
   {
     "name": "Bratislava Rust Meetup Group",
@@ -198,6 +302,10 @@
   {
     "name": "BrisJS - Brisbane JavaScript",
     "link": "https://www.meetup.com/BrisJS"
+  },
+  {
+    "name": "Bucharest Akka.NET & Actor Model User Group",
+    "link": "https://www.meetup.com/Bucharest-Akka-NET-Actor-Model-User-Group"
   },
   {
     "name": "Bucharest FP",
@@ -220,8 +328,32 @@
     "link": "https://www.meetup.com/berner-go-meetup"
   },
   {
+    "name": "C",
+    "link": "https://www.meetup.com/chestermere-leartrade-equity-options-meetup-group"
+  },
+  {
+    "name": "C++ London",
+    "link": "https://www.meetup.com/cpplondon"
+  },
+  {
+    "name": "C++ User Group Vienna",
+    "link": "https://www.meetup.com/cpp-usergroup-vienna"
+  },
+  {
+    "name": "C++ User Gruppe Aachen",
+    "link": "https://www.meetup.com/c-user-gruppe-aachen"
+  },
+  {
+    "name": "C++TO The Toronto C++ User Group",
+    "link": "https://www.meetup.com/CPPTORONTO"
+  },
+  {
     "name": "California Online Python Usergroup",
     "link": "https://www.meetup.com/californiapython"
+  },
+  {
+    "name": "Cambridge Area Julia Users Network (C.A.J.U.N.)",
+    "link": "https://www.meetup.com/julia-cajun"
   },
   {
     "name": "Cambridge Rust Meetup",
@@ -264,6 +396,10 @@
     "link": "https://www.meetup.com/Chennaipy"
   },
   {
+    "name": "Chicago Clojure",
+    "link": "https://www.meetup.com/ChicagoClj"
+  },
+  {
     "name": "Chicago Haskell",
     "link": "https://www.meetup.com/Chicago-Haskell"
   },
@@ -288,6 +424,10 @@
     "link": "https://www.meetup.com/idea_feedback"
   },
   {
+    "name": "Cincinnati Elixir Meetup",
+    "link": "https://www.meetup.com/Cincinnati-Elixir-Meetup"
+  },
+  {
     "name": "Claude Israel User Group",
     "link": "https://www.meetup.com/claude-israel-user-group"
   },
@@ -306,6 +446,22 @@
   {
     "name": "Clojure Ireland",
     "link": "https://www.meetup.com/Clojure-Ireland"
+  },
+  {
+    "name": "Clojure Luxembourg",
+    "link": "https://www.meetup.com/clojure-luxembourg"
+  },
+  {
+    "name": "Clojure Toronto",
+    "link": "https://www.meetup.com/Clojure-Toronto"
+  },
+  {
+    "name": "clojure.zh - Zürich Clojure User Group",
+    "link": "https://www.meetup.com/zh-clj-Zurich-Clojure-User-Group"
+  },
+  {
+    "name": "Clojure/nyc",
+    "link": "https://www.meetup.com/Clojure-nyc"
   },
   {
     "name": "Clojure/Oslo",
@@ -348,6 +504,10 @@
     "link": "https://www.meetup.com/Computer-Vision-Israel-Meetup"
   },
   {
+    "name": "Comunidad Python Lima",
+    "link": "https://www.meetup.com/comunidad-python-lima"
+  },
+  {
     "name": "Congo Kotlin User Group",
     "link": "https://www.meetup.com/congo-kotlin-user-group"
   },
@@ -362,6 +522,14 @@
   {
     "name": "Copenhagen Scala Users",
     "link": "https://www.meetup.com/The-Copenhagen-Scala-Users-Group"
+  },
+  {
+    "name": "Cross-cultural communication——\"The world is flat\"",
+    "link": "https://www.meetup.com/Cross-cultural-communication-The-world-is-flat"
+  },
+  {
+    "name": "Crypto.js (블록체인 개발&해킹&암호학 러버 모임)",
+    "link": "https://www.meetup.com/crypto-js-블록체인-개발자-암호학-러버-모임"
   },
   {
     "name": "Culiacán front-end",
@@ -394,6 +562,10 @@
   {
     "name": "Data Engineering Pilipinas - a PyData group",
     "link": "https://www.meetup.com/data-engineering-pilipinas"
+  },
+  {
+    "name": "Datenanalyse, Data Science und Statistik - PyData Dortmund",
+    "link": "https://www.meetup.com/datenanalyse-dortmund-pydata"
   },
   {
     "name": "DC Python Meetup",
@@ -452,6 +624,14 @@
     "link": "https://www.meetup.com/devops-github-conf-brighton"
   },
   {
+    "name": "DevTalk LA",
+    "link": "https://www.meetup.com/lajugstudygroup"
+  },
+  {
+    "name": "Django Friends – Vienna",
+    "link": "https://www.meetup.com/django-vienna"
+  },
+  {
     "name": "Django London",
     "link": "https://www.meetup.com/djangolondon"
   },
@@ -484,6 +664,22 @@
     "link": "https://www.meetup.com/durianpy"
   },
   {
+    "name": "Dutch PureScript Enthusiasts",
+    "link": "https://www.meetup.com/purescript-nl"
+  },
+  {
+    "name": "Elastic BE Meetup",
+    "link": "https://www.meetup.com/Elastic-Belgium-Meetup"
+  },
+  {
+    "name": "Elixir Berlin",
+    "link": "https://www.meetup.com/elixir-berlin"
+  },
+  {
+    "name": "Elixir Calgary",
+    "link": "https://www.meetup.com/elixir-calgary"
+  },
+  {
     "name": "Elixir London",
     "link": "https://www.meetup.com/Elixir-London"
   },
@@ -500,12 +696,24 @@
     "link": "https://www.meetup.com/elixir-barcelona"
   },
   {
+    "name": "Elixir, Erlang & Gleam Munich",
+    "link": "https://www.meetup.com/elixir-munich"
+  },
+  {
     "name": "Elm Madrid",
     "link": "https://www.meetup.com/elm-madrid"
   },
   {
     "name": "Elm Warsaw",
     "link": "https://www.meetup.com/Elm-Warsaw"
+  },
+  {
+    "name": "Emacs Delhi",
+    "link": "https://www.meetup.com/Emacs-Delhi"
+  },
+  {
+    "name": "Emacs SF",
+    "link": "https://www.meetup.com/Emacs-SF"
   },
   {
     "name": "Ember.js BA",
@@ -526,6 +734,10 @@
   {
     "name": "Eureka Javascript Introduction Meetup",
     "link": "https://www.meetup.com/Eureka-Javascript-Introduction-Meetup"
+  },
+  {
+    "name": "ffffff",
+    "link": "https://www.meetup.com/fffffffffff"
   },
   {
     "name": "FlorenciaJS",
@@ -616,12 +828,20 @@
     "link": "https://www.meetup.com/frontvalue"
   },
   {
+    "name": "Full Stack Manitoba",
+    "link": "https://www.meetup.com/fullstackmb"
+  },
+  {
     "name": "Func Prog Sweden",
     "link": "https://www.meetup.com/func-prog-sweden"
   },
   {
     "name": "Functional JVM Meetup",
     "link": "https://www.meetup.com/functional-jvm-meetup"
+  },
+  {
+    "name": "Functional Programming and Scala",
+    "link": "https://www.meetup.com/Functional-Programming-and-Scala"
   },
   {
     "name": "functional(Curitiba)",
@@ -864,6 +1084,10 @@
     "link": "https://www.meetup.com/GPU-交流"
   },
   {
+    "name": "Grupos de Usuarios de Python en Lima - Perú",
+    "link": "https://www.meetup.com/Grupos-de-Usuarios-de-Python-en-Lima-Peru"
+  },
+  {
     "name": "Gurgaon JavaScript Meetup",
     "link": "https://www.meetup.com/gurgaon-javascript-meetup"
   },
@@ -880,12 +1104,24 @@
     "link": "https://www.meetup.com/hamburg-vue-js-meetup"
   },
   {
+    "name": "Hampton Roads Java Users Group",
+    "link": "https://www.meetup.com/hampton-roads-java-users-group"
+  },
+  {
     "name": "Haskell User Group Nice",
     "link": "https://www.meetup.com/Haskell-User-Group-Nice"
   },
   {
+    "name": "Haskell Utrecht",
+    "link": "https://www.meetup.com/haskell-utrecht"
+  },
+  {
     "name": "haskell-paris",
     "link": "https://www.meetup.com/haskell-paris"
+  },
+  {
+    "name": "HaskellerZ",
+    "link": "https://www.meetup.com/HaskellerZ"
   },
   {
     "name": "Helsinki Clojure Meetup",
@@ -898,6 +1134,10 @@
   {
     "name": "Helsinki Python",
     "link": "https://www.meetup.com/helpy-meetups"
+  },
+  {
+    "name": "HK Web Dev",
+    "link": "https://www.meetup.com/hk-web-dev"
   },
   {
     "name": "Hong Kong Compiler engineering group",
@@ -940,6 +1180,10 @@
     "link": "https://www.meetup.com/iepython"
   },
   {
+    "name": "Ionic - Argentina",
+    "link": "https://www.meetup.com/Ionic-Argentina"
+  },
+  {
     "name": "Ionic Vienna",
     "link": "https://www.meetup.com/Ionic-Vienna"
   },
@@ -954,6 +1198,18 @@
   {
     "name": "Jakarta node.js Meetup",
     "link": "https://www.meetup.com/Jakarta-node-js-Meetup"
+  },
+  {
+    "name": "Java Vienna",
+    "link": "https://www.meetup.com/java-vienna"
+  },
+  {
+    "name": "javaBin Oslo",
+    "link": "https://www.meetup.com/javabin"
+  },
+  {
+    "name": "javaBin Trondheim",
+    "link": "https://www.meetup.com/javabin-trondheim"
   },
   {
     "name": "JavaScript",
@@ -1064,6 +1320,10 @@
     "link": "https://www.meetup.com/Krakow-Scala-User-Group"
   },
   {
+    "name": "Kraków Kotlin User Group",
+    "link": "https://www.meetup.com/krakow-kotlin"
+  },
+  {
     "name": "Kuala Lumpur JavaScript Meetup",
     "link": "https://www.meetup.com/Kuala-Lumpur-JavaScript-Meetup"
   },
@@ -1076,12 +1336,24 @@
     "link": "https://www.meetup.com/lambda-br"
   },
   {
+    "name": "Lambda Montreal",
+    "link": "https://www.meetup.com/lambda-montreal"
+  },
+  {
     "name": "Language Tool Meetup Tokyo",
     "link": "https://www.meetup.com/Language-Tool-Meetup-Tokyo"
   },
   {
+    "name": "Laravel Manchester",
+    "link": "https://www.meetup.com/meetup-group-mzuahgli"
+  },
+  {
     "name": "Las Vegas GitLab Meetup Group",
     "link": "https://www.meetup.com/Las-Vegas-GitLab-Meetup-Group"
+  },
+  {
+    "name": "Lean Paris",
+    "link": "https://www.meetup.com/lean-paris"
   },
   {
     "name": "Leipzig Golang Meetup",
@@ -1100,12 +1372,32 @@
     "link": "https://www.meetup.com/Ljubljana-Python-Group"
   },
   {
+    "name": "LLVM / Clang UK socials",
+    "link": "https://www.meetup.com/LLVM-Clang-Cambridge-social"
+  },
+  {
+    "name": "LLVM Social",
+    "link": "https://www.meetup.com/bangalore-compilers-meetup-group"
+  },
+  {
+    "name": "LLVM Social Berlin",
+    "link": "https://www.meetup.com/llvm-social-berlin"
+  },
+  {
+    "name": "LLVM Social Darmstadt",
+    "link": "https://www.meetup.com/llvm-social-darmstadt"
+  },
+  {
     "name": "LLVM Social Hong Kong",
     "link": "https://www.meetup.com/llvm-social-hong-kong"
   },
   {
     "name": "London Clojurians",
     "link": "https://www.meetup.com/london-clojurians"
+  },
+  {
+    "name": "London Emacs Lisp Meetup",
+    "link": "https://www.meetup.com/London-Emacs-Lisp-Meetup"
   },
   {
     "name": "London Gophers",
@@ -1120,12 +1412,32 @@
     "link": "https://www.meetup.com/london-scala"
   },
   {
+    "name": "London TypeScript",
+    "link": "https://www.meetup.com/london-typescript-meetup"
+  },
+  {
     "name": "London.js - Learn, Share & Use JavaScript",
     "link": "https://www.meetup.com/london-js"
   },
   {
+    "name": "Los Angeles Clojure Users Group",
+    "link": "https://www.meetup.com/los-angeles-clojure-users-group"
+  },
+  {
+    "name": "Los Angeles Rust Meetup",
+    "link": "https://www.meetup.com/Los-Angeles-Rust-Meetup"
+  },
+  {
     "name": "MadJS",
     "link": "https://www.meetup.com/MadisonJS"
+  },
+  {
+    "name": "Madrid GUG",
+    "link": "https://www.meetup.com/madrid-gug"
+  },
+  {
+    "name": "Madrid Haskell Users Group",
+    "link": "https://www.meetup.com/haskell-mad"
   },
   {
     "name": "MadridJS",
@@ -1220,6 +1532,10 @@
     "link": "https://www.meetup.com/Minneapolis-Rust-Meetup"
   },
   {
+    "name": "Mitsprache in der digitalen Welt",
+    "link": "https://www.meetup.com/mitsprache-in-der-digitalen-welt-glarus"
+  },
+  {
     "name": "mks.py",
     "link": "https://www.meetup.com/mks-py"
   },
@@ -1248,12 +1564,20 @@
     "link": "https://www.meetup.com/MozKopdar-Surabaya-Oktober-2014"
   },
   {
+    "name": "MUC++",
+    "link": "https://www.meetup.com/MUCplusplus"
+  },
+  {
     "name": "Mumbai Elm Meetup",
     "link": "https://www.meetup.com/Mumbai-Elm-Meetup"
   },
   {
     "name": "Mumbai Node.js Meetup",
     "link": "https://www.meetup.com/Mumbai-Node-js-Meetup"
+  },
+  {
+    "name": "Munich TypeScript Meetup",
+    "link": "https://www.meetup.com/munich-typescript-meetup"
   },
   {
     "name": "Music City Rust Developers",
@@ -1272,8 +1596,20 @@
     "link": "https://www.meetup.com/Nairobi-PHP-OOP-object-oriented-development-Meetup"
   },
   {
+    "name": "Nairobi Scala User Group",
+    "link": "https://www.meetup.com/Nairobi-Scala-User-Group"
+  },
+  {
     "name": "Nantes Python Meetup",
     "link": "https://www.meetup.com/nantes-python-meetup"
+  },
+  {
+    "name": "NashJS - Nashville Javascript",
+    "link": "https://www.meetup.com/nashjs"
+  },
+  {
+    "name": "New York Apache Flink Meetup",
+    "link": "https://www.meetup.com/New-York-Apache-Flink-Meetup"
   },
   {
     "name": "Next-Copenhagen",
@@ -1286,6 +1622,22 @@
   {
     "name": "NextJS for dummies",
     "link": "https://www.meetup.com/nextjs-for-dummies"
+  },
+  {
+    "name": "NgKato",
+    "link": "https://www.meetup.com/ngkato"
+  },
+  {
+    "name": "NightClazz Zenika à Nantes",
+    "link": "https://www.meetup.com/NightClazz-by-Zenika-Nantes"
+  },
+  {
+    "name": "Nix Bern",
+    "link": "https://www.meetup.com/nix-bern"
+  },
+  {
+    "name": "NLKUG - Dutch Kotlin User Group",
+    "link": "https://www.meetup.com/dutch-kotlin-user-group"
   },
   {
     "name": "NODE+CODE Frankfurt",
@@ -1332,6 +1684,10 @@
     "link": "https://www.meetup.com/nodeua"
   },
   {
+    "name": "Noida Ember JS Meetup",
+    "link": "https://www.meetup.com/Noida-Ember-JS-Meetup"
+  },
+  {
     "name": "Norfolk.js",
     "link": "https://www.meetup.com/norfolkjs"
   },
@@ -1344,12 +1700,24 @@
     "link": "https://www.meetup.com/nsmanchester"
   },
   {
+    "name": "Numba DRCongo",
+    "link": "https://www.meetup.com/numbadrc"
+  },
+  {
+    "name": "Nx Wroclaw",
+    "link": "https://www.meetup.com/nx-wroclaw"
+  },
+  {
     "name": "NYC Elixir Meetup",
     "link": "https://www.meetup.com/nyc-elixir"
   },
   {
     "name": "NYC PyLadies",
     "link": "https://www.meetup.com/nyc-pyladies"
+  },
+  {
+    "name": "ObjektForum Köln",
+    "link": "https://www.meetup.com/objektforum-koeln"
   },
   {
     "name": "OC Python",
@@ -1374,6 +1742,10 @@
   {
     "name": "Orange County GitLab Users Group",
     "link": "https://www.meetup.com/Orange-County-GitLab-Users-Group"
+  },
+  {
+    "name": "Orlando Racketeers",
+    "link": "https://www.meetup.com/Orlando-Racketeers"
   },
   {
     "name": "Oslo Kotlin Meetup",
@@ -1416,6 +1788,18 @@
     "link": "https://www.meetup.com/paper-js-buenos-aires"
   },
   {
+    "name": "Papers We Love - Zurich",
+    "link": "https://www.meetup.com/papers-we-love-zurich"
+  },
+  {
+    "name": "Paris Angular",
+    "link": "https://www.meetup.com/paris-angular"
+  },
+  {
+    "name": "Paris Apache Kafka® Meetup",
+    "link": "https://www.meetup.com/paris-apache-kafka-meetup"
+  },
+  {
     "name": "Paris TypeScript",
     "link": "https://www.meetup.com/Paris-Typescript"
   },
@@ -1456,6 +1840,14 @@
     "link": "https://www.meetup.com/phoenix-javascript"
   },
   {
+    "name": "PHP Thames Valley",
+    "link": "https://www.meetup.com/php-thames-valley"
+  },
+  {
+    "name": "Pittsburgh Typescript",
+    "link": "https://www.meetup.com/Pittsburgh-Typescript"
+  },
+  {
     "name": "PizzaPy - Cebu Python Users Group",
     "link": "https://www.meetup.com/pizzapy-ph"
   },
@@ -1464,12 +1856,24 @@
     "link": "https://www.meetup.com/platform-engineers-tel-aviv"
   },
   {
+    "name": "PMO (Polyglots/多言語話者 Meetup OSAKA)",
+    "link": "https://www.meetup.com/Osaka-Polyglots-Meetup"
+  },
+  {
     "name": "Polkadot/Substrate India Meetup Group",
     "link": "https://www.meetup.com/Polkadot-Substrate-India-Meetup-Group"
   },
   {
+    "name": "Portland Has Skill",
+    "link": "https://www.meetup.com/portland-has-skill"
+  },
+  {
     "name": "prag.ex  Elixir & Erlang in Prague",
     "link": "https://www.meetup.com/prag-ex-Elixir-Erlang-Prague"
+  },
+  {
+    "name": "Prague C++",
+    "link": "https://www.meetup.com/prague-cpp"
   },
   {
     "name": "Prague Golang Meetup",
@@ -1524,8 +1928,16 @@
     "link": "https://www.meetup.com/pydata-ann-arbor"
   },
   {
+    "name": "PyData Athens",
+    "link": "https://www.meetup.com/PyData-Athens"
+  },
+  {
     "name": "PyData Atlanta",
     "link": "https://www.meetup.com/PyData-Atlanta"
+  },
+  {
+    "name": "Pydata Belgium",
+    "link": "https://www.meetup.com/Pydata-Belgium"
   },
   {
     "name": "PyData Belo Horizonte",
@@ -1566,6 +1978,14 @@
   {
     "name": "PyData Cardiff Meetup",
     "link": "https://www.meetup.com/pydata-cardiff-meetup"
+  },
+  {
+    "name": "PyData Chennai",
+    "link": "https://www.meetup.com/PyData-Chennai"
+  },
+  {
+    "name": "PyData Chiang Mai",
+    "link": "https://www.meetup.com/pydata-chiang-mai"
   },
   {
     "name": "PyData Chicago",
@@ -1612,6 +2032,10 @@
     "link": "https://www.meetup.com/pydata-exeter"
   },
   {
+    "name": "PyData Glasgow",
+    "link": "https://www.meetup.com/meetup-group-djhiglzd"
+  },
+  {
     "name": "PyData GRX",
     "link": "https://www.meetup.com/pydatagrx"
   },
@@ -1628,8 +2052,16 @@
     "link": "https://www.meetup.com/pydatahelsinki"
   },
   {
+    "name": "PyData Hong Kong",
+    "link": "https://www.meetup.com/PyData-Hong-Kong"
+  },
+  {
     "name": "PyData Houston",
     "link": "https://www.meetup.com/PyData-Houston"
+  },
+  {
+    "name": "PyData Huddersfield",
+    "link": "https://www.meetup.com/pydata-huddersfield"
   },
   {
     "name": "PyData Indore",
@@ -1652,8 +2084,24 @@
     "link": "https://www.meetup.com/PyData-Kampala"
   },
   {
+    "name": "PyData Kathmandu",
+    "link": "https://www.meetup.com/PyData-Kathmandu"
+  },
+  {
+    "name": "PyData Katsina",
+    "link": "https://www.meetup.com/pydata-katsina"
+  },
+  {
+    "name": "PyData Kent",
+    "link": "https://www.meetup.com/pydata-kent"
+  },
+  {
     "name": "PyData Kuala Lumpur",
     "link": "https://www.meetup.com/PyDataKL"
+  },
+  {
+    "name": "PyData Kuwait",
+    "link": "https://www.meetup.com/kuwait-pydata-meetup-group"
   },
   {
     "name": "PyData Lausanne",
@@ -1664,20 +2112,56 @@
     "link": "https://www.meetup.com/test-austin"
   },
   {
+    "name": "PyData Lisbon",
+    "link": "https://www.meetup.com/PyData-Lisbon"
+  },
+  {
+    "name": "PyData Ljubljana Meetup",
+    "link": "https://www.meetup.com/PyData-Slovenia-Meetup"
+  },
+  {
     "name": "PyData London Meetup",
     "link": "https://www.meetup.com/pydata-london-meetup"
+  },
+  {
+    "name": "PyData Madrid",
+    "link": "https://www.meetup.com/pydata-madrid"
+  },
+  {
+    "name": "PyData Malaga",
+    "link": "https://www.meetup.com/pydata-malaga"
   },
   {
     "name": "PyData Mallorca",
     "link": "https://www.meetup.com/PyData-Mallorca"
   },
   {
+    "name": "PyData Manchester",
+    "link": "https://www.meetup.com/pydata-manchester"
+  },
+  {
+    "name": "PyData Miami / Machine Learning Meetup",
+    "link": "https://www.meetup.com/Miami-Machine-Learning-Meetup"
+  },
+  {
     "name": "PyData Milano",
     "link": "https://www.meetup.com/pydata-milano"
   },
   {
+    "name": "PyData Milton Keynes",
+    "link": "https://www.meetup.com/pydata-milton-keynes"
+  },
+  {
     "name": "PyData Montreal",
     "link": "https://www.meetup.com/PyData-MTL"
+  },
+  {
+    "name": "PyData Nairobi",
+    "link": "https://www.meetup.com/PyData-Nairobi"
+  },
+  {
+    "name": "PyData Northern Utah",
+    "link": "https://www.meetup.com/pydata-northern-utah"
   },
   {
     "name": "PyData NYC",
@@ -1688,8 +2172,16 @@
     "link": "https://www.meetup.com/pydata-omr"
   },
   {
+    "name": "PyData Pará",
+    "link": "https://www.meetup.com/pydata-para"
+  },
+  {
     "name": "PyData PDX",
     "link": "https://www.meetup.com/PyData-PDX"
+  },
+  {
+    "name": "PyData Prague",
+    "link": "https://www.meetup.com/PyData-Prague"
   },
   {
     "name": "PyData Pune",
@@ -1706,6 +2198,10 @@
   {
     "name": "PyData Roma Capitale",
     "link": "https://www.meetup.com/pydata-roma-capitale"
+  },
+  {
+    "name": "PyData San Francisco Bay Area",
+    "link": "https://www.meetup.com/PyData-San-Francisco"
   },
   {
     "name": "PyData Seattle",
@@ -1732,8 +2228,16 @@
     "link": "https://www.meetup.com/pydata-southampton"
   },
   {
+    "name": "PyData Sri Lanka",
+    "link": "https://www.meetup.com/colombo-pydata-meetup-group"
+  },
+  {
     "name": "PyData Stockholm",
     "link": "https://www.meetup.com/pydatastockholm"
+  },
+  {
+    "name": "PyData Surrey",
+    "link": "https://www.meetup.com/pydata-surrey"
   },
   {
     "name": "PyData Sydney",
@@ -1744,8 +2248,16 @@
     "link": "https://www.meetup.com/PyData-Sao-Paulo"
   },
   {
+    "name": "PyData Südwest - Artificial Intelligence in Python",
+    "link": "https://www.meetup.com/pydata-suedwest"
+  },
+  {
     "name": "PyData Taipei",
     "link": "https://www.meetup.com/pydata-taipei"
+  },
+  {
+    "name": "PyData Tallinn",
+    "link": "https://www.meetup.com/pydata-tallinn"
   },
   {
     "name": "PyData Tel Aviv",
@@ -1758,6 +2270,14 @@
   {
     "name": "PyData Turkiye",
     "link": "https://www.meetup.com/pydata-turkiye"
+  },
+  {
+    "name": "PyData Ughelli",
+    "link": "https://www.meetup.com/pydata-ughelli"
+  },
+  {
+    "name": "PyData Valais",
+    "link": "https://www.meetup.com/pydata-valais"
   },
   {
     "name": "PyData Valencia",
@@ -1778,6 +2298,14 @@
   {
     "name": "PyData Wolverhampton",
     "link": "https://www.meetup.com/pydata-wolverhampton"
+  },
+  {
+    "name": "PyData Yerevan",
+    "link": "https://www.meetup.com/pydata-yerevan"
+  },
+  {
+    "name": "PyData Zurich",
+    "link": "https://www.meetup.com/PyData-Zurich"
   },
   {
     "name": "PyDelhi - Python Delhi User Group",
@@ -2092,6 +2620,10 @@
     "link": "https://www.meetup.com/python-panama"
   },
   {
+    "name": "Python Peru",
+    "link": "https://www.meetup.com/pythonperu"
+  },
+  {
     "name": "Python Pescara",
     "link": "https://www.meetup.com/pythonpescara"
   },
@@ -2130,6 +2662,10 @@
   {
     "name": "Python Valencia",
     "link": "https://www.meetup.com/python-valencia-meetup"
+  },
+  {
+    "name": "Python WA",
+    "link": "https://www.meetup.com/pythonwa"
   },
   {
     "name": "Python Zaragoza",
@@ -2188,12 +2724,20 @@
     "link": "https://www.meetup.com/quito-lambda-meetup"
   },
   {
+    "name": "R User Group Nepal",
+    "link": "https://www.meetup.com/rugnepal"
+  },
+  {
     "name": "R 程式交流組 R programming hub",
     "link": "https://www.meetup.com/r-programming"
   },
   {
     "name": "Racketeers São Paulo",
     "link": "https://www.meetup.com/Racketeers-Sao-Paulo"
+  },
+  {
+    "name": "React Brno Meetups",
+    "link": "https://www.meetup.com/react-brno-meetups"
   },
   {
     "name": "React Buenos Aires",
@@ -2224,6 +2768,10 @@
     "link": "https://www.meetup.com/react-pune"
   },
   {
+    "name": "ReactiveUI",
+    "link": "https://www.meetup.com/ReactiveUI"
+  },
+  {
     "name": "ReactJS Bangalore",
     "link": "https://www.meetup.com/reactjs-bangalore"
   },
@@ -2234,6 +2782,10 @@
   {
     "name": "Reading Rust Workshop",
     "link": "https://www.meetup.com/reading-rust-workshop"
+  },
+  {
+    "name": "Redding Typescript Meetup Group",
+    "link": "https://www.meetup.com/redding-typescript-meetup-group"
   },
   {
     "name": "Redditors Happy Hour",
@@ -2256,8 +2808,16 @@
     "link": "https://www.meetup.com/romajs"
   },
   {
+    "name": "RotterdamJUG (Java User Group)",
+    "link": "https://www.meetup.com/RotterdamJUG"
+  },
+  {
     "name": "Ruby Buenos Aires",
     "link": "https://www.meetup.com/rubyba"
+  },
+  {
+    "name": "Runtime for Devs",
+    "link": "https://www.meetup.com/runtime-for-devs"
   },
   {
     "name": "Rust - Modern Systems Programming in Leipzig",
@@ -2352,6 +2912,10 @@
     "link": "https://www.meetup.com/rust-argentina"
   },
   {
+    "name": "Rust Foundation Meetup Group",
+    "link": "https://www.meetup.com/rust-foundation-meetup-group"
+  },
+  {
     "name": "Rust Frankfurt (migrating to Rust Rhein-Main)",
     "link": "https://www.meetup.com/rust-frankfurt"
   },
@@ -2374,6 +2938,10 @@
   {
     "name": "Rust Ireland",
     "link": "https://www.meetup.com/rust-ireland"
+  },
+  {
+    "name": "Rust Korea - 한국 러스트 사용자모임[RSK]",
+    "link": "https://www.meetup.com/rustkorea"
   },
   {
     "name": "Rust KW",
@@ -2588,8 +3156,16 @@
     "link": "https://www.meetup.com/santa-cruz-python"
   },
   {
+    "name": "Scala Bosnia",
+    "link": "https://www.meetup.com/Scala-Bosnia"
+  },
+  {
     "name": "Scala in the City | UK & Europe",
     "link": "https://www.meetup.com/scala-in-the-city"
+  },
+  {
+    "name": "Scala Taiwan Meetup",
+    "link": "https://www.meetup.com/Scala-Taiwan-Meetup"
   },
   {
     "name": "Scala Vienna User Group",
@@ -2616,6 +3192,10 @@
     "link": "https://www.meetup.com/Sencha-Buenos-Aires"
   },
   {
+    "name": "Seoul Apache Flink Meetup",
+    "link": "https://www.meetup.com/Seoul-Apache-Flink-Meetup"
+  },
+  {
     "name": "Seoul MongoDB User Group",
     "link": "https://www.meetup.com/mongodb-usergroup-seoul"
   },
@@ -2626,6 +3206,10 @@
   {
     "name": "Seoul Web Programming Meetup Group",
     "link": "https://www.meetup.com/seoul-web-programming-meetup-group"
+  },
+  {
+    "name": "SF Types, Theorems, and Programming Languages",
+    "link": "https://www.meetup.com/SF-Types-Theorems-and-Programming-Languages"
   },
   {
     "name": "Singapore Rust User Group",
@@ -2648,6 +3232,14 @@
     "link": "https://www.meetup.com/software-craft-architecture-chambery"
   },
   {
+    "name": "SoftwareHub Ankara",
+    "link": "https://www.meetup.com/softwarehub"
+  },
+  {
+    "name": "SoftwareHub ASEAN",
+    "link": "https://www.meetup.com/softwarehubasean"
+  },
+  {
     "name": "Southern New Hampshire Golang Meetup Group",
     "link": "https://www.meetup.com/southern-new-hampshire-golang-meetup-group"
   },
@@ -2668,6 +3260,10 @@
     "link": "https://www.meetup.com/startup-ramat-gan"
   },
   {
+    "name": "sthlm.clj",
+    "link": "https://www.meetup.com/sthlm-clj"
+  },
+  {
     "name": "sthlm.js",
     "link": "https://www.meetup.com/sthlm-js"
   },
@@ -2680,8 +3276,16 @@
     "link": "https://www.meetup.com/Stockholm-Rust"
   },
   {
+    "name": "StockholmCpp",
+    "link": "https://www.meetup.com/stockholmcpp"
+  },
+  {
     "name": "Strapi CZ",
     "link": "https://www.meetup.com/Strapi-CZ"
+  },
+  {
+    "name": "Stream Processing with Apache Kafka, Samza, and Flink",
+    "link": "https://www.meetup.com/stream-processing-meetup-linkedin"
   },
   {
     "name": "Streamlit Warsaw",
@@ -2724,6 +3328,10 @@
     "link": "https://www.meetup.com/taiwan-kotlin-user-group"
   },
   {
+    "name": "tech&talk - Solingen",
+    "link": "https://www.meetup.com/tech-and-talk"
+  },
+  {
     "name": "Tel Aviv Apache Airflow Meetup",
     "link": "https://www.meetup.com/tel-aviv-apache-airflow-meetup"
   },
@@ -2756,8 +3364,20 @@
     "link": "https://www.meetup.com/denofclojure"
   },
   {
+    "name": "The Dutch C++ Group",
+    "link": "https://www.meetup.com/The-Dutch-Cpp-Group"
+  },
+  {
+    "name": "The Dutch Clojure meetup",
+    "link": "https://www.meetup.com/The-Dutch-Clojure-Meetup"
+  },
+  {
     "name": "The Future is made in Javascript",
     "link": "https://www.meetup.com/The-Future-is-Javascript"
+  },
+  {
+    "name": "The Karlsruhe Functional Programmers Meetup Group",
+    "link": "https://www.meetup.com/The-Karlsruhe-Functional-Programmers-Meetup-Group"
   },
   {
     "name": "The Orlando Python User Group",
@@ -2786,6 +3406,10 @@
   {
     "name": "tim.js",
     "link": "https://www.meetup.com/tim-js"
+  },
+  {
+    "name": "to be removed",
+    "link": "https://www.meetup.com/meetup-group-sxxmycyt"
   },
   {
     "name": "Tokyo Haskell/FP Meetup",
@@ -2828,12 +3452,28 @@
     "link": "https://www.meetup.com/Tucson-Python-Meetup"
   },
   {
+    "name": "TupperLibre",
+    "link": "https://www.meetup.com/tupperlibre"
+  },
+  {
     "name": "tvmJs",
     "link": "https://www.meetup.com/tvm-js"
   },
   {
+    "name": "TypeScript Switzerland",
+    "link": "https://www.meetup.com/typescript-switzerland"
+  },
+  {
     "name": "Tü.λ - Tübinger Functional Programming Night",
     "link": "https://www.meetup.com/Tu-Lambda"
+  },
+  {
+    "name": "Unnits",
+    "link": "https://www.meetup.com/unnits"
+  },
+  {
+    "name": "Uppsala.js",
+    "link": "https://www.meetup.com/uppsalajs"
   },
   {
     "name": "Uruguay Javascript Meetup Group",
@@ -2894,6 +3534,10 @@
   {
     "name": "Voice AI and Rust Meetup (Rust for AI, lowcoderust.com)",
     "link": "https://www.meetup.com/wasm-rust-meetup"
+  },
+  {
+    "name": "Vrouwencirkel",
+    "link": "https://www.meetup.com/meetup-group-mihkmmxq"
   },
   {
     "name": "Vue Zurich",
@@ -3008,12 +3652,20 @@
     "link": "https://www.meetup.com/myanmartruelightfellowship"
   },
   {
+    "name": "☕Cafe Eikaiwa Online | English Conversation | カフェ英会話 Online",
+    "link": "https://www.meetup.com/カフェ英会話-cafe-eikaiwa"
+  },
+  {
     "name": "【中級者向け】英語で的確に意見を言う練習会！",
     "link": "https://www.meetup.com/tokyo-learn-a-foreign-language-meetup-group"
   },
   {
     "name": "ㅤㅤㅤㅤ",
     "link": "https://www.meetup.com/fufhry"
+  },
+  {
+    "name": "一葉茶舍，茶道，茶禪",
+    "link": "https://www.meetup.com/一葉茶舍-茶道-茶禪"
   },
   {
     "name": "国際交流(日泰)コミュニティ in 大阪なんば / พูดคุยญี่ปุ่น ไทย โอซาก้า",
@@ -3024,8 +3676,36 @@
     "link": "https://www.meetup.com/meetup-group-xhrfgzbb"
   },
   {
+    "name": "外国語カフェスクールlanguage cafe（英会話、中国語、韓国語、Japanese）in西院　KYOTO",
+    "link": "https://www.meetup.com/kyotolaundrycafe"
+  },
+  {
+    "name": "多才多藝 ~ The Brilliant Entertainment Group",
+    "link": "https://www.meetup.com/多才多藝-the-brilliant-entertainment-group"
+  },
+  {
+    "name": "大阪 20代限定 海外志向者の情報交換コミュニティ",
+    "link": "https://www.meetup.com/20代限定-海外志向者の情報交換コミュニティ"
+  },
+  {
+    "name": "対面&オンライン毎月数回開催 国際交流・英会話イベント",
+    "link": "https://www.meetup.com/対面-オンライン毎月数回開催-国際交流-英会話イベント"
+  },
+  {
+    "name": "日本語で話そう、文化交流。",
+    "link": "https://www.meetup.com/日本語で話そう-文化交流"
+  },
+  {
+    "name": "港漂 x 本地人友緣群",
+    "link": "https://www.meetup.com/港漂-x-本地人友緣群"
+  },
+  {
     "name": "笑って学べる英会話  Kobe,Osaka,Online for (Natives&JP)",
     "link": "https://www.meetup.com/osaka-kobe-learning-strategies-meetup-group"
+  },
+  {
+    "name": "Ｆp１級対策 おすすめ勉強方法情報交換 勉強会",
+    "link": "https://www.meetup.com/ｆｐ１級対策-おすすめ勉強方法情報交換-勉強会"
   },
   {
     "name": "🥢 筷子 ⭐️ x 华裔 / 华人",
