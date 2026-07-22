@@ -350,7 +350,7 @@ body {
 
             <footer class="footer mt-6 has-text-centered">
                 <div class="content">
-                    <p class="mb-3">Generated on: 2026-07-22 11:27:05</p>
+                    <p class="mb-3">Generated on: 2026-07-22 11:41:12</p>
                     <a href="https://github.com/szabgab/events.code-maven.com/" target="_blank" rel="noopener noreferrer" class="is-inline-flex is-align-items-center github-link" style="color: var(--bulma-text); gap: 0.5rem; transition: color 0.2s ease-in-out;">
                         <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path></svg>
                         <span>GitHub Repository</span>
@@ -532,16 +532,18 @@ function onTimeFilterToggle() {
     const startBefore = document.getElementById('start-before');
 
     if (startAfter && startBefore) {
+        const saWrapper = startAfter.closest('.select-wrapper');
+        const sbWrapper = startBefore.closest('.select-wrapper');
         if (timeFilterEnabled) {
             startAfter.disabled = false;
             startBefore.disabled = false;
-            startAfter.parentElement.classList.remove('disabled');
-            startBefore.parentElement.classList.remove('disabled');
+            if (saWrapper) saWrapper.classList.remove('disabled');
+            if (sbWrapper) sbWrapper.classList.remove('disabled');
         } else {
             startAfter.disabled = true;
             startBefore.disabled = true;
-            startAfter.parentElement.classList.add('disabled');
-            startBefore.parentElement.classList.add('disabled');
+            if (saWrapper) saWrapper.classList.add('disabled');
+            if (sbWrapper) sbWrapper.classList.add('disabled');
         }
     }
 
@@ -792,16 +794,18 @@ function renderFuturePage(events) {
             const startAfter = document.getElementById('start-after');
             const startBefore = document.getElementById('start-before');
             if (startAfter && startBefore) {
+                const saWrapper = startAfter.closest('.select-wrapper');
+                const sbWrapper = startBefore.closest('.select-wrapper');
                 if (timeFilterEnabled) {
                     startAfter.disabled = false;
                     startBefore.disabled = false;
-                    startAfter.parentElement.classList.remove('disabled');
-                    startBefore.parentElement.classList.remove('disabled');
+                    if (saWrapper) saWrapper.classList.remove('disabled');
+                    if (sbWrapper) sbWrapper.classList.remove('disabled');
                 } else {
                     startAfter.disabled = true;
                     startBefore.disabled = true;
-                    startAfter.parentElement.classList.add('disabled');
-                    startBefore.parentElement.classList.add('disabled');
+                    if (saWrapper) saWrapper.classList.add('disabled');
+                    if (sbWrapper) sbWrapper.classList.add('disabled');
                 }
             }
         }
@@ -845,6 +849,24 @@ function renderFuturePage(events) {
 
     applyFilters();
 }
+
+document.addEventListener('keydown', (event) => {
+    if (event.key === 'Escape') {
+        const settingsOverlay = document.getElementById('settings-overlay');
+        const settingsPanel = document.getElementById('settings-panel');
+        if (settingsPanel && settingsPanel.classList.contains('open')) {
+            settingsOverlay.classList.remove('open');
+            settingsPanel.classList.remove('open');
+        }
+
+        const groupsOverlay = document.getElementById('groups-overlay');
+        const groupsPanel = document.getElementById('groups-panel');
+        if (groupsPanel && groupsPanel.classList.contains('open')) {
+            groupsOverlay.classList.remove('open');
+            groupsPanel.classList.remove('open');
+        }
+    }
+});
 
 document.addEventListener("DOMContentLoaded", () => {
     const isFuturePage = !!document.getElementById('settings-panel');
