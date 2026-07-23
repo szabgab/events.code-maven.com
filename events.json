@@ -4870,5 +4870,17 @@
     "data_topics": "python,open-source,computer-programming,software-development,python-web-development",
     "data_topic_names": "Python,Open Source,Computer Programming,Software Development,Python Web Development",
     "language": "Portuguese"
+  },
+  {
+    "card_type": "in-person",
+    "badge_text": "In-Person",
+    "date_str": "2026-08-22",
+    "utc_datetime": "2026-08-22T14:00:00+05:30",
+    "event_url": "https://www.meetup.com/rustdelhi/events/315185336/",
+    "title": "Rust Delhi X SciPy India Meetup",
+    "group_name": "Rust Delhi",
+    "data_topics": "python,computer-science,software-development,scientific-computing,rustlang",
+    "data_topic_names": "Python,Computer Science,Software Development,Scientific Computing,Rustlang",
+    "language": "English"
   }
 ]
