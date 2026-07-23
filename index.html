@@ -156,8 +156,10 @@ body {
     transform: rotate(90deg);
 }
 
-/* Disabled select inputs */
-.select-wrapper.disabled {
+/* Disabled select inputs and controls */
+.select-wrapper.disabled,
+.buttons.disabled,
+.multiselect-controls.disabled {
     opacity: 0.4;
     pointer-events: none;
 }
@@ -295,9 +297,12 @@ body {
                 </div>
 
                 <div class="settings-group field">
+                    <label class="checkbox settings-label mb-2">
+                        <input type="checkbox" id="language-filter-toggle" onchange="onLanguageFilterToggle()" checked>
+                        Filter by Language
+                    </label>
                     <div class="languages-header is-flex is-justify-content-between is-align-items-center mb-2">
-                        <label class="label settings-label mb-0">Filter by Language</label>
-                        <div class="buttons multiselect-controls">
+                        <div class="buttons multiselect-controls" id="language-controls">
                             <button type="button" class="button is-small is-rounded ctrl-btn" onclick="selectAllLanguages()">All</button>
                             <button type="button" class="button is-small is-rounded ctrl-btn" onclick="clearAllLanguages()">None</button>
                         </div>
@@ -306,9 +311,12 @@ body {
                 </div>
 
                 <div class="settings-group field mt-4">
+                    <label class="checkbox settings-label mb-2">
+                        <input type="checkbox" id="topic-filter-toggle" onchange="onTopicFilterToggle()" checked>
+                        Filter by Topic
+                    </label>
                     <div class="topics-header is-flex is-justify-content-between is-align-items-center mb-2">
-                        <label class="label settings-label mb-0">Filter by Topic</label>
-                        <div class="buttons multiselect-controls">
+                        <div class="buttons multiselect-controls" id="topic-controls">
                             <button type="button" class="button is-small is-rounded ctrl-btn" onclick="selectAllTopics()">All</button>
                             <button type="button" class="button is-small is-rounded ctrl-btn" onclick="clearAllTopics()">None</button>
                         </div>
@@ -368,6 +376,8 @@ let timeFilterEnabled = false;
 let startAfterHour = 0;
 let startBeforeHour = 24;
 let activeLanguages = [];
+let languageFilterEnabled = true;
+let topicFilterEnabled = true;
 
 const STORAGE_KEY = 'tech_events_filters_state';
 
@@ -378,7 +388,9 @@ function saveFiltersState() {
         startAfterHour,
         startBeforeHour,
         activeTopics,
-        activeLanguages
+        activeLanguages,
+        languageFilterEnabled,
+        topicFilterEnabled
     };
     try {
         localStorage.setItem(STORAGE_KEY, JSON.stringify(state));
@@ -561,6 +573,58 @@ function onTimeFilterChange() {
     applyFilters();
 }
 
+function onLanguageFilterToggle() {
+    const checkbox = document.getElementById('language-filter-toggle');
+    if (!checkbox) return;
+    languageFilterEnabled = checkbox.checked;
+
+    const buttons = document.querySelectorAll('.lang-toggle-btn');
+    const ctrlButtons = document.querySelectorAll('#language-controls .ctrl-btn');
+    const container = document.getElementById('language-buttons');
+    const controls = document.getElementById('language-controls');
+
+    if (languageFilterEnabled) {
+        if (container) container.classList.remove('disabled');
+        if (controls) controls.classList.remove('disabled');
+        buttons.forEach(btn => btn.disabled = false);
+        ctrlButtons.forEach(btn => btn.disabled = false);
+    } else {
+        if (container) container.classList.add('disabled');
+        if (controls) controls.classList.add('disabled');
+        buttons.forEach(btn => btn.disabled = true);
+        ctrlButtons.forEach(btn => btn.disabled = true);
+    }
+
+    saveFiltersState();
+    applyFilters();
+}
+
+function onTopicFilterToggle() {
+    const checkbox = document.getElementById('topic-filter-toggle');
+    if (!checkbox) return;
+    topicFilterEnabled = checkbox.checked;
+
+    const buttons = document.querySelectorAll('.topic-toggle-btn');
+    const ctrlButtons = document.querySelectorAll('#topic-controls .ctrl-btn');
+    const container = document.getElementById('topic-buttons');
+    const controls = document.getElementById('topic-controls');
+
+    if (topicFilterEnabled) {
+        if (container) container.classList.remove('disabled');
+        if (controls) controls.classList.remove('disabled');
+        buttons.forEach(btn => btn.disabled = false);
+        ctrlButtons.forEach(btn => btn.disabled = false);
+    } else {
+        if (container) container.classList.add('disabled');
+        if (controls) controls.classList.add('disabled');
+        buttons.forEach(btn => btn.disabled = true);
+        ctrlButtons.forEach(btn => btn.disabled = true);
+    }
+
+    saveFiltersState();
+    applyFilters();
+}
+
 function applyFilters() {
     const cards = document.querySelectorAll('.event-column');
     let visibleCount = 0;
@@ -569,13 +633,15 @@ function applyFilters() {
         const matchesType = activeType === 'all' || card.dataset.type === activeType;
         
         let matchesTopic = true;
-        const topicButtons = document.querySelectorAll('.topic-toggle-btn');
-        if (topicButtons.length > 0) {
-            if (activeTopics.length === topicButtons.length) {
-                matchesTopic = true;
-            } else {
-                const cardTopics = card.dataset.topics ? card.dataset.topics.split(',') : [];
-                matchesTopic = cardTopics.some(t => activeTopics.includes(t));
+        if (topicFilterEnabled) {
+            const topicButtons = document.querySelectorAll('.topic-toggle-btn');
+            if (topicButtons.length > 0) {
+                if (activeTopics.length === topicButtons.length) {
+                    matchesTopic = true;
+                } else {
+                    const cardTopics = card.dataset.topics ? card.dataset.topics.split(',') : [];
+                    matchesTopic = cardTopics.some(t => activeTopics.includes(t));
+                }
             }
         }
 
@@ -591,10 +657,12 @@ function applyFilters() {
         }
 
         let matchesLanguage = true;
-        const buttons = document.querySelectorAll('.lang-toggle-btn');
-        if (buttons.length > 0) {
-            const cardLang = card.dataset.language || 'Unknown';
-            matchesLanguage = activeLanguages.includes(cardLang);
+        if (languageFilterEnabled) {
+            const buttons = document.querySelectorAll('.lang-toggle-btn');
+            if (buttons.length > 0) {
+                const cardLang = card.dataset.language || 'Unknown';
+                matchesLanguage = activeLanguages.includes(cardLang);
+            }
         }
 
         if (matchesType && matchesTopic && matchesTime && matchesLanguage) {
@@ -845,6 +913,40 @@ function renderFuturePage(events) {
                     btn.classList.remove('active');
                 }
             });
+        }
+        if (savedState.hasOwnProperty('languageFilterEnabled')) {
+            languageFilterEnabled = savedState.languageFilterEnabled;
+            const checkbox = document.getElementById('language-filter-toggle');
+            if (checkbox) {
+                checkbox.checked = languageFilterEnabled;
+            }
+            const buttons = document.querySelectorAll('.lang-toggle-btn');
+            const ctrlButtons = document.querySelectorAll('#language-controls .ctrl-btn');
+            const container = document.getElementById('language-buttons');
+            const controls = document.getElementById('language-controls');
+            if (!languageFilterEnabled) {
+                if (container) container.classList.add('disabled');
+                if (controls) controls.classList.add('disabled');
+                buttons.forEach(btn => btn.disabled = true);
+                ctrlButtons.forEach(btn => btn.disabled = true);
+            }
+        }
+        if (savedState.hasOwnProperty('topicFilterEnabled')) {
+            topicFilterEnabled = savedState.topicFilterEnabled;
+            const checkbox = document.getElementById('topic-filter-toggle');
+            if (checkbox) {
+                checkbox.checked = topicFilterEnabled;
+            }
+            const buttons = document.querySelectorAll('.topic-toggle-btn');
+            const ctrlButtons = document.querySelectorAll('#topic-controls .ctrl-btn');
+            const container = document.getElementById('topic-buttons');
+            const controls = document.getElementById('topic-controls');
+            if (!topicFilterEnabled) {
+                if (container) container.classList.add('disabled');
+                if (controls) controls.classList.add('disabled');
+                buttons.forEach(btn => btn.disabled = true);
+                ctrlButtons.forEach(btn => btn.disabled = true);
+            }
         }
     }
 
