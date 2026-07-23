@@ -3020,6 +3020,10 @@
     "link": "https://www.meetup.com/rust-melbourne"
   },
   {
+    "name": "Rust Melbourne",
+    "link": "https://lu.ma/rustmelbourne"
+  },
+  {
     "name": "Rust Montréal",
     "link": "https://www.meetup.com/Rust-Montreal"
   },
@@ -3134,6 +3138,14 @@
   {
     "name": "Rust 🦀 TLV",
     "link": "https://www.meetup.com/rust-tlv"
+  },
+  {
+    "name": "Rust-SP",
+    "link": "https://lu.ma/calendar/cal-bif2oHITU1aVvsr"
+  },
+  {
+    "name": "RustMX",
+    "link": "https://lu.ma/rustmx"
   },
   {
     "name": "RustNL",

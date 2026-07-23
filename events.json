@@ -2403,6 +2403,18 @@
     "card_type": "in-person",
     "badge_text": "In-Person",
     "date_str": "2026-07-29",
+    "utc_datetime": "2026-07-29T18:30:00.000-06:00",
+    "event_url": "https://luma.com/ckgfuat8",
+    "title": "Meetup RustMX Julio 2026",
+    "group_name": "RustMX",
+    "data_topics": "rust",
+    "data_topic_names": "Rust",
+    "language": "English"
+  },
+  {
+    "card_type": "in-person",
+    "badge_text": "In-Person",
+    "date_str": "2026-07-29",
     "utc_datetime": "2026-07-29T17:30:00-07:00",
     "event_url": "https://www.meetup.com/psppython/events/315509789/",
     "title": "Python talk night at F5 Networks",
@@ -2430,6 +2442,18 @@
     "utc_datetime": "2026-07-30T17:30:00+10:00",
     "event_url": "https://www.meetup.com/rust-melbourne/events/315039480/",
     "title": "Rust Melbourne July 2026",
+    "group_name": "Rust Melbourne",
+    "data_topics": "rust",
+    "data_topic_names": "Rust",
+    "language": "English"
+  },
+  {
+    "card_type": "in-person",
+    "badge_text": "In-Person",
+    "date_str": "2026-07-30",
+    "utc_datetime": "2026-07-30T17:30:00.000+10:00",
+    "event_url": "https://luma.com/uwc3l3w1",
+    "title": "Rust Melbourne Meetup",
     "group_name": "Rust Melbourne",
     "data_topics": "rust",
     "data_topic_names": "Rust",
@@ -3526,6 +3550,18 @@
     "data_topics": "python,open-source,computer-programming,software-development,python-web-development",
     "data_topic_names": "Python,Open Source,Computer Programming,Software Development,Python Web Development",
     "language": "Portuguese"
+  },
+  {
+    "card_type": "in-person",
+    "badge_text": "In-Person",
+    "date_str": "2026-08-08",
+    "utc_datetime": "2026-08-08T09:00:00.000-03:00",
+    "event_url": "https://luma.com/41oiyhtk",
+    "title": "Rust SP - Aug/2026",
+    "group_name": "Rust-SP",
+    "data_topics": "rust",
+    "data_topic_names": "Rust",
+    "language": "English"
   },
   {
     "card_type": "in-person",
