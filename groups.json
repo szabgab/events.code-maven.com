@@ -1820,6 +1820,10 @@
     "link": "https://www.meetup.com/PereiraJS"
   },
   {
+    "name": "Perl Maven",
+    "link": "https://lu.ma/perl-maven"
+  },
+  {
     "name": "Perú Rust User Group",
     "link": "https://www.meetup.com/peru-rust-user-group"
   },
@@ -2748,6 +2752,10 @@
     "link": "https://www.meetup.com/react-chicago"
   },
   {
+    "name": "React Israel",
+    "link": "https://lu.ma/react-il"
+  },
+  {
     "name": "React Melbourne",
     "link": "https://www.meetup.com/React-Melbourne"
   },
@@ -2790,6 +2798,10 @@
   {
     "name": "Redditors Happy Hour",
     "link": "https://www.meetup.com/hackreactor"
+  },
+  {
+    "name": "RedisTLV",
+    "link": "https://lu.ma/redistlv"
   },
   {
     "name": "Remix Utah",
@@ -3408,6 +3420,10 @@
     "link": "https://www.meetup.com/tim-js"
   },
   {
+    "name": "TLVCommunity Events",
+    "link": "https://lu.ma/tlvcommunity"
+  },
+  {
     "name": "to be removed",
     "link": "https://www.meetup.com/meetup-group-sxxmycyt"
   },
@@ -3434,6 +3450,10 @@
   {
     "name": "Toronto Elixir",
     "link": "https://www.meetup.com/TorontoElixir"
+  },
+  {
+    "name": "Toronto Perl Mongers",
+    "link": "https://lu.ma/calendar/cal-ZFzHes2YwV6j0h9"
   },
   {
     "name": "Triangle Java Users Group (TriJUG)",
@@ -3606,6 +3626,10 @@
   {
     "name": "Web3 Developer Underground Israel",
     "link": "https://www.meetup.com/israel-web3-developer-underground"
+  },
+  {
+    "name": "Web3 Devs Underground",
+    "link": "https://lu.ma/web3devs_underground"
   },
   {
     "name": "WebAssembly SG",
