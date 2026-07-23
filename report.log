@@ -1,0 +1,2 @@
+2026-07-23T06:36:15.616881Z  INFO report: Starting report tool
+2026-07-23T06:36:15.617337Z ERROR report: Error reading meetup.yaml: Failed to read data/meetup.yaml: No such file or directory (os error 2)
