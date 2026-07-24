@@ -66,6 +66,11 @@ body {
     transform: translateX(0);
 }
 
+#settings-panel {
+    width: 100vw;
+    border-left: none;
+}
+
 .settings-overlay {
     position: fixed;
     top: 0;
@@ -182,6 +187,19 @@ body {
 
 .github-link:hover {
     color: var(--bulma-link) !important;
+}
+
+/* Visible separation for settings options */
+.settings-group {
+    border-bottom: 1px solid var(--bulma-border-weak);
+    padding-bottom: 2rem;
+    margin-bottom: 2rem !important;
+}
+
+.settings-group:last-child {
+    border-bottom: none;
+    padding-bottom: 0;
+    margin-bottom: 0 !important;
 }
 
     </style>
