@@ -436,10 +436,6 @@
     "link": "https://www.meetup.com/bcnrust"
   },
   {
-    "name": "BEACON",
-    "link": "https://www.meetup.com/meetup-group-cnstsrnk"
-  },
-  {
     "name": "BEAM Languages United - Elixir, Erlang & More @ Stockholm",
     "link": "https://www.meetup.com/l-o-b-stockholm"
   },
@@ -1616,6 +1612,10 @@
     "link": "https://www.meetup.com/foo-meetup-coimbatore"
   },
   {
+    "name": "FOR GUYS - International party in Osaka",
+    "link": "https://www.meetup.com/meetup-group-cnstsrnk"
+  },
+  {
     "name": "Foundation Front-end Framework BH",
     "link": "https://www.meetup.com/Belo-Horizonte-Inovacao-Meetup"
   },
@@ -1730,6 +1730,10 @@
   {
     "name": "functional(Curitiba)",
     "link": "https://www.meetup.com/Curitiba-Funcional"
+  },
+  {
+    "name": "Fundamentals",
+    "link": "https://www.meetup.com/languages22"
   },
   {
     "name": "Future of Data: San Francisco",
@@ -2390,10 +2394,6 @@
   {
     "name": "Java Bogota",
     "link": "https://www.meetup.com/meetup-group-yqquripr"
-  },
-  {
-    "name": "Java Fundamentals",
-    "link": "https://www.meetup.com/java-fundamentals"
   },
   {
     "name": "Java João Pessoa",
