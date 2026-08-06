@@ -108,6 +108,30 @@
     "link": "https://www.meetup.com/ai-london"
   },
   {
+    "name": "AI Meetup (open source personal AI cloud, olares.com)",
+    "link": "https://www.meetup.com/wasm-rust-meetup"
+  },
+  {
+    "name": "AI Professionals Athens",
+    "link": "https://www.meetup.com/ai-professionals-athens"
+  },
+  {
+    "name": "AI Professionals Bristol",
+    "link": "https://www.meetup.com/ai-professionals-bristol"
+  },
+  {
+    "name": "AI Professionals Pune",
+    "link": "https://www.meetup.com/ai-professionals-pune"
+  },
+  {
+    "name": "AI Professionals Stockholm",
+    "link": "https://www.meetup.com/ai-professionals-stockholm"
+  },
+  {
+    "name": "AI Professionals Sydney",
+    "link": "https://www.meetup.com/ai-professionals-sydney"
+  },
+  {
     "name": "AI Visibility & Brand Presence in ChatGPT",
     "link": "https://www.meetup.com/ai-visibility-brand-presence-in-chatgpt"
   },
@@ -2668,10 +2692,6 @@
     "link": "https://www.meetup.com/lambda-montreal"
   },
   {
-    "name": "Language Exchange in a Natural Setting",
-    "link": "https://www.meetup.com/practice-english-japanese-in-nature"
-  },
-  {
     "name": "Language Tool Meetup Tokyo",
     "link": "https://www.meetup.com/Language-Tool-Meetup-Tokyo"
   },
@@ -4104,10 +4124,6 @@
     "link": "https://www.meetup.com/pydata-ann-arbor"
   },
   {
-    "name": "PyData Athens",
-    "link": "https://www.meetup.com/PyData-Athens"
-  },
-  {
     "name": "PyData Atlanta",
     "link": "https://www.meetup.com/PyData-Atlanta"
   },
@@ -4126,10 +4142,6 @@
   {
     "name": "PyData Boston - Cambridge",
     "link": "https://www.meetup.com/pydata-boston-cambridge"
-  },
-  {
-    "name": "PyData Bristol",
-    "link": "https://www.meetup.com/PyData-Bristol"
   },
   {
     "name": "PyData Buenos Aires",
@@ -4360,10 +4372,6 @@
     "link": "https://www.meetup.com/PyData-Prague"
   },
   {
-    "name": "PyData Pune",
-    "link": "https://www.meetup.com/pydata-pune"
-  },
-  {
     "name": "PyData Rhein-Main - Artificial Intelligence in Python",
     "link": "https://www.meetup.com/pydata-rhein-main"
   },
@@ -4412,16 +4420,8 @@
     "link": "https://www.meetup.com/pydata-st-louis"
   },
   {
-    "name": "PyData Stockholm",
-    "link": "https://www.meetup.com/pydatastockholm"
-  },
-  {
     "name": "PyData Surrey",
     "link": "https://www.meetup.com/pydata-surrey"
-  },
-  {
-    "name": "PyData Sydney",
-    "link": "https://www.meetup.com/PyData-Sydney"
   },
   {
     "name": "PyData São Paulo",
@@ -6220,6 +6220,10 @@
     "link": "https://www.meetup.com/Tokyo-Haskell-Meetup"
   },
   {
+    "name": "Tokyo Nature Lovers & Japanese Culture",
+    "link": "https://www.meetup.com/tokyo-nature-lovers"
+  },
+  {
     "name": "Tokyo Python",
     "link": "https://www.meetup.com/tokyopython"
   },
@@ -6466,10 +6470,6 @@
   {
     "name": "VlbgWebDev",
     "link": "https://www.meetup.com/vlbgwebdev"
-  },
-  {
-    "name": "Voice AI and Rust Meetup (Rust for AI, lowcoderust.com)",
-    "link": "https://www.meetup.com/wasm-rust-meetup"
   },
   {
     "name": "Vrouwencirkel",
