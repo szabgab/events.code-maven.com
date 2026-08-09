@@ -3,30 +3,6 @@
     "card_type": "in-person",
     "badge_text": "In-Person",
     "date_str": "2026-08-09",
-    "utc_datetime": "2026-08-09T15:30:00+09:00",
-    "event_url": "https://www.meetup.com/senbado-badminton-table-tennis/events/315987256/",
-    "title": "🏸 8/9（日）15:30〜18:00｜初心者歓迎！ゆるく楽しむバドミントン",
-    "group_name": "Senbado (badminton &table tennis)",
-    "data_topics": "recreational-sports",
-    "data_topic_names": "Recreational Sports",
-    "language": "Japanese"
-  },
-  {
-    "card_type": "in-person",
-    "badge_text": "In-Person",
-    "date_str": "2026-08-09",
-    "utc_datetime": "2026-08-09T11:00:00+04:00",
-    "event_url": "https://www.meetup.com/mongodb-usergroup-dubai/events/315814555/",
-    "title": "Voyage AI by MongoDB",
-    "group_name": "Dubai MongoDB User Group",
-    "data_topics": "new-technology,technology,database-backends,technology-startups,software-development,ai-algorithms,mongodb,backend",
-    "data_topic_names": "New Technology,Technology,Database Backends,Technology Startups,Software Development,AI Algorithms,MongoDB,Backend",
-    "language": "English"
-  },
-  {
-    "card_type": "in-person",
-    "badge_text": "In-Person",
-    "date_str": "2026-08-09",
     "utc_datetime": "2026-08-09T17:00:00+03:00",
     "event_url": "https://www.meetup.com/makelab-israel-for-innovation-making-and-creativity/events/315680954/",
     "title": "סדנת טראצו",
@@ -2602,6 +2578,18 @@
     "data_topics": "open-source,web-development,php",
     "data_topic_names": "Open Source,Web Development,PHP",
     "language": "English"
+  },
+  {
+    "card_type": "in-person",
+    "badge_text": "In-Person",
+    "date_str": "2026-08-20",
+    "utc_datetime": "2026-08-20T18:00:00-03:00",
+    "event_url": "https://www.meetup.com/golangbr/events/316026380/",
+    "title": "Golang SP & Howdy - #115 ",
+    "group_name": "Golang SP",
+    "data_topics": "open-source,new-technology,web-development,programming-languages,computer-programming,high-performance-computing,concurrent-programming,distributed-systems,software-development,web-technology,golang",
+    "data_topic_names": "Open Source,New Technology,Web Development,Programming Languages,Computer Programming,High Performance Computing,Concurrent Programming,Distributed Systems,Software Development,Web Technology,Golang",
+    "language": "Portuguese"
   },
   {
     "card_type": "in-person",
@@ -5205,6 +5193,18 @@
     "group_name": "Orange Combinator - Functional Programming In OC",
     "data_topics": "clojure,erlang-programming,f-programming,elixir,idris",
     "data_topic_names": "Clojure,Erlang Programming,F# Programming,Elixir,Idris",
+    "language": "English"
+  },
+  {
+    "card_type": "in-person",
+    "badge_text": "In-Person",
+    "date_str": "2026-09-08",
+    "utc_datetime": "2026-09-08T09:00:00+02:00",
+    "event_url": "https://www.meetup.com/rust-language-milan/events/314329222/",
+    "title": "RustConf 2026",
+    "group_name": "Rust Language Milan",
+    "data_topics": "open-source,programming-languages,computer-programming,software-development,rust",
+    "data_topic_names": "Open Source,Programming Languages,Computer Programming,Software Development,Rust",
     "language": "English"
   }
 ]
