@@ -824,7 +824,7 @@ function renderFuturePage(events) {
                         </header>
                         <div class="card-content px-4 py-3 is-flex-grow-1">
                             <a href="${event.event_url}" class="title is-5 is-block mb-2" target="_blank" rel="noopener noreferrer" style="line-clamp: 2; -webkit-line-clamp: 2; display: -webkit-box; -webkit-box-orient: vertical; overflow: hidden; height: 3.0em;">${event.title}</a>
-                            <p class="subtitle is-6 has-text-grey">by ${event.group_name}${event.language ? ' • ' + event.language : ''}</p>
+                            <p class="subtitle is-6 has-text-grey">by ${event.group_name}${event.language ? ' • ' + event.language : ''}${event.totalCount !== undefined && event.totalCount !== null ? ' • ' + event.totalCount + ' RSVPs' : ''}</p>
                         </div>
                         <footer class="card-footer">
                             <a href="${event.event_url}" class="card-footer-item" target="_blank" rel="noopener noreferrer">
@@ -1031,6 +1031,130 @@ document.addEventListener("DOMContentLoaded", () => {
         applyFilters();
     }
 });
+
+let currentPastEvents = [];
+
+function loadTopicEvents(filename, btn) {
+    if (!filename) return;
+
+    // Reset active type filter to all
+    activeType = 'all';
+    const filterButtons = document.querySelectorAll('.filters .filter-btn');
+    filterButtons.forEach(b => {
+        b.classList.remove('active');
+        if (b.getAttribute('onclick') && b.getAttribute('onclick').includes('all')) {
+            b.classList.add('active');
+        }
+    });
+
+    // Remove initial prompt if it exists
+    const initialPrompt = document.getElementById('initial-prompt');
+    if (initialPrompt) {
+        initialPrompt.remove();
+    }
+
+    // Highlight the active button
+    const buttons = document.querySelectorAll('.topic-select-btn');
+    buttons.forEach(b => {
+        b.classList.remove('is-link');
+        b.classList.remove('is-selected');
+    });
+    if (btn) {
+        btn.classList.add('is-link');
+        btn.classList.add('is-selected');
+    }
+
+    // Show loading state
+    const grid = document.getElementById('events-grid');
+    if (grid) {
+        grid.innerHTML = `
+            <div class="column is-12 text-center my-5">
+                <button class="button is-loading is-large is-ghost">Loading events...</button>
+            </div>
+        `;
+    }
+
+    fetch(filename)
+        .then(res => res.json())
+        .then(events => {
+            currentPastEvents = events;
+            renderPastEvents(events);
+            
+            // Show stats and filters
+            const stats = document.getElementById('past-stats');
+            const filters = document.getElementById('past-filters');
+            if (stats) stats.style.display = 'block';
+            if (filters) filters.style.display = 'flex';
+        })
+        .catch(err => {
+            console.error('Failed to load past events:', err);
+            if (grid) {
+                grid.innerHTML = `
+                    <div class="column is-12 text-center">
+                        <div class="notification is-danger">
+                            Failed to load events for this topic.
+                        </div>
+                    </div>
+                `;
+            }
+        });
+}
+
+function renderPastEvents(events) {
+    const grid = document.getElementById('events-grid');
+    if (!grid) return;
+
+    grid.innerHTML = '';
+    
+    const totalCountEl = document.getElementById('total-count');
+    if (totalCountEl) {
+        totalCountEl.innerText = events.length;
+    }
+
+    if (events.length === 0) {
+        grid.innerHTML = `
+            <div class="column is-12 no-events text-center">
+                <div class="notification is-light">
+                    No past events found for this topic.
+                </div>
+            </div>
+        `;
+    } else {
+        events.forEach(event => {
+            const cardCol = document.createElement('div');
+            cardCol.className = 'column is-4-desktop is-6-tablet event-column';
+            cardCol.dataset.type = event.card_type;
+            cardCol.dataset.topics = event.data_topics;
+            cardCol.dataset.topicNames = event.data_topic_names;
+            cardCol.dataset.language = event.language || '';
+            
+            cardCol.innerHTML = `
+                <div class="card is-flex is-flex-direction-column" style="height: 100%;">
+                    <header class="card-header is-shadowless">
+                        <div class="card-header-title is-flex is-justify-content-between is-align-items-center w-100 px-4 py-3">
+                            <span class="tag ${event.card_type}">${event.badge_text}</span>
+                            <span class="date-time is-size-7 has-text-grey" data-utc="${event.utc_datetime}">${event.date_str}</span>
+                        </div>
+                    </header>
+                    <div class="card-content px-4 py-3 is-flex-grow-1">
+                        <a href="${event.event_url}" class="title is-5 is-block mb-2" target="_blank" rel="noopener noreferrer" style="line-clamp: 2; -webkit-line-clamp: 2; display: -webkit-box; -webkit-box-orient: vertical; overflow: hidden; height: 3.0em;">${event.title}</a>
+                        <p class="subtitle is-6 has-text-grey">by ${event.group_name}${event.language ? ' • ' + event.language : ''}${event.totalCount !== undefined && event.totalCount !== null ? ' • ' + event.totalCount + ' RSVPs' : ''}</p>
+                    </div>
+                    <footer class="card-footer">
+                        <a href="${event.event_url}" class="card-footer-item" target="_blank" rel="noopener noreferrer">
+                            Details
+                        </a>
+                    </footer>
+                </div>
+            `;
+            grid.appendChild(cardCol);
+        });
+    }
+
+    formatDates();
+    applyFilters();
+}
+
 
     </script>
 </body>
