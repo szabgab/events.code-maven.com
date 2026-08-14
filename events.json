@@ -1,57 +1,5 @@
 [
   {
-    "card_type": "in-person",
-    "badge_text": "In-Person",
-    "date_str": "2026-08-14",
-    "utc_datetime": "2026-08-14T13:30:00+09:00",
-    "event_url": "https://www.meetup.com/osaka-kobe-learning-strategies-meetup-group/events/316068467/",
-    "title": "【梅田】🎉Native & Japanese Game Night 🇯🇵🇬🇧🇺🇸 First 2 Native  FREE! | ",
-    "group_name": "笑って学べる英会話  Kobe,Osaka,Online for (Natives&JP)",
-    "data_topics": "english,language-exchange",
-    "data_topic_names": "English,Language Exchange",
-    "language": "Japanese",
-    "totalCount": 1
-  },
-  {
-    "card_type": "online",
-    "badge_text": "Online",
-    "date_str": "2026-08-14",
-    "utc_datetime": "2026-08-14T16:30:00+10:00",
-    "event_url": "https://www.meetup.com/ai-professionals-sydney/events/316101645/",
-    "title": "Networking for AI Professionals around the world - August 13",
-    "group_name": "AI Professionals Sydney",
-    "data_topics": "machine-intelligence,deep-learning,machine-learning,big-data,data-analytics",
-    "data_topic_names": "Machine Intelligence,Deep Learning,Machine Learning,Big Data,Data Analytics",
-    "language": "English",
-    "totalCount": 3
-  },
-  {
-    "card_type": "in-person",
-    "badge_text": "In-Person",
-    "date_str": "2026-08-14",
-    "utc_datetime": "2026-08-14T11:00:00+03:00",
-    "event_url": "https://www.meetup.com/tel-aviv-yafo-philosophy-meetup-group/events/wdvrttyjclbsb/",
-    "title": "Philosophy Group Meeting -- Hebrew",
-    "group_name": "Tel Aviv Philosophy Group",
-    "data_topics": "philosophy,ethics,philosophical-debate,classic-books,intellectual-discussions,lectures,culture",
-    "data_topic_names": "Philosophy,Ethics,Philosophical Debate,Classic Books,Intellectual Discussions,Lectures,Culture",
-    "language": "English",
-    "totalCount": 1
-  },
-  {
-    "card_type": "in-person",
-    "badge_text": "In-Person",
-    "date_str": "2026-08-14",
-    "utc_datetime": "2026-08-14T18:40:00+09:00",
-    "event_url": "https://www.meetup.com/%E3%83%A4%E3%83%9F%E3%83%88%E3%83%A2%E4%BA%A4%E6%B5%81%E4%BC%9A/events/315756716/",
-    "title": "【最大30名】心が疲れた人の交流会『ヤミトモ』《累計10,000名参加》◆1ドリンク付き",
-    "group_name": "ヤミトモ交流会",
-    "data_topics": "personal-growth,social-anxiety,mental-health-support,anxiety,mental-health-peer-support",
-    "data_topic_names": "Personal Growth,Social Anxiety,Mental Health Support,Anxiety,Mental Health Peer Support",
-    "language": "Japanese",
-    "totalCount": 4
-  },
-  {
     "card_type": "online",
     "badge_text": "Online",
     "date_str": "2026-08-14",
@@ -6407,5 +6355,31 @@
     "data_topic_names": "Python,Open Source,Django,Computer Programming,Data Visualization,Data Science,Computer Science,Software Development,Data Science using Python,Machine Learning,Python Web Development,Open Source Python,Machine Learning with Python",
     "language": "English",
     "totalCount": 2
+  },
+  {
+    "card_type": "online",
+    "badge_text": "Online",
+    "date_str": "2026-09-13",
+    "utc_datetime": "2026-09-13T12:00:00+03:00",
+    "event_url": "https://www.meetup.com/softwarehub/events/vgpmwtyjcmbrb/",
+    "title": "kubernetes (delayer, deconstruct, dissect)",
+    "group_name": "SoftwareHub Ankara",
+    "data_topics": "linux,devops,docker,kubernetes,golang",
+    "data_topic_names": "Linux,DevOps,Docker,Kubernetes,Golang",
+    "language": "English",
+    "totalCount": 1
+  },
+  {
+    "card_type": "online",
+    "badge_text": "Online",
+    "date_str": "2026-09-13",
+    "utc_datetime": "2026-09-13T16:00:00+07:00",
+    "event_url": "https://www.meetup.com/softwarehubasean/events/xgpmwtyjcmbrb/",
+    "title": "kubernetes (delayer, deconstruct, dissect)",
+    "group_name": "SoftwareHub ASEAN",
+    "data_topics": "linux,devops,docker,kubernetes,golang",
+    "data_topic_names": "Linux,DevOps,Docker,Kubernetes,Golang",
+    "language": "English",
+    "totalCount": 1
   }
 ]
