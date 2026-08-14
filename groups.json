@@ -120,6 +120,10 @@
     "link": "https://www.meetup.com/ai-professionals-bristol"
   },
   {
+    "name": "AI Professionals Malaga",
+    "link": "https://www.meetup.com/ai-professionals-malaga"
+  },
+  {
     "name": "AI Professionals Pune",
     "link": "https://www.meetup.com/ai-professionals-pune"
   },
@@ -4314,10 +4318,6 @@
   {
     "name": "PyData Madrid",
     "link": "https://www.meetup.com/pydata-madrid"
-  },
-  {
-    "name": "PyData Malaga",
-    "link": "https://www.meetup.com/pydata-malaga"
   },
   {
     "name": "PyData Mallorca",
