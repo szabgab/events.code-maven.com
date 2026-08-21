@@ -29,7 +29,7 @@
   },
   {
     "name": ".NET Usergroup Zentralschweiz",
-    "link": "https://www.meetup.com/NET-Usergroup-Zentralschweiz"
+    "link": "https://www.meetup.com/net-usergroup-zentralschweiz"
   },
   {
     "name": "010PHP",
@@ -62,10 +62,6 @@
   {
     "name": "adminR: R in Swiss Official Statistics",
     "link": "https://www.meetup.com/adminR"
-  },
-  {
-    "name": "Aerospike Developer Professionals Group | Lithuania",
-    "link": "https://www.meetup.com/aerospike-developer-professionals-group"
   },
   {
     "name": "African Ruby Community",
@@ -2830,6 +2826,10 @@
   {
     "name": "Lisbon MongoDB User Group",
     "link": "https://www.meetup.com/mongodb-usergroup-lisbon"
+  },
+  {
+    "name": "Lithuania Aerospike Developer Professionals Group",
+    "link": "https://www.meetup.com/aerospike-developer-professionals-group"
   },
   {
     "name": "LJC - London Java Community",
