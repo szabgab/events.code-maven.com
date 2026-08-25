@@ -1,9 +1,5 @@
 [
   {
-    "name": " PyData Bristol",
-    "link": "https://www.meetup.com/ai-professionals-bristol"
-  },
-  {
     "name": "\" ¡ ᗯᗩᑎTEᗪ TO ᗪO TᕼᗩT . . . ᒍᑌᔕT ᑎOT ᗩᒪOᑎE ! ! ! ℠ San Diego",
     "link": "https://www.meetup.com/iwanttodothatsd"
   },
@@ -114,10 +110,6 @@
   {
     "name": "AI Professionals Athens",
     "link": "https://www.meetup.com/ai-professionals-athens"
-  },
-  {
-    "name": "AI Professionals Malaga",
-    "link": "https://www.meetup.com/ai-professionals-malaga"
   },
   {
     "name": "AI Professionals Pune",
@@ -3953,7 +3945,7 @@
   },
   {
     "name": "PMO (Polyglots/多言語話者 Meetup OSAKA)",
-    "link": "https://www.meetup.com/Osaka-Polyglots-Meetup"
+    "link": "https://www.meetup.com/osaka-polyglots-meetup"
   },
   {
     "name": "Polish Java User Group",
@@ -4148,6 +4140,10 @@
     "link": "https://www.meetup.com/pydata-boston-cambridge"
   },
   {
+    "name": "PyData Bristol",
+    "link": "https://www.meetup.com/pydata-bristol"
+  },
+  {
     "name": "PyData Buenos Aires",
     "link": "https://www.meetup.com/pydata-buenos-aires"
   },
@@ -4318,6 +4314,10 @@
   {
     "name": "PyData Madrid",
     "link": "https://www.meetup.com/pydata-madrid"
+  },
+  {
+    "name": "PyData Malaga",
+    "link": "https://www.meetup.com/pydata-malaga"
   },
   {
     "name": "PyData Mallorca",
