@@ -260,10 +260,6 @@
     "link": "https://www.meetup.com/apache-flink-sf"
   },
   {
-    "name": "Apache Kafka - Vancouver, BC",
-    "link": "https://www.meetup.com/vancouver-kafka"
-  },
-  {
     "name": "Apache Kafka® Madrid",
     "link": "https://www.meetup.com/apachekafkamadrid"
   },
@@ -844,8 +840,8 @@
     "link": "https://www.meetup.com/CAFDA-FM"
   },
   {
-    "name": "Chicago Area Kafka Enthusiasts",
-    "link": "https://www.meetup.com/Chicago-Area-Kafka-Enthusiasts"
+    "name": "Chicago Area Kafka® Ecosystem Enthusiasts",
+    "link": "https://www.meetup.com/chicago-area-kafka-enthusiasts"
   },
   {
     "name": "Chicago Clojure",
@@ -2380,8 +2376,8 @@
     "link": "https://www.meetup.com/Jaipur-PHP-Meetup"
   },
   {
-    "name": "Jakarta Apache Kafka® Meetup by Confluent",
-    "link": "https://www.meetup.com/Jakarta-Kafka"
+    "name": "Jakarta Apache Kafka® Ecosystem Meetup by Confluent",
+    "link": "https://www.meetup.com/jakarta-kafka"
   },
   {
     "name": "Jakarta mongoDB (IDMUG)",
@@ -3472,7 +3468,7 @@
     "link": "https://www.meetup.com/nx-wroclaw"
   },
   {
-    "name": "NYC Area CockroachDB Open Collaborative Group",
+    "name": "NYC Area Cockroach Labs Open Collaborative Group",
     "link": "https://www.meetup.com/nyc-cockroachdb-user-group"
   },
   {
@@ -6406,6 +6402,10 @@
   {
     "name": "Vadodara Ruby On Rails Meetup",
     "link": "https://www.meetup.com/Vadodara-Ruby-On-Rails-Meetup"
+  },
+  {
+    "name": "Vancouver Apache Kafka® Ecosystem Meetup by Confluent",
+    "link": "https://www.meetup.com/vancouver-kafka"
   },
   {
     "name": "Vancouver Erlang & Elixir Meetup",
