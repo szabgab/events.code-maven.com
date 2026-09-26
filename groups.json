@@ -1068,10 +1068,6 @@
     "link": "https://www.meetup.com/Connecticut-FileMaker-Developers-Group-CFDG"
   },
   {
-    "name": "Copenhagen Clojure Meetup",
-    "link": "https://www.meetup.com/copenhagen-clojure-meetup"
-  },
-  {
     "name": "Copenhagen Javagruppen Meetup",
     "link": "https://www.meetup.com/Copenhagen-Javagruppen-Meetup"
   },
@@ -3202,6 +3198,10 @@
   {
     "name": "Mountain View Rust Meetup",
     "link": "https://www.meetup.com/mv-rust-meetup"
+  },
+  {
+    "name": "Moved to clojure.dk : Copenhagen Clojure Meetup",
+    "link": "https://www.meetup.com/copenhagen-clojure-meetup"
   },
   {
     "name": "MozKopdar Surabaya - Oktober 2014",
