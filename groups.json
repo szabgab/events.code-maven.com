@@ -1616,10 +1616,6 @@
     "link": "https://www.meetup.com/flutter-voronezh"
   },
   {
-    "name": "foo-meetup coimbatore",
-    "link": "https://www.meetup.com/foo-meetup-coimbatore"
-  },
-  {
     "name": "FOR GUYS - International party in Osaka",
     "link": "https://www.meetup.com/meetup-group-cnstsrnk"
   },
@@ -1634,6 +1630,10 @@
   {
     "name": "Founders Running Club Tel Aviv",
     "link": "https://www.meetup.com/founders-running-club-tel-aviv"
+  },
+  {
+    "name": "FounderSpark Coimbatore",
+    "link": "https://www.meetup.com/foundersparkcoimbatore"
   },
   {
     "name": "FP-Syd",
