@@ -23,7 +23,7 @@
     "data_topics": "open-source,data-visualization,neo4j,graph-databases,neo4j-social,big-data,data-analytics,nosql",
     "data_topic_names": "Open Source,Data Visualization,Neo4j,Graph Databases,Neo4j-Social,Big Data,Data Analytics,NoSQL",
     "language": "English",
-    "totalCount": 58
+    "totalCount": 59
   },
   {
     "card_type": "in-person",
@@ -89,6 +89,19 @@
     "data_topic_names": "Community,Computer Gaming,Hanging Out,Afterwork,Game Night",
     "language": "English",
     "totalCount": 4
+  },
+  {
+    "card_type": "online",
+    "badge_text": "Online",
+    "date_str": "2026-11-04",
+    "utc_datetime": "2026-11-04T18:00:00.000+02:00",
+    "event_url": "https://luma.com/t1yj0wp1",
+    "title": "The Binance Hack: A Full, Live, Cyber Analysis Report",
+    "group_name": "Web3 Devs Underground",
+    "data_topics": "web3,blockchain",
+    "data_topic_names": "Web3,Blockchain",
+    "language": "English",
+    "totalCount": null
   },
   {
     "card_type": "online",
@@ -218,7 +231,7 @@
     "data_topics": "python,open-source,business-intelligence,big-data,data-management",
     "data_topic_names": "Python,Open Source,Business Intelligence,Big Data,Data Management",
     "language": "English",
-    "totalCount": 290
+    "totalCount": 288
   },
   {
     "card_type": "online",
@@ -439,7 +452,7 @@
     "data_topics": "open-source,programming-languages,haskell,functional-programming,clojure,computer-programming,erlang-programming,jvm-languages,software-development,lisp,scala",
     "data_topic_names": "Open Source,Programming Languages,Haskell,Functional Programming,Clojure,Computer Programming,Erlang Programming,JVM Languages,Software Development,Lisp,Scala",
     "language": "English",
-    "totalCount": 20
+    "totalCount": 21
   },
   {
     "card_type": "in-person",
@@ -478,7 +491,7 @@
     "data_topics": "computer-programming,ai-and-society,computer-science,software-development",
     "data_topic_names": "Computer Programming,AI and Society,Computer Science,Software Development",
     "language": "English",
-    "totalCount": 45
+    "totalCount": 46
   },
   {
     "card_type": "in-person",
@@ -569,7 +582,7 @@
     "data_topics": "database-professionals,software-development,sql-server,sql-azure",
     "data_topic_names": "Database Professionals,Software Development,SQL Server,SQL Azure",
     "language": "English",
-    "totalCount": 5
+    "totalCount": 6
   },
   {
     "card_type": "online",
@@ -673,7 +686,7 @@
     "data_topics": "web-performance,cloud-computing,web-development,programming-languages,computer-programming,concurrent-programming,software-development,web-technology,web-application,backend,software-engineering,golang",
     "data_topic_names": "Web Performance,Cloud Computing,Web Development,Programming Languages,Computer Programming,Concurrent Programming,Software Development,Web Technology,Web Application,Backend,Software Engineering,Golang",
     "language": "French",
-    "totalCount": 1
+    "totalCount": 2
   },
   {
     "card_type": "online",
@@ -803,7 +816,7 @@
     "data_topics": "open-source,new-technology,web-development,programming-languages,computer-programming,high-performance-computing,concurrent-programming,distributed-systems,software-development,web-technology,golang",
     "data_topic_names": "Open Source,New Technology,Web Development,Programming Languages,Computer Programming,High Performance Computing,Concurrent Programming,Distributed Systems,Software Development,Web Technology,Golang",
     "language": "Portuguese",
-    "totalCount": 79
+    "totalCount": 80
   },
   {
     "card_type": "online",
@@ -946,7 +959,7 @@
     "data_topics": "golang",
     "data_topic_names": "Golang",
     "language": "English",
-    "totalCount": 23
+    "totalCount": 24
   },
   {
     "card_type": "in-person",
@@ -1207,6 +1220,19 @@
     "data_topic_names": "Social Networking,Computer Programming,Software Development,Rust,Rustlang",
     "language": "Portuguese",
     "totalCount": 16
+  },
+  {
+    "card_type": "in-person",
+    "badge_text": "In-Person",
+    "date_str": "2026-11-07",
+    "utc_datetime": "2026-11-07T09:00:00.000-03:00",
+    "event_url": "https://luma.com/x2z9bbk9",
+    "title": "Rust SP Nov/2026",
+    "group_name": "Rust-SP",
+    "data_topics": "rust",
+    "data_topic_names": "Rust",
+    "language": "English",
+    "totalCount": null
   },
   {
     "card_type": "in-person",
@@ -1625,6 +1651,19 @@
     "totalCount": 1
   },
   {
+    "card_type": "online",
+    "badge_text": "Online",
+    "date_str": "2026-11-09",
+    "utc_datetime": "2026-11-09T20:00:00.000+02:00",
+    "event_url": "https://luma.com/6yvo3kya",
+    "title": "Unit testing in the age of AI",
+    "group_name": "Python 🐍 Maven",
+    "data_topics": "python",
+    "data_topic_names": "Python",
+    "language": "English",
+    "totalCount": null
+  },
+  {
     "card_type": "in-person",
     "badge_text": "In-Person",
     "date_str": "2026-11-09",
@@ -1674,7 +1713,7 @@
     "data_topics": "-net,c-,open-source,web-development,asp-net,microsoft,software-architecture,ui-ux-design,devops,software-development,microsoft-azure,sql-server",
     "data_topic_names": ".NET,C#,Open Source,Web Development,ASP.NET,Microsoft,Software Architecture,UI/UX Design,DevOps,Software Development,Microsoft Azure,SQL Server",
     "language": "Portuguese",
-    "totalCount": 11
+    "totalCount": 12
   },
   {
     "card_type": "in-person",
@@ -1986,7 +2025,7 @@
     "data_topics": "database-professionals,open-source,postgresql,database-development",
     "data_topic_names": "Database Professionals,Open Source,PostgreSQL,Database Development",
     "language": "English",
-    "totalCount": 13
+    "totalCount": 14
   },
   {
     "card_type": "in-person",
@@ -2233,7 +2272,7 @@
     "data_topics": "ayn-rand,political-philosophy,philosophy,intellectual-discussions,critical-thinking",
     "data_topic_names": "Ayn Rand,Political Philosophy,Philosophy,Intellectual Discussions,Critical Thinking",
     "language": "Hebrew",
-    "totalCount": 3
+    "totalCount": 4
   },
   {
     "card_type": "in-person",
@@ -2857,7 +2896,7 @@
     "data_topics": "python,open-source,make-new-friends,chill,hanging-out",
     "data_topic_names": "Python,Open Source,Make New Friends,Chill,Hanging Out",
     "language": "Polish",
-    "totalCount": 8
+    "totalCount": 7
   },
   {
     "card_type": "online",
@@ -3000,7 +3039,20 @@
     "data_topics": "web-development,cms-content-management-systems-,wordpress,php,artificial-intelligence",
     "data_topic_names": "Web Development,CMS (Content Management Systems),WordPress,PHP,Artificial Intelligence",
     "language": "English",
-    "totalCount": 4
+    "totalCount": 5
+  },
+  {
+    "card_type": "in-person",
+    "badge_text": "In-Person",
+    "date_str": "2026-11-12",
+    "utc_datetime": "2026-11-12T17:30:00-06:00",
+    "event_url": "https://www.meetup.com/pydata-st-louis/events/317280339/",
+    "title": "Contributing to NumPy",
+    "group_name": "PyData St. Louis",
+    "data_topics": "data-visualization,scientific-computing,deep-learning,open-source-python,machine-learning-with-python",
+    "data_topic_names": "Data Visualization,Scientific Computing,Deep Learning,Open Source Python,Machine Learning with Python",
+    "language": "English",
+    "totalCount": 3
   },
   {
     "card_type": "in-person",
@@ -3013,7 +3065,7 @@
     "data_topics": "python,programming-languages,computer-programming,new-product-development-software-tech,information-technology",
     "data_topic_names": "Python,Programming Languages,Computer Programming,New Product Development: Software & Tech,Information Technology",
     "language": "English",
-    "totalCount": 3
+    "totalCount": 4
   },
   {
     "card_type": "in-person",
@@ -3718,6 +3770,19 @@
     "totalCount": 1
   },
   {
+    "card_type": "online",
+    "badge_text": "Online",
+    "date_str": "2026-11-15",
+    "utc_datetime": "2026-11-15T20:00:00.000+02:00",
+    "event_url": "https://luma.com/omlooqv8",
+    "title": "Cursed Rust",
+    "group_name": "Rust 🦀 Maven",
+    "data_topics": "rust",
+    "data_topic_names": "Rust",
+    "language": "English",
+    "totalCount": null
+  },
+  {
     "card_type": "in-person",
     "badge_text": "In-Person",
     "date_str": "2026-11-15",
@@ -3858,7 +3923,7 @@
     "data_topics": "java,artificial-intelligence-applications,software-development,artificial-intelligence",
     "data_topic_names": "Java,Artificial Intelligence Applications,Software Development,Artificial Intelligence",
     "language": "English",
-    "totalCount": 26
+    "totalCount": 27
   },
   {
     "card_type": "in-person",
@@ -3872,6 +3937,19 @@
     "data_topic_names": "Python,Open Source,Data Mining,Data Engineering",
     "language": "French",
     "totalCount": 32
+  },
+  {
+    "card_type": "online",
+    "badge_text": "Online",
+    "date_str": "2026-11-16",
+    "utc_datetime": "2026-11-16T19:00:00.000+01:00",
+    "event_url": "https://luma.com/o4k2uute",
+    "title": "Punk: Perl MVC, compiled at boot",
+    "group_name": "Perl 🐪 Maven",
+    "data_topics": "perl",
+    "data_topic_names": "Perl",
+    "language": "English",
+    "totalCount": null
   },
   {
     "card_type": "in-person",
@@ -3950,6 +4028,19 @@
     "data_topic_names": "Community Building,Language Learning,Meet New Friends & Mingle in English,English,Practice English",
     "language": "Japanese",
     "totalCount": 1
+  },
+  {
+    "card_type": "online",
+    "badge_text": "Online",
+    "date_str": "2026-11-17",
+    "utc_datetime": "2026-11-17T10:00:00.000+02:00",
+    "event_url": "https://luma.com/5hwm0xf2",
+    "title": "Securing the AI Harness: Security in the Agentic Lifecycle",
+    "group_name": "AI Maven",
+    "data_topics": "ai",
+    "data_topic_names": "AI",
+    "language": "English",
+    "totalCount": null
   },
   {
     "card_type": "online",
@@ -4160,6 +4251,19 @@
     "totalCount": 2
   },
   {
+    "card_type": "online",
+    "badge_text": "Online",
+    "date_str": "2026-11-17",
+    "utc_datetime": "2026-11-17T20:00:00.000+02:00",
+    "event_url": "https://luma.com/2qfai4a8",
+    "title": "Miscompilation in Rust 1.97",
+    "group_name": "Rust 🦀 Maven",
+    "data_topics": "rust",
+    "data_topic_names": "Rust",
+    "language": "English",
+    "totalCount": null
+  },
+  {
     "card_type": "in-person",
     "badge_text": "In-Person",
     "date_str": "2026-11-17",
@@ -4184,6 +4288,19 @@
     "data_topic_names": "Linux,Open Source,Hacking,Software Development,DIY Technology",
     "language": "English",
     "totalCount": 1
+  },
+  {
+    "card_type": "in-person",
+    "badge_text": "In-Person",
+    "date_str": "2026-11-17",
+    "utc_datetime": "2026-11-17T18:00:00.000-05:00",
+    "event_url": "https://luma.com/bbhu367k",
+    "title": "Zig NYC",
+    "group_name": "Zig NYC Meetings",
+    "data_topics": "zig",
+    "data_topic_names": "Zig",
+    "language": "English",
+    "totalCount": null
   },
   {
     "card_type": "in-person",
@@ -4261,7 +4378,7 @@
     "data_topics": "systems-engineering,advanced-manufacturing-engineering,artificial-intelligence,rust",
     "data_topic_names": "Systems Engineering,Advanced Manufacturing & Engineering,Artificial Intelligence,Rust",
     "language": "Indonesian",
-    "totalCount": 33
+    "totalCount": 34
   },
   {
     "card_type": "in-person",
@@ -4319,6 +4436,19 @@
     "card_type": "in-person",
     "badge_text": "In-Person",
     "date_str": "2026-11-18",
+    "utc_datetime": "2026-11-18T17:30:00+13:00",
+    "event_url": "https://www.meetup.com/aotearoa-nz-github-user-group/events/317280118/",
+    "title": "GitHub Universe Recap",
+    "group_name": "Aotearoa New Zealand GitHub User Group",
+    "data_topics": "cloud-computing,github,devops,software-development",
+    "data_topic_names": "Cloud Computing,Github,DevOps,Software Development",
+    "language": "English",
+    "totalCount": 4
+  },
+  {
+    "card_type": "in-person",
+    "badge_text": "In-Person",
+    "date_str": "2026-11-18",
     "utc_datetime": "2026-11-18T19:00:00+08:00",
     "event_url": "https://www.meetup.com/pythonhug/events/vpvfwtyjcpbxb/",
     "title": "SyntaxError",
@@ -4340,19 +4470,6 @@
     "data_topic_names": "Programming Languages,Functional Programming,Software Architecture,Computer Programming,Compilers,Software Development,OCaml Programming",
     "language": "English",
     "totalCount": 1
-  },
-  {
-    "card_type": "online",
-    "badge_text": "Online",
-    "date_str": "2026-11-18",
-    "utc_datetime": "2026-11-18T17:00:00.000+02:00",
-    "event_url": "https://luma.com/t1yj0wp1",
-    "title": "Online Event | Coming Soon | Web3 Devs underground",
-    "group_name": "Web3 Devs Underground",
-    "data_topics": "web3,blockchain",
-    "data_topic_names": "Web3,Blockchain",
-    "language": "English",
-    "totalCount": null
   },
   {
     "card_type": "in-person",
@@ -4379,6 +4496,32 @@
     "data_topic_names": "Cats,Community,Gaming,Computer Gaming,Afterwork",
     "language": "English",
     "totalCount": 2
+  },
+  {
+    "card_type": "in-person",
+    "badge_text": "In-Person",
+    "date_str": "2026-11-18",
+    "utc_datetime": "2026-11-18T18:00:00+02:00",
+    "event_url": "https://www.meetup.com/incremental-community/events/317281100/",
+    "title": "Scaling Delivery Without Losing Flexibility",
+    "group_name": "Incremental Community",
+    "data_topics": "new-technology,agile-project-management,education-technology",
+    "data_topic_names": "New Technology,Agile Project Management,Education & Technology",
+    "language": "English",
+    "totalCount": 2
+  },
+  {
+    "card_type": "in-person",
+    "badge_text": "In-Person",
+    "date_str": "2026-11-18",
+    "utc_datetime": "2026-11-18T18:00:00.000+01:00",
+    "event_url": "https://luma.com/z25itfkm",
+    "title": "November 2026 Laravel Switzerland Meetup",
+    "group_name": "Swiss Laravel Association",
+    "data_topics": "php,laravel",
+    "data_topic_names": "PHP,Laravel",
+    "language": "English",
+    "totalCount": null
   },
   {
     "card_type": "in-person",
@@ -4807,7 +4950,7 @@
     "data_topics": "programming-languages,computer-programming,distributed-systems,software-development,golang",
     "data_topic_names": "Programming Languages,Computer Programming,Distributed Systems,Software Development,Golang",
     "language": "English",
-    "totalCount": 45
+    "totalCount": 46
   },
   {
     "card_type": "online",
@@ -5067,7 +5210,7 @@
     "data_topics": "python,geospatial,software-development",
     "data_topic_names": "Python,Geospatial,Software Development",
     "language": "English",
-    "totalCount": 8
+    "totalCount": 9
   },
   {
     "card_type": "in-person",
@@ -5080,7 +5223,7 @@
     "data_topics": "open-source,statistical-science,artificial-intelligence",
     "data_topic_names": "Open Source,Statistical Science,Artificial Intelligence",
     "language": "English",
-    "totalCount": 38
+    "totalCount": 41
   },
   {
     "card_type": "online",
@@ -5262,7 +5405,7 @@
     "data_topics": "python,open-source,django,web-development,programming-languages,functional-programming,computer-programming,software-development,python-web-development,open-source-python,data-analytics",
     "data_topic_names": "Python,Open Source,Django,Web Development,Programming Languages,Functional Programming,Computer Programming,Software Development,Python Web Development,Open Source Python,Data Analytics",
     "language": "English",
-    "totalCount": 86
+    "totalCount": 87
   },
   {
     "card_type": "in-person",
@@ -5431,7 +5574,7 @@
     "data_topics": "python,web-development,programming-languages,computer-programming,software-development,python-web-development",
     "data_topic_names": "Python,Web Development,Programming Languages,Computer Programming,Software Development,Python Web Development",
     "language": "English",
-    "totalCount": 5
+    "totalCount": 7
   },
   {
     "card_type": "online",
@@ -5720,6 +5863,19 @@
     "totalCount": 1
   },
   {
+    "card_type": "online",
+    "badge_text": "Online",
+    "date_str": "2026-11-23",
+    "utc_datetime": "2026-11-23T20:00:00.000+02:00",
+    "event_url": "https://luma.com/8chl540w",
+    "title": "Synthetic Scars: Giving Autonomous AI Agents the Battle-Tested Memory of a Senior Engineer",
+    "group_name": "AI Maven",
+    "data_topics": "ai",
+    "data_topic_names": "AI",
+    "language": "English",
+    "totalCount": null
+  },
+  {
     "card_type": "in-person",
     "badge_text": "In-Person",
     "date_str": "2026-11-23",
@@ -5938,7 +6094,7 @@
     "data_topics": "open-source,new-technology,internet-professionals,computer-programming,software-development",
     "data_topic_names": "Open Source,New Technology,Internet Professionals,Computer Programming,Software Development",
     "language": "English",
-    "totalCount": 5
+    "totalCount": 6
   },
   {
     "card_type": "in-person",
@@ -6133,7 +6289,20 @@
     "data_topics": "open-source,new-technology,github,software-engineers,software-development",
     "data_topic_names": "Open Source,New Technology,Github,Software Engineers,Software Development",
     "language": "English",
-    "totalCount": 60
+    "totalCount": 61
+  },
+  {
+    "card_type": "in-person",
+    "badge_text": "In-Person",
+    "date_str": "2026-11-25",
+    "utc_datetime": "2026-11-25T17:30:00.000+11:00",
+    "event_url": "https://luma.com/fdvdqkq9",
+    "title": "Rust Melbourne Meetup",
+    "group_name": "Rust Melbourne",
+    "data_topics": "rust",
+    "data_topic_names": "Rust",
+    "language": "English",
+    "totalCount": null
   },
   {
     "card_type": "in-person",
@@ -6146,7 +6315,7 @@
     "data_topics": "database-professionals,database-applications,database-integration-migrations,real-time-analytics,data-analytics",
     "data_topic_names": "Database Professionals,Database Applications,Database Integration & Migrations,Real Time Analytics,Data Analytics",
     "language": "English",
-    "totalCount": 26
+    "totalCount": 27
   },
   {
     "card_type": "in-person",
@@ -6393,7 +6562,7 @@
     "data_topics": "open-source,functional-programming,f-programming,fsharp,ocaml-programming",
     "data_topic_names": "Open Source,Functional Programming,F# Programming,FSharp,OCaml Programming",
     "language": "English",
-    "totalCount": 30
+    "totalCount": 31
   },
   {
     "card_type": "in-person",
@@ -6510,7 +6679,7 @@
     "data_topics": "open-source,programming-languages,user-group,software-development,rust",
     "data_topic_names": "Open Source,Programming Languages,User Group,Software Development,Rust",
     "language": "English",
-    "totalCount": 38
+    "totalCount": 39
   },
   {
     "card_type": "in-person",
@@ -7163,6 +7332,19 @@
     "totalCount": 1
   },
   {
+    "card_type": "online",
+    "badge_text": "Online",
+    "date_str": "2026-11-29",
+    "utc_datetime": "2026-11-29T20:00:00.000+02:00",
+    "event_url": "https://luma.com/2d09kkk4",
+    "title": "Everyday date and time handling in Perl with T::",
+    "group_name": "Perl 🐪 Maven",
+    "data_topics": "perl",
+    "data_topic_names": "Perl",
+    "language": "English",
+    "totalCount": null
+  },
+  {
     "card_type": "in-person",
     "badge_text": "In-Person",
     "date_str": "2026-11-29",
@@ -7213,6 +7395,19 @@
     "data_topic_names": "Web Design,Open Source,Internet Professionals,Web Development,Online Marketing,SEO (Search Engine Optimization),Social Media,Website Optimization,CMS (Content Management Systems),Computer Programming,Graphic Design,Blogging,Software Development,WordPress,Web Technology",
     "language": "Chinese",
     "totalCount": 29
+  },
+  {
+    "card_type": "online",
+    "badge_text": "Online",
+    "date_str": "2026-11-30",
+    "utc_datetime": "2026-11-30T20:00:00.000+02:00",
+    "event_url": "https://luma.com/1usglot9",
+    "title": "Building WordPress Plugins with AI: Spec-Driven Development with PHP and Kiro",
+    "group_name": "PHP Maven",
+    "data_topics": "php",
+    "data_topic_names": "PHP",
+    "language": "English",
+    "totalCount": null
   },
   {
     "card_type": "in-person",
@@ -7642,6 +7837,19 @@
     "data_topic_names": "Mozilla,New Technology,Web Development,User Group,Technology",
     "language": "English",
     "totalCount": 2
+  },
+  {
+    "card_type": "online",
+    "badge_text": "Online",
+    "date_str": "2026-12-03",
+    "utc_datetime": "2026-12-03T20:00:00.000+02:00",
+    "event_url": "https://luma.com/7d30pgma",
+    "title": "Testing invariants, not just examples: Property-based testing with Hypothesis",
+    "group_name": "Python 🐍 Maven",
+    "data_topics": "python",
+    "data_topic_names": "Python",
+    "language": "English",
+    "totalCount": null
   },
   {
     "card_type": "online",

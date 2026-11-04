@@ -104,6 +104,10 @@
     "link": "https://www.meetup.com/ai-london"
   },
   {
+    "name": "AI Maven",
+    "link": "https://lu.ma/ai-maven"
+  },
+  {
     "name": "AI Meetup (open source personal AI cloud, olares.com)",
     "link": "https://www.meetup.com/ai-agents-meetup"
   },
@@ -900,6 +904,10 @@
     "link": "https://www.meetup.com/claude-code-barcelona"
   },
   {
+    "name": "Claude Community Events",
+    "link": "https://lu.ma/claudecommunity"
+  },
+  {
     "name": "Claude Israel User Group",
     "link": "https://www.meetup.com/claude-israel-user-group"
   },
@@ -1208,6 +1216,10 @@
     "link": "https://www.meetup.com/Big-Data-Developers-in-Mexico-City"
   },
   {
+    "name": "Database Maven",
+    "link": "https://lu.ma/db-maven"
+  },
+  {
     "name": "Databricks France Meetup",
     "link": "https://www.meetup.com/databricks-france-meetup"
   },
@@ -1322,6 +1334,10 @@
   {
     "name": "DevOps CI/CD",
     "link": "https://www.meetup.com/DevOps-CI-CD"
+  },
+  {
+    "name": "DevOps Maven",
+    "link": "https://lu.ma/devops-maven"
   },
   {
     "name": "DevOps Türkiye",
@@ -1816,6 +1832,10 @@
     "link": "https://www.meetup.com/gem-city-tech"
   },
   {
+    "name": "GenAI Israel",
+    "link": "https://lu.ma/genai-il"
+  },
+  {
     "name": "Geneva.rb",
     "link": "https://www.meetup.com/geneva-rb"
   },
@@ -1834,6 +1854,10 @@
   {
     "name": "git --fast-version-control --Buenos-Aires Meetup",
     "link": "https://www.meetup.com/git-fast-version-control-Buenos-Aires-Meetup"
+  },
+  {
+    "name": "Git Maven",
+    "link": "https://lu.ma/git-maven"
   },
   {
     "name": "Git Meetup Berlin",
@@ -1902,6 +1926,10 @@
   {
     "name": "Go Israel",
     "link": "https://www.meetup.com/go-israel"
+  },
+  {
+    "name": "Go Maven",
+    "link": "https://lu.ma/go-maven"
   },
   {
     "name": "Go West",
@@ -2404,6 +2432,10 @@
     "link": "https://www.meetup.com/javajp"
   },
   {
+    "name": "Java Maven",
+    "link": "https://lu.ma/java-maven"
+  },
+  {
     "name": "Java Meetup",
     "link": "https://www.meetup.com/JavaExperts"
   },
@@ -2486,6 +2518,10 @@
   {
     "name": "JavaScript Luzern",
     "link": "https://www.meetup.com/javascript-luzern"
+  },
+  {
+    "name": "JavaScript Maven",
+    "link": "https://lu.ma/js-maven"
   },
   {
     "name": "JavaScript Meetup San Cristóbal",
@@ -3764,7 +3800,7 @@
     "link": "https://www.meetup.com/PereiraJS"
   },
   {
-    "name": "Perl Maven",
+    "name": "Perl 🐪 Maven",
     "link": "https://lu.ma/perl-maven"
   },
   {
@@ -3838,6 +3874,10 @@
   {
     "name": "PHP London",
     "link": "https://www.meetup.com/phplondon"
+  },
+  {
+    "name": "PHP Maven",
+    "link": "https://lu.ma/php-maven"
   },
   {
     "name": "PHP Meetup - Itajaí",
@@ -4860,6 +4900,10 @@
     "link": "https://www.meetup.com/python-lisbon-meetup"
   },
   {
+    "name": "Python 🐍 Maven",
+    "link": "https://lu.ma/python-maven"
+  },
+  {
     "name": "Python, Machine Learning and Deep Learning Meetup Group",
     "link": "https://www.meetup.com/paris-python-machine-learning-deep-learning-meetup-group"
   },
@@ -5216,6 +5260,10 @@
     "link": "https://www.meetup.com/ruby-hobart"
   },
   {
+    "name": "Ruby Maven",
+    "link": "https://lu.ma/ruby-maven"
+  },
+  {
     "name": "Ruby Meetup Oslo",
     "link": "https://www.meetup.com/Ruby-Meetup-Oslo"
   },
@@ -5366,6 +5414,10 @@
   {
     "name": "Rust Gdansk",
     "link": "https://www.meetup.com/rust-gdansk"
+  },
+  {
+    "name": "Rust Girona",
+    "link": "https://lu.ma/rust-girona"
   },
   {
     "name": "Rust Göteborg",
@@ -5524,6 +5576,10 @@
     "link": "https://www.meetup.com/rust-roma"
   },
   {
+    "name": "Rust SC",
+    "link": "https://lu.ma/rust-sc"
+  },
+  {
     "name": "Rust Seoul",
     "link": "https://www.meetup.com/Rust-Seoul"
   },
@@ -5568,8 +5624,16 @@
     "link": "https://www.meetup.com/rust-zurich"
   },
   {
+    "name": "Rust 🦀 Maven",
+    "link": "https://lu.ma/rust-maven"
+  },
+  {
     "name": "Rust 🦀 TLV",
     "link": "https://www.meetup.com/rust-tlv"
+  },
+  {
+    "name": "Rust-SP",
+    "link": "https://lu.ma/rustsp"
   },
   {
     "name": "Rust-SP",
@@ -5960,12 +6024,20 @@
     "link": "https://www.meetup.com/swiftbengaluru"
   },
   {
+    "name": "Swiss Laravel Association",
+    "link": "https://lu.ma/laravel.swiss"
+  },
+  {
     "name": "Swiss PostgreSQL Users Group",
     "link": "https://www.meetup.com/switzerland-postgresql-user-group"
   },
   {
     "name": "Swiss PowerShell User Group",
     "link": "https://www.meetup.com/swiss-powershell-user-group"
+  },
+  {
+    "name": "switchsg",
+    "link": "https://lu.ma/switchsg"
   },
   {
     "name": "Sydney Big Data - Converged SQL, NoSQL and Real-Time",
@@ -6628,12 +6700,24 @@
     "link": "https://www.meetup.com/frankfurt-data-science-meetup-group"
   },
   {
+    "name": "Y Combinator",
+    "link": "https://lu.ma/ycombinator-official"
+  },
+  {
     "name": "You Can Git With Us",
     "link": "https://www.meetup.com/you-can-git-with-us"
   },
   {
     "name": "ZGZ Javascript",
     "link": "https://www.meetup.com/zgz-js"
+  },
+  {
+    "name": "Zig Maven",
+    "link": "https://lu.ma/zig-maven"
+  },
+  {
+    "name": "Zig NYC Meetings",
+    "link": "https://lu.ma/calendar/cal-kG6xrNfIrxXQIZK"
   },
   {
     "name": "Zurich F# Users",
