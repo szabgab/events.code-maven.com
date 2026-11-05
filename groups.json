@@ -108,10 +108,6 @@
     "link": "https://lu.ma/ai-maven"
   },
   {
-    "name": "AI Meetup (open source personal AI cloud, olares.com)",
-    "link": "https://www.meetup.com/ai-agents-meetup"
-  },
-  {
     "name": "AI Professionals Athens",
     "link": "https://www.meetup.com/ai-professionals-athens"
   },
@@ -1884,10 +1880,6 @@
     "link": "https://www.meetup.com/github-user-group-minna"
   },
   {
-    "name": "GitLab Meetup France",
-    "link": "https://www.meetup.com/GitLab-Meetup-France"
-  },
-  {
     "name": "GitLab Triangle Meetup",
     "link": "https://www.meetup.com/GitLab-Triangle-MeetUp"
   },
@@ -3590,6 +3582,10 @@
   {
     "name": "Open Frontend Community - ERNI Madrid",
     "link": "https://www.meetup.com/frontend-madrid"
+  },
+  {
+    "name": "Open Source AI Meetup",
+    "link": "https://www.meetup.com/ai-agents-meetup"
   },
   {
     "name": "Open Source Hong Kong",
@@ -6458,6 +6454,10 @@
   {
     "name": "Utah SQL Server Group",
     "link": "https://www.meetup.com/Utah-SQL-Server-Group"
+  },
+  {
+    "name": "Utilisateurs GitLab France",
+    "link": "https://www.meetup.com/gitlab-meetup-france"
   },
   {
     "name": "Utrecht Frontend Meetup",
