@@ -108,6 +108,10 @@
     "link": "https://lu.ma/ai-maven"
   },
   {
+    "name": "AI on Elixir Berlin",
+    "link": "https://www.meetup.com/elixir-berlin"
+  },
+  {
     "name": "AI Professionals Athens",
     "link": "https://www.meetup.com/ai-professionals-athens"
   },
@@ -1490,10 +1494,6 @@
   {
     "name": "Elixir Auckland",
     "link": "https://www.meetup.com/meetup-group-fivltubg"
-  },
-  {
-    "name": "Elixir Berlin",
-    "link": "https://www.meetup.com/elixir-berlin"
   },
   {
     "name": "Elixir Calgary",
@@ -3950,6 +3950,10 @@
   {
     "name": "PHPxSYD - Sydney PHP & Laravel Group",
     "link": "https://www.meetup.com/sydphp"
+  },
+  {
+    "name": "PHP×Philly",
+    "link": "https://lu.ma/phpxphilly"
   },
   {
     "name": "PHP×Tokyo",
