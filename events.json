@@ -2,149 +2,6 @@
   {
     "card_type": "in-person",
     "badge_text": "In-Person",
-    "date_str": "2026-11-06",
-    "utc_datetime": "2026-11-06T18:00:00+11:00",
-    "event_url": "https://www.meetup.com/melborn%E3%83%A1%E3%82%A4%E3%83%84/events/316493300/",
-    "title": "🍕Pizza Dinner!!🍕 Language Exchange Event in Richmond (EN & JP)",
-    "group_name": "Melbornメイツ",
-    "data_topics": "pizza,natural-language-processing,parties-socializing,language-learning,english,japanese,language-culture,language-exchange",
-    "data_topic_names": "Pizza,Natural Language Processing,Parties & Socializing,Language Learning,English,Japanese,Language & Culture,Language Exchange",
-    "language": "Japanese",
-    "totalCount": 1
-  },
-  {
-    "card_type": "in-person",
-    "badge_text": "In-Person",
-    "date_str": "2026-11-06",
-    "utc_datetime": "2026-11-06T18:00:00+11:00",
-    "event_url": "https://www.meetup.com/melborn%E3%83%A1%E3%82%A4%E3%83%84/events/chsgztyjcpbjb/",
-    "title": "🍕Pizza Dinner!!🍕 Language Exchange Event in Richmond (EN & JP)",
-    "group_name": "Melbornメイツ",
-    "data_topics": "pizza,natural-language-processing,parties-socializing,language-learning,english,japanese,language-culture,language-exchange",
-    "data_topic_names": "Pizza,Natural Language Processing,Parties & Socializing,Language Learning,English,Japanese,Language & Culture,Language Exchange",
-    "language": "Japanese",
-    "totalCount": 1
-  },
-  {
-    "card_type": "in-person",
-    "badge_text": "In-Person",
-    "date_str": "2026-11-06",
-    "utc_datetime": "2026-11-06T09:30:00+01:00",
-    "event_url": "https://www.meetup.com/ghspain/events/316947556/",
-    "title": "Dev Days | Students Madrid, Spain",
-    "group_name": "GitHub Community (España)",
-    "data_topics": "new-technology,professional-networking,software-development",
-    "data_topic_names": "New Technology,Professional Networking,Software Development",
-    "language": "Spanish",
-    "totalCount": 4
-  },
-  {
-    "card_type": "in-person",
-    "badge_text": "In-Person",
-    "date_str": "2026-11-06",
-    "utc_datetime": "2026-11-06T10:45:00+02:00",
-    "event_url": "https://www.meetup.com/israeli-students-of-objectivism/events/317071510/",
-    "title": "Special Meetup with Nikos in English: The 1956 Suez Crisis (מבצע קדש)",
-    "group_name": "Philosophy meetups - Ayn Rand’s students Israel",
-    "data_topics": "ayn-rand,political-philosophy,philosophy,intellectual-discussions,critical-thinking",
-    "data_topic_names": "Ayn Rand,Political Philosophy,Philosophy,Intellectual Discussions,Critical Thinking",
-    "language": "English",
-    "totalCount": 12
-  },
-  {
-    "card_type": "in-person",
-    "badge_text": "In-Person",
-    "date_str": "2026-11-06",
-    "utc_datetime": "2026-11-06T11:00:00+02:00",
-    "event_url": "https://www.meetup.com/tel-aviv-yafo-philosophy-meetup-group/events/wdvrttyjcpbjb/",
-    "title": "Philosophy Group Meeting -- Hebrew",
-    "group_name": "Tel Aviv Philosophy Group",
-    "data_topics": "philosophy,ethics,philosophical-debate,classic-books,intellectual-discussions,lectures,culture",
-    "data_topic_names": "Philosophy,Ethics,Philosophical Debate,Classic Books,Intellectual Discussions,Lectures,Culture",
-    "language": "English",
-    "totalCount": 1
-  },
-  {
-    "card_type": "in-person",
-    "badge_text": "In-Person",
-    "date_str": "2026-11-06",
-    "utc_datetime": "2026-11-06T19:00:00+08:00",
-    "event_url": "https://www.meetup.com/kairoshk/events/317159631/",
-    "title": "✨【星期五桌遊派對】✨🎲👫👭👬",
-    "group_name": "KAIROS 刻遇 -「不為消磨時光，只為刻畫靈魂。」",
-    "data_topics": "social,new-in-town,make-new-friends,social-networking,board-games",
-    "data_topic_names": "Social,New In Town,Make New Friends,Social Networking,Board Games",
-    "language": "Chinese",
-    "totalCount": 6
-  },
-  {
-    "card_type": "in-person",
-    "badge_text": "In-Person",
-    "date_str": "2026-11-06",
-    "utc_datetime": "2026-11-06T19:30:00+08:00",
-    "event_url": "https://www.meetup.com/%E5%A4%9A%E6%89%8D%E5%A4%9A%E8%97%9D-the-brilliant-entertainment-group/events/316830502/",
-    "title": "[0611 世一燒鴨名店@(新)文興酒家] 🍽️（尚餘2位）",
-    "group_name": "多才多藝 ~ The Brilliant Entertainment Group",
-    "data_topics": "dinner",
-    "data_topic_names": "Dinner",
-    "language": "Chinese",
-    "totalCount": 7
-  },
-  {
-    "card_type": "in-person",
-    "badge_text": "In-Person",
-    "date_str": "2026-11-06",
-    "utc_datetime": "2026-11-06T11:00:00.000-05:00",
-    "event_url": "https://luma.com/claude-pksj",
-    "title": "Savannah | Claude Code Build Day",
-    "group_name": "Claude Community Events",
-    "data_topics": "ai",
-    "data_topic_names": "AI",
-    "language": "English",
-    "totalCount": null
-  },
-  {
-    "card_type": "online",
-    "badge_text": "Online",
-    "date_str": "2026-11-06",
-    "utc_datetime": "2026-11-06T15:30:00-03:00",
-    "event_url": "https://www.meetup.com/latam-dug-meetup/events/317181011/",
-    "title": "Dynamics Users LATAM - Evento Online",
-    "group_name": "DUG Meetup: LATAM - D365, Power Platform, & AI",
-    "data_topics": "microsoft,crm-customer-relationship-management,microsoft-dynamics-ax,microsoft-azure,microsoft-dynamics",
-    "data_topic_names": "Microsoft,CRM/Customer Relationship Management,Microsoft Dynamics AX,Microsoft Azure,Microsoft Dynamics",
-    "language": "Spanish",
-    "totalCount": 11
-  },
-  {
-    "card_type": "online",
-    "badge_text": "Online",
-    "date_str": "2026-11-06",
-    "utc_datetime": "2026-11-06T21:00:00-03:00",
-    "event_url": "https://www.meetup.com/dotnet-sao-paulo/events/317173334/",
-    "title": "[Online] Monitoramento e Segurança - aplicações, infra, container, nuvem | 17 ed",
-    "group_name": ".NET São Paulo",
-    "data_topics": "-net,c-,open-source,web-development,asp-net,microsoft,software-architecture,ui-ux-design,devops,software-development,microsoft-azure,sql-server",
-    "data_topic_names": ".NET,C#,Open Source,Web Development,ASP.NET,Microsoft,Software Architecture,UI/UX Design,DevOps,Software Development,Microsoft Azure,SQL Server",
-    "language": "Portuguese",
-    "totalCount": 8
-  },
-  {
-    "card_type": "online",
-    "badge_text": "Online",
-    "date_str": "2026-11-07",
-    "utc_datetime": "2026-11-07T10:00:00+09:00",
-    "event_url": "https://www.meetup.com/kadampa-meditation-centre-tokyo/events/316880819/",
-    "title": "【オンライン瞑想クラス】毎日の中に、優しさを見つける〈シリーズ初回・参加無料〉",
-    "group_name": "Meditate in Tokyo - Kadampa Meditation Centre",
-    "data_topics": "buddhist-meditation,spiritual-growth,meditation,kadampa-buddhism,buddhism",
-    "data_topic_names": "Buddhist Meditation,Spiritual Growth,Meditation,Kadampa Buddhism,Buddhism",
-    "language": "Japanese",
-    "totalCount": 4
-  },
-  {
-    "card_type": "in-person",
-    "badge_text": "In-Person",
     "date_str": "2026-11-07",
     "utc_datetime": "2026-11-07T13:30:00+09:00",
     "event_url": "https://www.meetup.com/osaka-kobe-learning-strategies-meetup-group/events/317264647/",
@@ -166,6 +23,19 @@
     "data_topics": "social,travel,eating-drinking,coffeehouse,international-friends",
     "data_topic_names": "Social,Travel,Eating & Drinking,Coffeehouse,International Friends",
     "language": "Japanese",
+    "totalCount": 1
+  },
+  {
+    "card_type": "in-person",
+    "badge_text": "In-Person",
+    "date_str": "2026-11-07",
+    "utc_datetime": "2026-11-07T07:00:00+02:00",
+    "event_url": "https://www.meetup.com/mpt-pyladies/events/317318721/",
+    "title": "Django Girls Matola #5",
+    "group_name": "PyLadies Maputo Meetup Group",
+    "data_topics": "python,open-source,computer-programming,software-development,python-web-development",
+    "data_topic_names": "Python,Open Source,Computer Programming,Software Development,Python Web Development",
+    "language": "Portuguese",
     "totalCount": 1
   },
   {
@@ -218,7 +88,7 @@
     "data_topics": "-net,cloud-computing,web-development,software-development,microsoft-azure",
     "data_topic_names": ".NET,Cloud Computing,Web Development,Software Development,Microsoft Azure",
     "language": "Spanish",
-    "totalCount": 19
+    "totalCount": 21
   },
   {
     "card_type": "in-person",
@@ -374,7 +244,7 @@
     "data_topics": "database-professionals,professional-networking,knowledge-sharing,learning",
     "data_topic_names": "Database Professionals,Professional Networking,Knowledge Sharing,Learning",
     "language": "English",
-    "totalCount": 8
+    "totalCount": 9
   },
   {
     "card_type": "in-person",
@@ -414,6 +284,19 @@
     "data_topic_names": "Python,Django,Web Development,Computer Programming,Software Development",
     "language": "English",
     "totalCount": 4
+  },
+  {
+    "card_type": "in-person",
+    "badge_text": "In-Person",
+    "date_str": "2026-11-07",
+    "utc_datetime": "2026-11-07T11:00:00.000-08:00",
+    "event_url": "https://luma.com/4wojr46w",
+    "title": "Zig Day Portland (November 2026)",
+    "group_name": "Zig Day Portland",
+    "data_topics": "zig",
+    "data_topic_names": "Zig",
+    "language": "English",
+    "totalCount": null
   },
   {
     "card_type": "in-person",
@@ -491,7 +374,7 @@
     "data_topics": "pizza,natural-language-processing,parties-socializing,language-learning,english,japanese,language-culture,language-exchange",
     "data_topic_names": "Pizza,Natural Language Processing,Parties & Socializing,Language Learning,English,Japanese,Language & Culture,Language Exchange",
     "language": "Japanese",
-    "totalCount": 12
+    "totalCount": 17
   },
   {
     "card_type": "in-person",
@@ -518,19 +401,6 @@
     "data_topic_names": "English,Language Exchange",
     "language": "Japanese",
     "totalCount": 1
-  },
-  {
-    "card_type": "in-person",
-    "badge_text": "In-Person",
-    "date_str": "2026-11-08",
-    "utc_datetime": "2026-11-08T03:00:00-03:00",
-    "event_url": "https://www.meetup.com/dotnet-sao-paulo/events/316937465/",
-    "title": "[Online] Database Weekend 2026 - 1a edição: SQL Server, PostgreSQL, MySQL...",
-    "group_name": ".NET São Paulo",
-    "data_topics": "-net,c-,open-source,web-development,asp-net,microsoft,software-architecture,ui-ux-design,devops,software-development,microsoft-azure,sql-server",
-    "data_topic_names": ".NET,C#,Open Source,Web Development,ASP.NET,Microsoft,Software Architecture,UI/UX Design,DevOps,Software Development,Microsoft Azure,SQL Server",
-    "language": "Portuguese",
-    "totalCount": 9
   },
   {
     "card_type": "in-person",
@@ -595,7 +465,20 @@
     "data_topics": "personal-development,confidence-and-self-esteem,self-help-self-improvement,psychology,self-love-self-acceptance",
     "data_topic_names": "Personal Development,Confidence and Self-Esteem,Self-Help & Self-Improvement,Psychology,Self-Love & Self-Acceptance",
     "language": "English",
-    "totalCount": 32
+    "totalCount": 33
+  },
+  {
+    "card_type": "in-person",
+    "badge_text": "In-Person",
+    "date_str": "2026-11-08",
+    "utc_datetime": "2026-11-08T11:00:00.000-08:00",
+    "event_url": "https://luma.com/titskrkz",
+    "title": "Zig Day Seattle #4",
+    "group_name": "Zig Day Seattle",
+    "data_topics": "zig",
+    "data_topic_names": "Zig",
+    "language": "English",
+    "totalCount": null
   },
   {
     "card_type": "in-person",
@@ -803,7 +686,7 @@
     "data_topics": "database-professionals,open-source,postgresql,sql,sql-server",
     "data_topic_names": "Database Professionals,Open Source,PostgreSQL,SQL,SQL Server",
     "language": "English",
-    "totalCount": 8
+    "totalCount": 9
   },
   {
     "card_type": "in-person",
@@ -907,7 +790,7 @@
     "data_topics": "oracle,database-development,oracle-apex-development",
     "data_topic_names": "Oracle,Database Development,Oracle APEX Development",
     "language": "Bokmal",
-    "totalCount": 5
+    "totalCount": 4
   },
   {
     "card_type": "in-person",
@@ -946,7 +829,7 @@
     "data_topics": "-net,web-development,mobile-development,ado-net-entity-framework,software-development",
     "data_topic_names": ".NET,Web Development,Mobile Development,ADO.NET Entity Framework,Software Development",
     "language": "English",
-    "totalCount": 4
+    "totalCount": 5
   },
   {
     "card_type": "online",
@@ -985,7 +868,7 @@
     "data_topics": "functional-programming,software-development",
     "data_topic_names": "Functional Programming,Software Development",
     "language": "English",
-    "totalCount": 75
+    "totalCount": 77
   },
   {
     "card_type": "in-person",
@@ -1011,7 +894,7 @@
     "data_topics": "programming-languages,computer-programming,ai-ml,golang",
     "data_topic_names": "Programming Languages,Computer Programming,AI/ML,Golang",
     "language": "English",
-    "totalCount": 59
+    "totalCount": 62
   },
   {
     "card_type": "in-person",
@@ -1037,7 +920,7 @@
     "data_topics": "-net,c-",
     "data_topic_names": ".NET,C#",
     "language": "Romanian",
-    "totalCount": 19
+    "totalCount": 20
   },
   {
     "card_type": "in-person",
@@ -1050,7 +933,7 @@
     "data_topics": "web-design,web-development,professional-networking,user-group,technology,computer-programming,software-development,php,web-technology",
     "data_topic_names": "Web Design,Web Development,Professional Networking,User Group,Technology,Computer Programming,Software Development,PHP,Web Technology",
     "language": "German",
-    "totalCount": 11
+    "totalCount": 12
   },
   {
     "card_type": "in-person",
@@ -1102,7 +985,7 @@
     "data_topics": "microsoft,microsoft-excel,big-data,data-analytics",
     "data_topic_names": "Microsoft,Microsoft Excel,Big Data,Data Analytics",
     "language": "German",
-    "totalCount": 13
+    "totalCount": 14
   },
   {
     "card_type": "in-person",
@@ -1114,6 +997,19 @@
     "group_name": "PHPAmersfoort",
     "data_topics": "open-source,web-development,programming-languages,php-application-development,computer-programming,php-framework,php",
     "data_topic_names": "Open Source,Web Development,Programming Languages,PHP Application Development,Computer Programming,PHP Framework,PHP",
+    "language": "English",
+    "totalCount": 2
+  },
+  {
+    "card_type": "in-person",
+    "badge_text": "In-Person",
+    "date_str": "2026-11-10",
+    "utc_datetime": "2026-11-10T19:00:00+01:00",
+    "event_url": "https://www.meetup.com/bilbao-programming-group/events/317310840/",
+    "title": "Programming Meetup: System Programming",
+    "group_name": "Bilbao Programming Group",
+    "data_topics": "c-c-,computer-programming,hobbies,rust",
+    "data_topic_names": "C & C++,Computer Programming,Hobbies,Rust",
     "language": "English",
     "totalCount": 2
   },
@@ -1193,7 +1089,7 @@
     "data_topics": "database-professionals,open-source,postgresql,database-development",
     "data_topic_names": "Database Professionals,Open Source,PostgreSQL,Database Development",
     "language": "English",
-    "totalCount": 18
+    "totalCount": 19
   },
   {
     "card_type": "in-person",
@@ -1219,7 +1115,7 @@
     "data_topics": "css,web-development,professional-networking,computer-programming,javascript",
     "data_topic_names": "CSS,Web Development,Professional Networking,Computer Programming,JavaScript",
     "language": "English",
-    "totalCount": 6
+    "totalCount": 8
   },
   {
     "card_type": "online",
@@ -1277,6 +1173,19 @@
     "card_type": "in-person",
     "badge_text": "In-Person",
     "date_str": "2026-11-10",
+    "utc_datetime": "2026-11-10T18:00:00-06:00",
+    "event_url": "https://www.meetup.com/chicago-rust-meetup/events/317315809/",
+    "title": "Rust Happy Hour",
+    "group_name": "Chicago Rust Meetup",
+    "data_topics": "programming-languages,rust",
+    "data_topic_names": "Programming Languages,Rust",
+    "language": "English",
+    "totalCount": 4
+  },
+  {
+    "card_type": "in-person",
+    "badge_text": "In-Person",
+    "date_str": "2026-11-10",
     "utc_datetime": "2026-11-10T19:00:00-05:00",
     "event_url": "https://www.meetup.com/js-montreal/events/qmzsrtyjcpbnb/",
     "title": "🎊 JS-MONTREAL 🎊",
@@ -1323,7 +1232,7 @@
     "data_topics": "random,computer-programming,quantum-physics,cryptography,software-engineering",
     "data_topic_names": "Random,Computer Programming,Quantum Physics,Cryptography,Software Engineering",
     "language": "English",
-    "totalCount": 7
+    "totalCount": 8
   },
   {
     "card_type": "in-person",
@@ -1362,7 +1271,7 @@
     "data_topics": "sql,data-science,big-data,data-pipelines,data-analytics",
     "data_topic_names": "SQL,Data Science,Big Data,Data Pipelines,Data Analytics",
     "language": "Japanese",
-    "totalCount": 37
+    "totalCount": 38
   },
   {
     "card_type": "in-person",
@@ -1375,7 +1284,7 @@
     "data_topics": "database-professionals,open-source,new-technology,database-applications,database-backends,database-integration-migrations,computer-programming,sql,data-mining,data-science,sql-integration-services,database-development,big-data,predictive-analytics,data-analytics",
     "data_topic_names": "Database Professionals,Open Source,New Technology,Database Applications,Database Backends,Database Integration & Migrations,Computer Programming,SQL,Data Mining,Data Science,SQL Integration Services,Database Development,Big Data,Predictive Analytics,Data Analytics",
     "language": "English",
-    "totalCount": 92
+    "totalCount": 93
   },
   {
     "card_type": "in-person",
@@ -1453,7 +1362,7 @@
     "data_topics": "community,computer-programming,front-end-development,javascript,reactjs",
     "data_topic_names": "Community,Computer Programming,Front-end Development,JavaScript,ReactJS",
     "language": "English",
-    "totalCount": 114
+    "totalCount": 112
   },
   {
     "card_type": "in-person",
@@ -1479,7 +1388,7 @@
     "data_topics": "ayn-rand,political-philosophy,philosophy,intellectual-discussions,critical-thinking",
     "data_topic_names": "Ayn Rand,Political Philosophy,Philosophy,Intellectual Discussions,Critical Thinking",
     "language": "Hebrew",
-    "totalCount": 6
+    "totalCount": 7
   },
   {
     "card_type": "in-person",
@@ -1518,7 +1427,7 @@
     "data_topics": "web-development,knowledge-sharing,javascript-frameworks,angular,typescript",
     "data_topic_names": "Web Development,Knowledge Sharing,JavaScript Frameworks,Angular,Typescript",
     "language": "English",
-    "totalCount": 5
+    "totalCount": 6
   },
   {
     "card_type": "in-person",
@@ -1531,7 +1440,7 @@
     "data_topics": "open-source,java,jvm-languages,software-development",
     "data_topic_names": "Open Source,Java,JVM Languages,Software Development",
     "language": "German",
-    "totalCount": 14
+    "totalCount": 15
   },
   {
     "card_type": "online",
@@ -1609,7 +1518,7 @@
     "data_topics": "web-development,javascript-frameworks,front-end-development,software-development,javascript-applications,javascript,vue-js",
     "data_topic_names": "Web Development,JavaScript Frameworks,Front-end Development,Software Development,JavaScript Applications,JavaScript,Vue.js",
     "language": "English",
-    "totalCount": 30
+    "totalCount": 29
   },
   {
     "card_type": "in-person",
@@ -1713,7 +1622,7 @@
     "data_topics": "web-development,php-application-development,api,php,laravel",
     "data_topic_names": "Web Development,PHP Application Development,API,PHP,Laravel",
     "language": "English",
-    "totalCount": 18
+    "totalCount": 19
   },
   {
     "card_type": "in-person",
@@ -1778,7 +1687,7 @@
     "data_topics": "programming-languages,computer-programming,high-performance-computing,software-development,golang",
     "data_topic_names": "Programming Languages,Computer Programming,High Performance Computing,Software Development,Golang",
     "language": "English",
-    "totalCount": 11
+    "totalCount": 12
   },
   {
     "card_type": "online",
@@ -1869,7 +1778,7 @@
     "data_topics": "python,career-coaching,virtual-meetings,computer-programming,personal-professional-development",
     "data_topic_names": "Python,Career Coaching,Virtual Meetings,Computer Programming,Personal & Professional Development",
     "language": "English",
-    "totalCount": 10
+    "totalCount": 11
   },
   {
     "card_type": "in-person",
@@ -1890,7 +1799,7 @@
     "date_str": "2026-11-12",
     "utc_datetime": "2026-11-12T17:00:00+10:00",
     "event_url": "https://www.meetup.com/rust-brisbane/events/317296037/",
-    "title": "Rust Brisbane • Novermber 2026",
+    "title": "Rust Brisbane • November 2026",
     "group_name": "Rust Brisbane",
     "data_topics": "open-source,type-systems,rust",
     "data_topic_names": "Open Source,Type Systems,Rust",
@@ -1937,6 +1846,19 @@
     "totalCount": 1
   },
   {
+    "card_type": "in-person",
+    "badge_text": "In-Person",
+    "date_str": "2026-11-12",
+    "utc_datetime": "2026-11-12T17:00:00+03:00",
+    "event_url": "https://www.meetup.com/african_ruby_community/events/317317467/",
+    "title": "Supabase Multi-Tenancy Mistakes We Made (and How We Fixed Them)",
+    "group_name": "African Ruby Community",
+    "data_topics": "ruby,web-development,computer-programming,ruby-on-rails,software-development",
+    "data_topic_names": "Ruby,Web Development,Computer Programming,Ruby On Rails,Software Development",
+    "language": "English",
+    "totalCount": 2
+  },
+  {
     "card_type": "online",
     "badge_text": "Online",
     "date_str": "2026-11-12",
@@ -1947,7 +1869,7 @@
     "data_topics": "database-professionals,business-intelligence,sql-server,power-bi,data-analytics",
     "data_topic_names": "Database Professionals,Business Intelligence,SQL Server,Power BI,Data Analytics",
     "language": "English",
-    "totalCount": 29
+    "totalCount": 31
   },
   {
     "card_type": "in-person",
@@ -1960,7 +1882,7 @@
     "data_topics": "web-design,new-technology,software-development,es6,javascript",
     "data_topic_names": "Web Design,New Technology,Software Development,ES6,JavaScript",
     "language": "Polish",
-    "totalCount": 27
+    "totalCount": 29
   },
   {
     "card_type": "online",
@@ -2025,7 +1947,7 @@
     "data_topics": "open-source,postgresql,financial-technology,software-development,data-management",
     "data_topic_names": "Open Source,PostgreSQL,Financial Technology,Software Development,Data Management",
     "language": "English",
-    "totalCount": 66
+    "totalCount": 70
   },
   {
     "card_type": "in-person",
@@ -2090,7 +2012,7 @@
     "data_topics": "ruby,web-development,ruby-on-rails,software-development,artificial-intelligence-machine-learning-robotics",
     "data_topic_names": "Ruby,Web Development,Ruby On Rails,Software Development,Artificial Intelligence Machine Learning Robotics",
     "language": "English",
-    "totalCount": 22
+    "totalCount": 24
   },
   {
     "card_type": "in-person",
@@ -2103,7 +2025,7 @@
     "data_topics": "ruby,functional-programming,erlang-programming,web-technology,elixir",
     "data_topic_names": "Ruby,Functional Programming,Erlang Programming,Web Technology,Elixir",
     "language": "English",
-    "totalCount": 3
+    "totalCount": 4
   },
   {
     "card_type": "online",
@@ -2168,7 +2090,7 @@
     "data_topics": "python,open-source,make-new-friends,chill,hanging-out",
     "data_topic_names": "Python,Open Source,Make New Friends,Chill,Hanging Out",
     "language": "Polish",
-    "totalCount": 7
+    "totalCount": 8
   },
   {
     "card_type": "online",
@@ -2194,7 +2116,7 @@
     "data_topics": "business-intelligence,data-visualization,dax-power-bi,power-bi,data-analytics",
     "data_topic_names": "Business Intelligence,Data Visualization,DAX Power BI,Power BI,Data Analytics",
     "language": "English",
-    "totalCount": 11
+    "totalCount": 13
   },
   {
     "card_type": "in-person",
@@ -2220,7 +2142,7 @@
     "data_topics": "new-technology,postgresql,data-management",
     "data_topic_names": "New Technology,PostgreSQL,Data Management",
     "language": "English",
-    "totalCount": 33
+    "totalCount": 36
   },
   {
     "card_type": "in-person",
@@ -2233,7 +2155,7 @@
     "data_topics": "new-technology,web-development,computer-programming,web-technology,javascript",
     "data_topic_names": "New Technology,Web Development,Computer Programming,Web Technology,JavaScript",
     "language": "English",
-    "totalCount": 25
+    "totalCount": 27
   },
   {
     "card_type": "in-person",
@@ -2259,7 +2181,7 @@
     "data_topics": "programming-in-r,r-project-for-statistical-computing,data-science",
     "data_topic_names": "Programming in R,R Project for Statistical Computing,Data Science",
     "language": "English",
-    "totalCount": 30
+    "totalCount": 29
   },
   {
     "card_type": "in-person",
@@ -2272,7 +2194,7 @@
     "data_topics": "web-standards,open-source,web-development,software-architecture,software-development",
     "data_topic_names": "Web Standards,Open Source,Web Development,Software Architecture,Software Development",
     "language": "French",
-    "totalCount": 12
+    "totalCount": 15
   },
   {
     "card_type": "online",
@@ -2311,7 +2233,7 @@
     "data_topics": "data-visualization,scientific-computing,deep-learning,open-source-python,machine-learning-with-python",
     "data_topic_names": "Data Visualization,Scientific Computing,Deep Learning,Open Source Python,Machine Learning with Python",
     "language": "English",
-    "totalCount": 5
+    "totalCount": 8
   },
   {
     "card_type": "in-person",
@@ -2337,7 +2259,7 @@
     "data_topics": "python,programming-languages,computer-programming,new-product-development-software-tech,information-technology",
     "data_topic_names": "Python,Programming Languages,Computer Programming,New Product Development: Software & Tech,Information Technology",
     "language": "English",
-    "totalCount": 4
+    "totalCount": 6
   },
   {
     "card_type": "in-person",
@@ -2441,7 +2363,7 @@
     "data_topics": "php-application-development,computer-programming,php-framework,php,beginner-php-programming",
     "data_topic_names": "PHP Application Development,Computer Programming,PHP Framework,PHP,Beginner PHP Programming",
     "language": "English",
-    "totalCount": 5
+    "totalCount": 6
   },
   {
     "card_type": "in-person",
@@ -2480,7 +2402,7 @@
     "data_topics": "computer-programming,software-development,education-technology,rust",
     "data_topic_names": "Computer Programming,Software Development,Education & Technology,Rust",
     "language": "English",
-    "totalCount": 5
+    "totalCount": 6
   },
   {
     "card_type": "in-person",
@@ -2545,7 +2467,7 @@
     "data_topics": "python,women-s-business-networking,open-source,django,web-development,women-s-empowerment,computer-programming,software-development,pyladies",
     "data_topic_names": "Python,Women's Business Networking,Open Source,Django,Web Development,Women's Empowerment,Computer Programming,Software Development,PyLadies",
     "language": "English",
-    "totalCount": 11
+    "totalCount": 12
   },
   {
     "card_type": "online",
@@ -2559,6 +2481,19 @@
     "data_topic_names": "Python,Open Source,Computer Programming,Women in Computing,PyLadies",
     "language": "English",
     "totalCount": 1
+  },
+  {
+    "card_type": "online",
+    "badge_text": "Online",
+    "date_str": "2026-11-13",
+    "utc_datetime": "2026-11-13T21:00:00-03:00",
+    "event_url": "https://www.meetup.com/dotnet-sao-paulo/events/317173334/",
+    "title": "[Online] Monitoramento e Segurança - aplicações, infra, container, nuvem | 17 ed",
+    "group_name": ".NET São Paulo",
+    "data_topics": "-net,c-,open-source,web-development,asp-net,microsoft,software-architecture,ui-ux-design,devops,software-development,microsoft-azure,sql-server",
+    "data_topic_names": ".NET,C#,Open Source,Web Development,ASP.NET,Microsoft,Software Architecture,UI/UX Design,DevOps,Software Development,Microsoft Azure,SQL Server",
+    "language": "Portuguese",
+    "totalCount": 10
   },
   {
     "card_type": "online",
@@ -2597,7 +2532,7 @@
     "data_topics": "python,data-science-using-python,python-web-development,open-source-python,machine-learning-with-python",
     "data_topic_names": "Python,Data Science using Python,Python Web Development,Open Source Python,Machine Learning with Python",
     "language": "English",
-    "totalCount": 11
+    "totalCount": 13
   },
   {
     "card_type": "in-person",
@@ -2610,7 +2545,7 @@
     "data_topics": "internet-professionals,entrepreneurship,team-building,artificial-intelligence-programming,hackathons",
     "data_topic_names": "Internet Professionals,Entrepreneurship,Team Building,Artificial Intelligence Programming,Hackathons",
     "language": "Japanese",
-    "totalCount": 23
+    "totalCount": 28
   },
   {
     "card_type": "in-person",
@@ -2636,7 +2571,7 @@
     "data_topics": "open-source,artificial-intelligence,ai-algorithms",
     "data_topic_names": "Open Source,Artificial Intelligence,AI Algorithms",
     "language": "Chinese",
-    "totalCount": 2
+    "totalCount": 3
   },
   {
     "card_type": "in-person",
@@ -2675,7 +2610,7 @@
     "data_topics": "linux,open-source,computer-programming,devops,web-technology",
     "data_topic_names": "Linux,Open Source,Computer Programming,DevOps,Web Technology",
     "language": "English",
-    "totalCount": 20
+    "totalCount": 21
   },
   {
     "card_type": "in-person",
@@ -2818,7 +2753,7 @@
     "data_topics": "python,open-source,programming-languages,computer-programming,software-development",
     "data_topic_names": "Python,Open Source,Programming Languages,Computer Programming,Software Development",
     "language": "Spanish",
-    "totalCount": 7
+    "totalCount": 9
   },
   {
     "card_type": "in-person",
@@ -2844,7 +2779,20 @@
     "data_topics": "open-source,programming-languages,computer-programming,rust,software-engineering",
     "data_topic_names": "Open Source,Programming Languages,Computer Programming,Rust,Software Engineering",
     "language": "English",
-    "totalCount": 6
+    "totalCount": 7
+  },
+  {
+    "card_type": "in-person",
+    "badge_text": "In-Person",
+    "date_str": "2026-11-14",
+    "utc_datetime": "2026-11-14T13:30:00-03:00",
+    "event_url": "https://www.meetup.com/clojure-br/events/317317764/",
+    "title": "[Campinas] Escrevendo um LISP em Clojure",
+    "group_name": "Clojure BR",
+    "data_topics": "technology,functional-programming,clojure,jvm-languages,lisp",
+    "data_topic_names": "Technology,Functional Programming,Clojure,JVM Languages,Lisp",
+    "language": "Portuguese",
+    "totalCount": 2
   },
   {
     "card_type": "online",
@@ -2858,6 +2806,19 @@
     "data_topic_names": "Python,Django,Web Development,Computer Programming,Software Development",
     "language": "English",
     "totalCount": 4
+  },
+  {
+    "card_type": "in-person",
+    "badge_text": "In-Person",
+    "date_str": "2026-11-14",
+    "utc_datetime": "2026-11-14T20:00:00Z",
+    "event_url": "https://www.meetup.com/quizknights-at-delphi-cheesesteaks/events/317311259/",
+    "title": "QuizKnights at Delphi American Street Food",
+    "group_name": "Quiz Knights at Delphi Cheesesteaks",
+    "data_topics": "foodie,trivia,restaurant,exploring-new-restaurants,pub-trivia-quiz",
+    "data_topic_names": "Foodie,Trivia,Restaurant,Exploring New Restaurants,Pub Trivia Quiz",
+    "language": "English",
+    "totalCount": 1
   },
   {
     "card_type": "online",
@@ -2988,6 +2949,19 @@
     "data_topic_names": "Web Design,Open Source,Web Development,SEO (Search Engine Optimization),WordPress",
     "language": "Chinese",
     "totalCount": 11
+  },
+  {
+    "card_type": "in-person",
+    "badge_text": "In-Person",
+    "date_str": "2026-11-15",
+    "utc_datetime": "2026-11-15T03:00:00-03:00",
+    "event_url": "https://www.meetup.com/dotnet-sao-paulo/events/316937465/",
+    "title": "[Online] Database Weekend 2026 - 1a edição: SQL Server, PostgreSQL, MySQL...",
+    "group_name": ".NET São Paulo",
+    "data_topics": "-net,c-,open-source,web-development,asp-net,microsoft,software-architecture,ui-ux-design,devops,software-development,microsoft-azure,sql-server",
+    "data_topic_names": ".NET,C#,Open Source,Web Development,ASP.NET,Microsoft,Software Architecture,UI/UX Design,DevOps,Software Development,Microsoft Azure,SQL Server",
+    "language": "Portuguese",
+    "totalCount": 9
   },
   {
     "card_type": "in-person",
@@ -3169,7 +3143,7 @@
     "data_topics": "game-programming,video-games,game-design,video-game-development,video-game-design",
     "data_topic_names": "Game Programming,Video Games,Game Design,Video Game Development,Video Game Design",
     "language": "English",
-    "totalCount": 70
+    "totalCount": 71
   },
   {
     "card_type": "in-person",
@@ -3221,7 +3195,7 @@
     "data_topics": "entrepreneurship,startup-businesses,lean-startup,vc-funding",
     "data_topic_names": "Entrepreneurship,Startup Businesses,Lean Startup,VC Funding",
     "language": "English",
-    "totalCount": 38
+    "totalCount": 43
   },
   {
     "card_type": "in-person",
@@ -3234,7 +3208,7 @@
     "data_topics": "java,artificial-intelligence-applications,software-development,artificial-intelligence",
     "data_topic_names": "Java,Artificial Intelligence Applications,Software Development,Artificial Intelligence",
     "language": "English",
-    "totalCount": 29
+    "totalCount": 30
   },
   {
     "card_type": "in-person",
@@ -3390,7 +3364,7 @@
     "data_topics": "open-source,data-science,artificial-intelligence,machine-learning,data-engineering",
     "data_topic_names": "Open Source,Data Science,Artificial Intelligence,Machine Learning,Data Engineering",
     "language": "English",
-    "totalCount": 151
+    "totalCount": 153
   },
   {
     "card_type": "in-person",
@@ -3468,7 +3442,7 @@
     "data_topics": "web-development,programming-languages,php-application-development,computer-programming,javascript-frameworks,php-framework,php,application-development,laravel,symfony",
     "data_topic_names": "Web Development,Programming Languages,PHP Application Development,Computer Programming,JavaScript Frameworks,PHP Framework,PHP,Application Development,Laravel,Symfony",
     "language": "English",
-    "totalCount": 35
+    "totalCount": 34
   },
   {
     "card_type": "in-person",
@@ -3559,7 +3533,7 @@
     "data_topics": "organizing,open-source,software-development,rust,rustlang",
     "data_topic_names": "Organizing,Open Source,Software Development,Rust,Rustlang",
     "language": "English",
-    "totalCount": 3
+    "totalCount": 4
   },
   {
     "card_type": "in-person",
@@ -3767,7 +3741,7 @@
     "data_topics": "cloud-computing,github,devops,software-development",
     "data_topic_names": "Cloud Computing,Github,DevOps,Software Development",
     "language": "English",
-    "totalCount": 20
+    "totalCount": 23
   },
   {
     "card_type": "in-person",
@@ -3845,7 +3819,7 @@
     "data_topics": "computer-programming,java,software-development",
     "data_topic_names": "Computer Programming,Java,Software Development",
     "language": "English",
-    "totalCount": 48
+    "totalCount": 49
   },
   {
     "card_type": "in-person",
@@ -3858,7 +3832,7 @@
     "data_topics": "cats,community,gaming,computer-gaming,afterwork",
     "data_topic_names": "Cats,Community,Gaming,Computer Gaming,Afterwork",
     "language": "English",
-    "totalCount": 2
+    "totalCount": 3
   },
   {
     "card_type": "in-person",
@@ -3913,6 +3887,19 @@
     "totalCount": 29
   },
   {
+    "card_type": "in-person",
+    "badge_text": "In-Person",
+    "date_str": "2026-11-18",
+    "utc_datetime": "2026-11-18T19:00:00+01:00",
+    "event_url": "https://www.meetup.com/romajs/events/317313154/",
+    "title": "Le leggi italiane dal 1861 ad oggi, tutte in un repo",
+    "group_name": "RomaJS",
+    "data_topics": "web-design,open-source,mobile-development,computer-programming,html5,javascript-frameworks,server-side-javascript,web-technology,javascript-applications,javascript-libraries,javascript-testing,nodejs,javascript",
+    "data_topic_names": "Web Design,Open Source,Mobile Development,Computer Programming,HTML5,JavaScript Frameworks,Server Side Javascript,Web Technology,JavaScript Applications,JavaScript Libraries,JavaScript Testing,nodeJS,JavaScript",
+    "language": "Italian",
+    "totalCount": 4
+  },
+  {
     "card_type": "online",
     "badge_text": "Online",
     "date_str": "2026-11-18",
@@ -3949,7 +3936,7 @@
     "data_topics": "java,jvm-languages,software-development",
     "data_topic_names": "Java,JVM Languages,Software Development",
     "language": "Spanish",
-    "totalCount": 2
+    "totalCount": 3
   },
   {
     "card_type": "in-person",
@@ -3962,7 +3949,33 @@
     "data_topics": "java,jvm-languages,software-development",
     "data_topic_names": "Java,JVM Languages,Software Development",
     "language": "Spanish",
-    "totalCount": 22
+    "totalCount": 27
+  },
+  {
+    "card_type": "in-person",
+    "badge_text": "In-Person",
+    "date_str": "2026-11-18",
+    "utc_datetime": "2026-11-18T18:30:00Z",
+    "event_url": "https://www.meetup.com/londongophers/events/317315825/",
+    "title": "November Gophers @ Automata!",
+    "group_name": "London Gophers",
+    "data_topics": "open-source,programming-languages,high-performance-computing,software-development,golang",
+    "data_topic_names": "Open Source,Programming Languages,High Performance Computing,Software Development,Golang",
+    "language": "English",
+    "totalCount": 5
+  },
+  {
+    "card_type": "in-person",
+    "badge_text": "In-Person",
+    "date_str": "2026-11-18",
+    "utc_datetime": "2026-11-18T18:30:00Z",
+    "event_url": "https://www.meetup.com/leedsphp/events/317318669/",
+    "title": "Tickets & Trade-offs, Semantic Search & MongoDB",
+    "group_name": "Leeds PHP Meetup",
+    "data_topics": "web-development,php-application-development,software-development,php,software-engineering",
+    "data_topic_names": "Web Development,PHP Application Development,Software Development,PHP,Software Engineering",
+    "language": "English",
+    "totalCount": 1
   },
   {
     "card_type": "in-person",
@@ -4261,7 +4274,7 @@
     "data_topics": "python,open-source,software-development,agile-and-scrum,javascript",
     "data_topic_names": "Python,Open Source,Software Development,Agile and Scrum,JavaScript",
     "language": "English",
-    "totalCount": 41
+    "totalCount": 44
   },
   {
     "card_type": "in-person",
@@ -4339,7 +4352,7 @@
     "data_topics": "web-development,computer-programming,software-development,php,web-technology",
     "data_topic_names": "Web Development,Computer Programming,Software Development,PHP,Web Technology",
     "language": "Bokmal",
-    "totalCount": 8
+    "totalCount": 9
   },
   {
     "card_type": "in-person",
@@ -4456,7 +4469,7 @@
     "data_topics": "github,devops,infrastructure-as-code,kubernetes",
     "data_topic_names": "Github,DevOps,Infrastructure as Code,Kubernetes",
     "language": "French",
-    "totalCount": 8
+    "totalCount": 14
   },
   {
     "card_type": "in-person",
@@ -4495,7 +4508,20 @@
     "data_topics": "python,open-source,new-technology,artificial-intelligence",
     "data_topic_names": "Python,Open Source,New Technology,Artificial Intelligence",
     "language": "Italian",
-    "totalCount": 12
+    "totalCount": 16
+  },
+  {
+    "card_type": "in-person",
+    "badge_text": "In-Person",
+    "date_str": "2026-11-19",
+    "utc_datetime": "2026-11-19T19:00:00+01:00",
+    "event_url": "https://www.meetup.com/python-afpy-lyon/events/317311531/",
+    "title": "Retours de la PyConFR 2026",
+    "group_name": "Python AFPY - Lyon",
+    "data_topics": "python,open-source,new-technology,web-development,programming-languages,computer-programming,software-development,web-technology,python-web-development,open-source-python",
+    "data_topic_names": "Python,Open Source,New Technology,Web Development,Programming Languages,Computer Programming,Software Development,Web Technology,Python Web Development,Open Source Python",
+    "language": "French",
+    "totalCount": 3
   },
   {
     "card_type": "online",
@@ -4638,7 +4664,7 @@
     "data_topics": "python,geospatial,software-development",
     "data_topic_names": "Python,Geospatial,Software Development",
     "language": "English",
-    "totalCount": 10
+    "totalCount": 11
   },
   {
     "card_type": "in-person",
@@ -4651,7 +4677,7 @@
     "data_topics": "open-source,statistical-science,artificial-intelligence",
     "data_topic_names": "Open Source,Statistical Science,Artificial Intelligence",
     "language": "English",
-    "totalCount": 46
+    "totalCount": 49
   },
   {
     "card_type": "online",
@@ -4677,7 +4703,7 @@
     "data_topics": "python,software-development",
     "data_topic_names": "Python,Software Development",
     "language": "English",
-    "totalCount": 10
+    "totalCount": 11
   },
   {
     "card_type": "online",
@@ -4846,7 +4872,7 @@
     "data_topics": "python,open-source,django,web-development,programming-languages,functional-programming,computer-programming,software-development,python-web-development,open-source-python,data-analytics",
     "data_topic_names": "Python,Open Source,Django,Web Development,Programming Languages,Functional Programming,Computer Programming,Software Development,Python Web Development,Open Source Python,Data Analytics",
     "language": "English",
-    "totalCount": 97
+    "totalCount": 102
   },
   {
     "card_type": "in-person",
@@ -4859,7 +4885,7 @@
     "data_topics": "open-source,technology,stream-processing,apache-kafka,apache-flink",
     "data_topic_names": "Open Source,Technology,Stream Processing,Apache Kafka,Apache Flink",
     "language": "English",
-    "totalCount": 1
+    "totalCount": 5
   },
   {
     "card_type": "in-person",
@@ -4885,7 +4911,7 @@
     "data_topics": "new-in-town,nightlife,social-networking,international-friends,language-exchange",
     "data_topic_names": "New In Town,Nightlife,Social Networking,International Friends,Language Exchange",
     "language": "Japanese",
-    "totalCount": 6
+    "totalCount": 7
   },
   {
     "card_type": "in-person",
@@ -4937,7 +4963,7 @@
     "data_topics": "open-source,new-technology,microsoft,saas-software-as-a-service-,crm-customer-relationship-management,microsoft-dynamics-ax,information-technology,erp-consulting,erp-software,technology-professionals,microsoft-dynamics,microsoft-power-platform",
     "data_topic_names": "Open Source,New Technology,Microsoft,SaaS (Software as a Service),CRM/Customer Relationship Management,Microsoft Dynamics AX,Information Technology,ERP Consulting,ERP Software,Technology Professionals,Microsoft Dynamics,Microsoft Power Platform",
     "language": "English",
-    "totalCount": 10
+    "totalCount": 11
   },
   {
     "card_type": "online",
@@ -5005,6 +5031,19 @@
     "totalCount": 3
   },
   {
+    "card_type": "in-person",
+    "badge_text": "In-Person",
+    "date_str": "2026-11-21",
+    "utc_datetime": "2026-11-21T13:30:00-03:00",
+    "event_url": "https://www.meetup.com/clojure-br/events/317317770/",
+    "title": "[Campinas] Escrevendo Java WebServlets em Clojure",
+    "group_name": "Clojure BR",
+    "data_topics": "technology,functional-programming,clojure,jvm-languages,lisp",
+    "data_topic_names": "Technology,Functional Programming,Clojure,JVM Languages,Lisp",
+    "language": "Portuguese",
+    "totalCount": 2
+  },
+  {
     "card_type": "online",
     "badge_text": "Online",
     "date_str": "2026-11-21",
@@ -5041,7 +5080,7 @@
     "data_topics": "python,web-development,programming-languages,computer-programming,software-development,python-web-development",
     "data_topic_names": "Python,Web Development,Programming Languages,Computer Programming,Software Development,Python Web Development",
     "language": "English",
-    "totalCount": 7
+    "totalCount": 8
   },
   {
     "card_type": "online",
@@ -5145,7 +5184,7 @@
     "data_topics": "social,travel,eating-drinking,coffeehouse,international-friends",
     "data_topic_names": "Social,Travel,Eating & Drinking,Coffeehouse,International Friends",
     "language": "Japanese",
-    "totalCount": 26
+    "totalCount": 27
   },
   {
     "card_type": "in-person",
@@ -5418,7 +5457,7 @@
     "data_topics": "python,open-source,programming-languages,technology,software-development",
     "data_topic_names": "Python,Open Source,Programming Languages,Technology,Software Development",
     "language": "English",
-    "totalCount": 11
+    "totalCount": 12
   },
   {
     "card_type": "in-person",
@@ -5535,7 +5574,7 @@
     "data_topics": "android,mobile-development,computer-programming,object-oriented-programming,design-patterns,java,java-concurrency,software-development",
     "data_topic_names": "Android,Mobile Development,Computer Programming,Object Oriented Programming,Design Patterns,Java,Java Concurrency,Software Development",
     "language": "Polish",
-    "totalCount": 26
+    "totalCount": 28
   },
   {
     "card_type": "in-person",
@@ -5561,7 +5600,7 @@
     "data_topics": "open-source,computer-programming,concurrent-programming,software-development,golang",
     "data_topic_names": "Open Source,Computer Programming,Concurrent Programming,Software Development,Golang",
     "language": "English",
-    "totalCount": 49
+    "totalCount": 50
   },
   {
     "card_type": "in-person",
@@ -5587,7 +5626,7 @@
     "data_topics": "postgresql,sql,database-administrator,devops,artificial-intelligence",
     "data_topic_names": "PostgreSQL,SQL,Database Administrator,DevOps,Artificial Intelligence",
     "language": "French",
-    "totalCount": 15
+    "totalCount": 17
   },
   {
     "card_type": "in-person",
@@ -5626,7 +5665,7 @@
     "data_topics": "computer-programming,api,software-development,artificial-intelligence",
     "data_topic_names": "Computer Programming,API,Software Development,Artificial Intelligence",
     "language": "French",
-    "totalCount": 44
+    "totalCount": 46
   },
   {
     "card_type": "online",
@@ -5925,7 +5964,7 @@
     "data_topics": "python,open-source,data-science,machine-learning,numpy",
     "data_topic_names": "Python,Open Source,Data Science,Machine Learning,Numpy",
     "language": "English",
-    "totalCount": 37
+    "totalCount": 40
   },
   {
     "card_type": "in-person",
@@ -5990,7 +6029,7 @@
     "data_topics": "open-source,functional-programming,java,software-engineers,scala",
     "data_topic_names": "Open Source,Functional Programming,Java,Software Engineers,Scala",
     "language": "English",
-    "totalCount": 24
+    "totalCount": 29
   },
   {
     "card_type": "in-person",
@@ -6029,7 +6068,7 @@
     "data_topics": "ruby,open-source,web-development,computer-programming,software-development",
     "data_topic_names": "Ruby,Open Source,Web Development,Computer Programming,Software Development",
     "language": "English",
-    "totalCount": 4
+    "totalCount": 5
   },
   {
     "card_type": "in-person",
@@ -6094,7 +6133,7 @@
     "data_topics": "database-professionals,open-source,business-intelligence,business-intelligence-data-warehousing,real-time,data-visualization,data-mining,data-science,software-development,database-development,big-data,data-warehouse,data-analytics",
     "data_topic_names": "Database Professionals,Open Source,Business Intelligence,Business Intelligence & Data Warehousing,Real-Time,Data Visualization,Data Mining,Data Science,Software Development,Database Development,Big Data,Data Warehouse,Data Analytics",
     "language": "English",
-    "totalCount": 16
+    "totalCount": 17
   },
   {
     "card_type": "in-person",
@@ -6108,6 +6147,19 @@
     "data_topic_names": "Open Source,Functional Programming,F# Programming,FSharp,OCaml Programming",
     "language": "English",
     "totalCount": 34
+  },
+  {
+    "card_type": "in-person",
+    "badge_text": "In-Person",
+    "date_str": "2026-11-26",
+    "utc_datetime": "2026-11-26T18:00:00+02:00",
+    "event_url": "https://www.meetup.com/jozi-js/events/317311568/",
+    "title": "Jozi.JS November - Goodbye 2026",
+    "group_name": "Jozi.JS",
+    "data_topics": "javascript-frameworks,web-technology,web-application,nodejs,javascript",
+    "data_topic_names": "JavaScript Frameworks,Web Technology,Web Application,nodeJS,JavaScript",
+    "language": "English",
+    "totalCount": 4
   },
   {
     "card_type": "online",
@@ -6237,7 +6289,7 @@
     "data_topics": "open-source,programming-languages,user-group,software-development,rust",
     "data_topic_names": "Open Source,Programming Languages,User Group,Software Development,Rust",
     "language": "English",
-    "totalCount": 47
+    "totalCount": 49
   },
   {
     "card_type": "in-person",
@@ -6276,7 +6328,7 @@
     "data_topics": "-net,web-development,software-development,microsoft-azure,artificial-intelligence",
     "data_topic_names": ".NET,Web Development,Software Development,Microsoft Azure,Artificial Intelligence",
     "language": "English",
-    "totalCount": 12
+    "totalCount": 13
   },
   {
     "card_type": "in-person",
@@ -6316,6 +6368,19 @@
     "data_topic_names": "Python,Open Source,Business Intelligence,Cloud Computing,Computer Programming,Data Visualization,Data Mining,Data Science,Software Development,Data Science using Python,Machine Learning,Python Web Development,Big Data,Julia Programming Language,Data Analytics",
     "language": "English",
     "totalCount": 2
+  },
+  {
+    "card_type": "in-person",
+    "badge_text": "In-Person",
+    "date_str": "2026-11-26",
+    "utc_datetime": "2026-11-26T16:30:00-08:00",
+    "event_url": "https://www.meetup.com/pydata_seattle/events/317316794/",
+    "title": "PyData Seattle x OSS - Meetup",
+    "group_name": "PyData Seattle",
+    "data_topics": "python,open-source,business-intelligence,cloud-computing,computer-programming,data-visualization,data-mining,data-science,software-development,data-science-using-python,machine-learning,python-web-development,big-data,julia-programming-language,data-analytics",
+    "data_topic_names": "Python,Open Source,Business Intelligence,Cloud Computing,Computer Programming,Data Visualization,Data Mining,Data Science,Software Development,Data Science using Python,Machine Learning,Python Web Development,Big Data,Julia Programming Language,Data Analytics",
+    "language": "English",
+    "totalCount": 3
   },
   {
     "card_type": "in-person",
@@ -7095,7 +7160,7 @@
     "data_topics": "open-source,programming-languages,rust",
     "data_topic_names": "Open Source,Programming Languages,Rust",
     "language": "French",
-    "totalCount": 51
+    "totalCount": 56
   },
   {
     "card_type": "in-person",
@@ -7251,7 +7316,7 @@
     "data_topics": "open-source,programming-languages,computer-programming,observability,golang",
     "data_topic_names": "Open Source,Programming Languages,Computer Programming,Observability,Golang",
     "language": "Spanish",
-    "totalCount": 2
+    "totalCount": 5
   },
   {
     "card_type": "in-person",
@@ -7329,7 +7394,7 @@
     "data_topics": "database-professionals,database-development,sql-azure",
     "data_topic_names": "Database Professionals,Database Development,SQL Azure",
     "language": "English",
-    "totalCount": 15
+    "totalCount": 16
   },
   {
     "card_type": "in-person",
@@ -7342,7 +7407,7 @@
     "data_topics": "open-source,programming-languages,haskell,functional-programming,clojure,computer-programming,erlang-programming,jvm-languages,software-development,lisp,scala",
     "data_topic_names": "Open Source,Programming Languages,Haskell,Functional Programming,Clojure,Computer Programming,Erlang Programming,JVM Languages,Software Development,Lisp,Scala",
     "language": "English",
-    "totalCount": 8
+    "totalCount": 9
   },
   {
     "card_type": "in-person",
@@ -7356,6 +7421,32 @@
     "data_topic_names": "Open Source,Programming Languages,Haskell,Functional Programming,Clojure,Computer Programming,Erlang Programming,JVM Languages,Software Development,Lisp,Scala",
     "language": "English",
     "totalCount": 3
+  },
+  {
+    "card_type": "online",
+    "badge_text": "Online",
+    "date_str": "2026-12-03",
+    "utc_datetime": "2026-12-03T10:00:00.000+02:00",
+    "event_url": "https://luma.com/8h4kzkwo",
+    "title": "Draft for Imre Rad",
+    "group_name": "DevOps Maven",
+    "data_topics": "devops",
+    "data_topic_names": "DevOps",
+    "language": "English",
+    "totalCount": null
+  },
+  {
+    "card_type": "in-person",
+    "badge_text": "In-Person",
+    "date_str": "2026-12-03",
+    "utc_datetime": "2026-12-03T17:30:00+01:00",
+    "event_url": "https://www.meetup.com/postgresql-user-group-nl/events/317311935/",
+    "title": "PostgreSQL Usergroup NL Meetup - The Winter Edition",
+    "group_name": "PostgreSQL User Group NL",
+    "data_topics": "mysql,database-professionals,postgresql,database-development,sql-server,data-analytics",
+    "data_topic_names": "MySQL,Database Professionals,PostgreSQL,Database Development,SQL Server,Data Analytics",
+    "language": "English",
+    "totalCount": 33
   },
   {
     "card_type": "in-person",
@@ -7511,7 +7602,7 @@
     "data_topics": "artificial-intelligence,microsoft-dynamics,microsoft-power-platform",
     "data_topic_names": "Artificial Intelligence,Microsoft Dynamics,Microsoft Power Platform",
     "language": "English",
-    "totalCount": 7
+    "totalCount": 10
   },
   {
     "card_type": "online",
@@ -7589,7 +7680,7 @@
     "data_topics": "python,software-development",
     "data_topic_names": "Python,Software Development",
     "language": "English",
-    "totalCount": 8
+    "totalCount": 10
   },
   {
     "card_type": "in-person",
@@ -7810,7 +7901,7 @@
     "data_topics": "open-source,programming-languages,functional-programming,computer-programming,software-development,rust",
     "data_topic_names": "Open Source,Programming Languages,Functional Programming,Computer Programming,Software Development,Rust",
     "language": "English",
-    "totalCount": 102
+    "totalCount": 105
   },
   {
     "card_type": "in-person",
@@ -8005,7 +8096,7 @@
     "data_topics": "mandarin,chinese-language,language-culture,taiwan,mandarin-learning",
     "data_topic_names": "Mandarin,Chinese Language,Language & Culture,Taiwan,Mandarin Learning",
     "language": "Japanese",
-    "totalCount": 10
+    "totalCount": 13
   },
   {
     "card_type": "in-person",
@@ -8031,6 +8122,71 @@
     "data_topics": "pizza,natural-language-processing,parties-socializing,language-learning,english,japanese,language-culture,language-exchange",
     "data_topic_names": "Pizza,Natural Language Processing,Parties & Socializing,Language Learning,English,Japanese,Language & Culture,Language Exchange",
     "language": "Japanese",
+    "totalCount": 1
+  },
+  {
+    "card_type": "in-person",
+    "badge_text": "In-Person",
+    "date_str": "2026-12-06",
+    "utc_datetime": "2026-12-06T13:30:00+09:00",
+    "event_url": "https://www.meetup.com/%E3%83%A4%E3%83%9F%E3%83%88%E3%83%A2%E4%BA%A4%E6%B5%81%E4%BC%9A/events/317202241/",
+    "title": "【最大30名】心が疲れた人の交流会『ヤミトモ』《累計10,000名参加》◆1ドリンク付き",
+    "group_name": "ヤミトモ交流会",
+    "data_topics": "personal-growth,social-anxiety,mental-health-support,anxiety,mental-health-peer-support",
+    "data_topic_names": "Personal Growth,Social Anxiety,Mental Health Support,Anxiety,Mental Health Peer Support",
+    "language": "Japanese",
+    "totalCount": 9
+  },
+  {
+    "card_type": "in-person",
+    "badge_text": "In-Person",
+    "date_str": "2026-12-06",
+    "utc_datetime": "2026-12-06T15:30:00+09:00",
+    "event_url": "https://www.meetup.com/%E3%83%A4%E3%83%9F%E3%83%88%E3%83%A2%E4%BA%A4%E6%B5%81%E4%BC%9A/events/317202245/",
+    "title": "【最大30名】心が疲れた人の交流会『ヤミトモ』《累計10,000名参加》◆1ドリンク付き",
+    "group_name": "ヤミトモ交流会",
+    "data_topics": "personal-growth,social-anxiety,mental-health-support,anxiety,mental-health-peer-support",
+    "data_topic_names": "Personal Growth,Social Anxiety,Mental Health Support,Anxiety,Mental Health Peer Support",
+    "language": "Japanese",
+    "totalCount": 9
+  },
+  {
+    "card_type": "online",
+    "badge_text": "Online",
+    "date_str": "2026-12-06",
+    "utc_datetime": "2026-12-06T10:00:00.000+02:00",
+    "event_url": "https://luma.com/is9ow917",
+    "title": "Using LLMs as coding agents",
+    "group_name": "Perl 🐪 Maven",
+    "data_topics": "perl",
+    "data_topic_names": "Perl",
+    "language": "English",
+    "totalCount": null
+  },
+  {
+    "card_type": "in-person",
+    "badge_text": "In-Person",
+    "date_str": "2026-12-06",
+    "utc_datetime": "2026-12-06T12:30:00-05:00",
+    "event_url": "https://www.meetup.com/bostonpython/events/dwctwtyjcqbjb/",
+    "title": "Python Over Coffee",
+    "group_name": "The Boston Python User Group",
+    "data_topics": "python,open-source,django,web-development,computer-programming,data-science,software-development,machine-learning,web-technology,python-web-development,open-source-python",
+    "data_topic_names": "Python,Open Source,Django,Web Development,Computer Programming,Data Science,Software Development,Machine Learning,Web Technology,Python Web Development,Open Source Python",
+    "language": "English",
+    "totalCount": 1
+  },
+  {
+    "card_type": "in-person",
+    "badge_text": "In-Person",
+    "date_str": "2026-12-06",
+    "utc_datetime": "2026-12-06T16:00:00-05:00",
+    "event_url": "https://www.meetup.com/vuejsindy/events/ptflxtyjcqbjb/",
+    "title": "Code and Tea at Panera",
+    "group_name": "Vue.js Indy",
+    "data_topics": "web-development,tea,javascript,vue-js,learn-to-code",
+    "data_topic_names": "Web Development,Tea,JavaScript,Vue.js,Learn to Code",
+    "language": "English",
     "totalCount": 1
   }
 ]
