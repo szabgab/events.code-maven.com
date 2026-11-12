@@ -824,7 +824,7 @@ function renderFuturePage(events) {
                         </header>
                         <div class="card-content px-4 py-3 is-flex-grow-1">
                             <a href="${event.event_url}" class="title is-5 is-block mb-2" target="_blank" rel="noopener noreferrer" style="line-clamp: 2; -webkit-line-clamp: 2; display: -webkit-box; -webkit-box-orient: vertical; overflow: hidden; height: 3.0em;">${event.title}</a>
-                            <p class="subtitle is-6 has-text-grey">by ${event.group_name}${event.language ? ' • ' + event.language : ''}${event.totalCount !== undefined && event.totalCount !== null ? ' • ' + event.totalCount + ' RSVPs' : ''}</p>
+                            <p class="subtitle is-6 has-text-grey">by ${event.group_url ? `<a href="${event.group_url}" target="_blank" rel="noopener noreferrer">${event.group_name}</a>` : event.group_name}${event.language ? ' • ' + event.language : ''}${event.totalCount !== undefined && event.totalCount !== null ? ' • ' + event.totalCount + ' RSVPs' : ''}</p>
                         </div>
                         <footer class="card-footer">
                             <a href="${event.event_url}" class="card-footer-item" target="_blank" rel="noopener noreferrer">
@@ -1138,7 +1138,7 @@ function renderPastEvents(events) {
                     </header>
                     <div class="card-content px-4 py-3 is-flex-grow-1">
                         <a href="${event.event_url}" class="title is-5 is-block mb-2" target="_blank" rel="noopener noreferrer" style="line-clamp: 2; -webkit-line-clamp: 2; display: -webkit-box; -webkit-box-orient: vertical; overflow: hidden; height: 3.0em;">${event.title}</a>
-                        <p class="subtitle is-6 has-text-grey">by ${event.group_name}${event.language ? ' • ' + event.language : ''}${event.totalCount !== undefined && event.totalCount !== null ? ' • ' + event.totalCount + ' RSVPs' : ''}</p>
+                        <p class="subtitle is-6 has-text-grey">by ${event.group_url ? `<a href="${event.group_url}" target="_blank" rel="noopener noreferrer">${event.group_name}</a>` : event.group_name}${event.language ? ' • ' + event.language : ''}${event.totalCount !== undefined && event.totalCount !== null ? ' • ' + event.totalCount + ' RSVPs' : ''}</p>
                     </div>
                     <footer class="card-footer">
                         <a href="${event.event_url}" class="card-footer-item" target="_blank" rel="noopener noreferrer">
